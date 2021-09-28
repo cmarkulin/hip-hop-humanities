@@ -1,1 +1,1 @@
-# hip-hop-humanities
+# Hip-Hop Humanities
