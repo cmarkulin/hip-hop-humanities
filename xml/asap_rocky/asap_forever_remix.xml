@@ -1,15 +1,28 @@
-[Intro: A$AP Rocky & T.I.]
+<!--song root
+    intro, verse, chorus, prechorus, outro, bridge (each of these has mood and tone attribute)
+    line for every verse, chorus, etc. 
+    swear element (within line)
+-->
+<!-- tone will be more general: positive, neutral, negative-->
+<!-- mood: more specific -->
+
+
+<song>
+[Intro: A$AP Rocky &amp; T.I.] <!-- eventually consider removing artists names for each verse-->
+<intro>
 Gang! Gang
-They tryna front on the gang!
+<line>They tryna front on the gang!</line>
 They going to remember my name
 Ayy, anybody ever took the time to ask Rocky what A$AP mean to him?
 Well if so, he'll probably tell you, "Always Striving and Prospering"
 A$AP, partna'! Free my nigga, Cap
 R.I.P. Big Phil, R.I.P. A$AP Yams
 Ya dig? (Gang!)
+</intro>
 
+<verse mood = "egoist" tone = "">
 [Verse 1: A$AP Rocky]
-Come fuck with the Mob, shout out to the Lords and the Gods
+Come <swear>fuck</swear> with the Mob, shout out to the Lords and the Gods
 In love with my bitch 'cause she bi
 My ice like the stars, I tell that bitch, "Cover your eyes
 'Cause fuckin' with me, you go blind"
@@ -32,7 +45,7 @@ I'm 'bout my business but I'm alone
 I still had the vision when I was broke
 Fuckin' on bitches and foreign hoes
 Flyin' out womens to boring shows
-I pray to God I don't overdose
+<topic type = "drugs">I pray to God I don't overdose</topic>
 [Pre-Chorus: A$AP Rocky with Kid Cudi]
 I put A$AP on my tat (Woo)
 I put New York on the map (Woo)
@@ -42,14 +55,18 @@ They robbin' boys for the chains (Woo)
 I got Goyard by the sack (Woo)
 I got the boof by the pack (Woo)
 I fucked your boo on her back
+</verse>
 
+<chorus mood = "" tone = "">
 [Chorus: A$AP Rocky with Kid Cudi]
 Gang! Gang! Them boys not flexing the same
 I'm done with adjusting to fame, pull up on your set, leave a stain
 Gang! Gang! I tell her come fuck with the gang
 I tell 'em don't fuck with the gang, it's time to fuck up the whole game!
 Hmm
-
+</chorus>
+ 
+<verse mood = "hopeful" tone = "positive">
 [Verse 2: Kid Cudi]
 I'm free as a bird, I wanted this shit my whole life
 But had all this stress on my mind
@@ -74,6 +91,9 @@ Kids that ain't had someone on they own
 Hang on the words, you each have your song
 Grab on and hold on, won't steer you wrong
 Sing along, sing along, hmm
+</verse>
+
+<prechorus mood = "" tone = "">
 [Pre-Chorus: A$AP Rocky]
 I put A$AP on my tat (Woo)
 I put New York on the map (Woo)
@@ -83,15 +103,18 @@ They robbin' boys for the chains (Woo)
 I got Goyard by the sack (Woo)
 I got the boof by the pack (Woo)
 I fucked your boo on her back (Woo)
+</prechorus>
 
+<chorus>
 [Chorus: A$AP Rocky]
 Gang! Gang! Them boys not flexing the same
 I'm done with adjusting to fame, pull up on your set, leave a stain
 Gang! Gang! I tell her come fuck with the gang
 I tell 'em don't fuck with the gang, it's time to fuck up the whole game!
 (Game, game, game, game)
+</chorus>
 
-[Bridge: A$AP Rocky & Khloe Anna]
+[Bridge: A$AP Rocky &amp; Khloe Anna]
 Gang, gang
 They tryna front on the gang, they gon' remember my name
 True to truth somehow (Gang, gang)
@@ -102,7 +125,7 @@ Gang, A$AP boys come with the flame
 But never truly lied at all, then and now
 True to truth somehow
 But never truly lied at all, then and now
-[Outro: Khloe Anna & Moby]
+[Outro: Khloe Anna &amp; Moby]
 True to truth somehow
 But never truly lied at all, then and now
 True to truth somehow
@@ -119,3 +142,4 @@ But never truly lied at all
 But never truly lied at all, then and now
 I never meant to hurt you (Then and now)
 I never meant to lie
+</song>
