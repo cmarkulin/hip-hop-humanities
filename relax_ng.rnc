@@ -1,0 +1,6 @@
+start = song
+song = element song {verse+}
+verse = element verse {mood, tone, text, line+}
+mood = attribute mood {text}
+tone = attribute tone {text}
+line = element line {text}
