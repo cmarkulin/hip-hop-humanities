@@ -1,100 +1,97 @@
 <song>
-<intro vocals="Kanye West">
-<line>Oh, yeah</line>
-<line>I got the perfect song for the kids to sing</line>
-<line>And all my people that's—</line>
-</intro>
-<chorus vocals="Kanye West" mood="determined" tone="positive">
-<topic type="drugs"><line>Drug dealin' just to get by</line></topic>
-<line>Stack your money 'til it get sky high</line>
-<line>We wasn't supposed to make it past twenty-five</line>
-<line>Joke's on you, we still alive</line>
-<line>Throw your hands up in the sky and say</line>
-<line>"We don't care what people say"</line>
-</chorus>
-<verse vocals="Kanye West" mood="determined" tone="neutral"> 
-<line>If this is your first time hearing this</line>
-<line>You are about to experience something so cold, man</line>
-<line>We never had nothin' handed, took nothin' for granted</line>
-<line>Took nothin' from no man, man, I'm my own man</line>
-<line>But as a shorty, I looked up to the dope man</line>
-<line>Only adult man I knew that wasn't broke, man</line>
-<line>Flicking Starter coats, man—man, you don't know, man</line>
-<line>We don't care what people say</line>
-<line>This is for my niggas outside all winter</line>
-<line>'Cause this summer they ain't finna say, "Next summer, I'm finna..."</line>
-<line>Sitting in the hood like community colleges</line>
-<topic type="family"><line>This dope money here is Lil' Trey's scholarship</line></topic>
-<line>'Cause ain't no tuition for having no ambition</line>
-<line>And ain't no loans for sitting your <swear>ass</swear> at home</line>
-<line>So we forced to sell crack, rap, and get a job</line>
-<line>You gotta do something, man, your <swear>ass</swear> is grown</line>
-</verse>
-<chorus vocals="Kanye West" mood="determined" tone="positive">
-<topic type="drugs"><line>Drug dealin' just to get by</line></topic>
-<line>Stack your money 'til it get sky high</line>
-<line>(Kids, sing! Kids, sing!)</line>
-<line>We wasn't supposed to make it past twenty-five</line>
-<line>Joke's on you, we still alive</line>
-<line>Throw your hands up in the sky and say</line>
-<line>"We don't care what people say"</line>
-</chorus>
-<verse vocals="Kanye West" mood="" tone="">
-<topic type="money"><line>This second verse is for my dogs working nine to five that still hustle</line>
-<line>'Cause a nigga can't shine off $6.55</line>
-<line>And everybody selling makeup, Jacob's</line>
-<line>And bootlegged tapes just to get they cake up</line>
-<line>We put shit on lay-away, then come back</line>
-<line>We claim other people kids on our income tax</line>
-<line>We take that money, cop work, then push packs to get paid</line>
-<line>And we don't care what people say</line>
-<line>Mama say she wanna move South</line>
-<line>Scratching lottery tickets, eyes on a new house</line>
-<line>'Round the same time, Doe ran up in dude house</line>
-<line>Couldn't get a job</line>
-<line>So since he couldn't get work, he figured he'd take work</line>
-<line>The drug game bulimic, it's hard to get weight</line>
-<line>So niggas' money is homo, it's hard to get straight</line>
-<line>But we gon' keep bakin' 'til the day we get cake</line>
-<line>And we don't care what people say, my niggas—</line></topic>
-</verse>
-<chorus vocals="Kanye West" mood="determined" tone="positive">
-<topic type="drugs"><line>Drug dealin' just to get by (Yeah)</line></topic>
-<line>Stack your money 'til it get sky high</line>
-<line>Kids, sing! Kids, sing!</line>
-<line>We wasn't supposed to make it past twenty-five</line>
-<line>Joke's on you, we still alive (Alive, uh-huh)</line>
-<line>Throw your hands up in the sky and say</line>
-<line>"We don't care what people say" (Yeah, yeah, ugh)</line>
-</chorus>
-<verse vocals="Kanye West" mood="angry" tone="negative">
-<line>You know the kids gon' act a fool</line>
-<line>When you stop the programs for after school</line>
-<line>And they DCFS, some of 'em dyslexic</line>
-<line>They favorite 50 Cent song "12 Questions"</line>
-<line>We scream: "rocks, blow, weed, park," see, now we smart</line>
-<line>We ain't retards the way teachers thought</line>
-<line>Hold up, hold fast, we make more cash</line>
-<line>Now, tell my mama I belong in that slow class</line>
-<line>It's bad enough we on welfare</line>
-<line>They tryna put me on the school bus with the space for the wheelchair</line>
-<line>I'm tryna get the car with the chrome-y wheels here</line>
-<line>They tryna cut our lights out like we don't live here</line>
-<line>Look what was handed us, fathers abandoned us</line>
-<line>When we get them hammers, go on, call the ambulance</line>
-<line>Sometimes, I feel no one in this world understands us</line>
-<line>But we don't care what people say, my niggas—</line>
-</verse>
-<chorus vocals="Kanye West" mood="determined" tone="positive">
-<topic type="drugs"><line>Drug dealin' just to get by</line></topic>
-<line>Stack your money 'til it get sky high</line>
-<line>Kids, sing! Kids, sing!</line>
-<line>We wasn't supposed to make it past twenty-five</line>
-<line>Joke's on you, we still alive</line>
-<line>Throw your hands up in the sky and say</line>
-<line>"We don't care what people say"</line>
-</chorus>
+    <intro vocals="Kanye West">
+        <line>Oh, yeah</line>
+        <line>I got the perfect song for the kids to sing</line>
+        <line>And all my people that's—</line>
+    </intro>
+    <chorus vocals="Kanye West" mood="determined" tone="positive">
+        <topic type="drugs"><line>Drug dealin' just to get by</line></topic>
+        <line>Stack your money 'til it get sky high</line>
+        <line>We wasn't supposed to make it past twenty-five</line>
+        <line>Joke's on you, we still alive</line>
+        <line>Throw your hands up in the sky and say</line>
+        <line>"We don't care what people say"</line>
+    </chorus>
+    <verse vocals="Kanye West" mood="determined" tone="neutral"> 
+        <line>If this is your first time hearing this</line>
+        <line>You are about to experience something so cold, man</line>
+        <line>We never had nothin' handed, took nothin' for granted</line>
+        <line>Took nothin' from no man, man, I'm my own man</line>
+        <line>But as a shorty, I looked up to the dope man</line>
+        <line>Only adult man I knew that wasn't broke, man</line>
+        <line>Flicking Starter coats, man—man, you don't know, man</line>
+        <line>We don't care what people say</line>
+        <line>This is for my niggas outside all winter</line>
+        <line>'Cause this summer they ain't finna say, "Next summer, I'm finna..."</line>
+        <line>Sitting in the hood like community colleges</line>
+        <topic type="family"><line>This dope money here is Lil' Trey's scholarship</line></topic>
+        <line>'Cause ain't no tuition for having no ambition</line>
+        <line>And ain't no loans for sitting your <swear>ass</swear> at home</line>
+        <line>So we forced to sell crack, rap, and get a job</line>
+        <line>You gotta do something, man, your <swear>ass</swear> is grown</line>
+    </verse>
+    <chorus vocals="Kanye West" mood="determined" tone="positive">
+        <topic type="drugs"><line>Drug dealin' just to get by</line></topic>
+        <line>Stack your money 'til it get sky high</line>
+        <line><background>Kids, sing! Kids, sing!</background></line>
+        <line>We wasn't supposed to make it past twenty-five</line>
+        <line>Joke's on you, we still alive</line>
+        <line>Throw your hands up in the sky and say</line>
+        <line>"We don't care what people say"</line>
+    </chorus>
+    <verse vocals="Kanye West" mood="" tone="">
+        <topic type="money"><line>This second verse is for my dogs working nine to five that still hustle</line>
+            <line>'Cause a nigga can't shine off $6.55</line>
+            <line>And everybody selling makeup, Jacob's</line>
+            <line>And bootlegged tapes just to get they cake up</line>
+            <line>We put shit on lay-away, then come back</line>
+            <line>We claim other people kids on our income tax</line>
+            <line>We take that money, cop work, then push packs to get paid</line>
+            <line>And we don't care what people say</line>
+            <line>Mama say she wanna move South</line>
+            <line>Scratching lottery tickets, eyes on a new house</line>
+            <line>'Round the same time, Doe ran up in dude house</line>
+            <line>Couldn't get a job</line>
+            <line>So since he couldn't get work, he figured he'd take work</line>
+            <line>The drug game bulimic, it's hard to get weight</line>
+            <line>So niggas' money is homo, it's hard to get straight</line>
+            <line>But we gon' keep bakin' 'til the day we get cake</line>
+            <line>And we don't care what people say, my niggas—</line></topic>
+    </verse>
+    <chorus vocals="Kanye West" mood="determined" tone="positive">
+        <topic type="drugs"><line>Drug dealin' just to get by <background>Yeah</background></line></topic>
+        <line>Stack your money 'til it get sky high</line>
+        <line>Kids, sing! Kids, sing!</line>
+        <line>We wasn't supposed to make it past twenty-five</line>
+        <line>Joke's on you, we still alive <background>Alive, uh-huh</background></line>
+        <line>Throw your hands up in the sky and say</line>
+        <line>"We don't care what people say" <background>Yeah, yeah, ugh</background></line>
+    </chorus>
+    <verse vocals="Kanye West" mood="angry" tone="negative">
+        <line>You know the kids gon' act a fool</line>
+        <line>When you stop the programs for after school</line>
+        <line>And they DCFS, some of 'em dyslexic</line>
+        <line>They favorite 50 Cent song "12 Questions"</line>
+        <line>We scream: "rocks, blow, weed, park," see, now we smart</line>
+        <line>We ain't retards the way teachers thought</line>
+        <line>Hold up, hold fast, we make more cash</line>
+        <line>Now, tell my mama I belong in that slow class</line>
+        <line>It's bad enough we on welfare</line>
+        <line>They tryna put me on the school bus with the space for the wheelchair</line>
+        <line>I'm tryna get the car with the chrome-y wheels here</line>
+        <line>They tryna cut our lights out like we don't live here</line>
+        <line>Look what was handed us, fathers abandoned us</line>
+        <line>When we get them hammers, go on, call the ambulance</line>
+        <line>Sometimes, I feel no one in this world understands us</line>
+        <line>But we don't care what people say, my niggas—</line>
+    </verse>
+    <chorus vocals="Kanye West" mood="determined" tone="positive">
+        <topic type="drugs"><line>Drug dealin' just to get by</line></topic>
+        <line>Stack your money 'til it get sky high</line>
+        <line>Kids, sing! Kids, sing!</line>
+        <line>We wasn't supposed to make it past twenty-five</line>
+        <line>Joke's on you, we still alive</line>
+        <line>Throw your hands up in the sky and say</line>
+        <line>"We don't care what people say"</line>
+    </chorus>
 </song>
-
-
-
