@@ -1,46 +1,51 @@
-[Chorus]
-Well, Lord, I need You to wrap Your arms around me
-Wrap Your arms around with Your mercy
-Lord, I need You to wrap Your arms around me
-I give up on doin' things my way
-And tell me everything's gonna be alright, oh
-
-[Verse]
-When you said give me a ring, you really meant a ring, huh?
-Turned out to be more than just a fling, huh?
-Three hours to get back from Palm Springs, huh?
-Who you know spend an hour in Walgreens, huh?
-You know you'll always be my favorite prom queen
-Even when we in dad shoes or mom jeans
-Too many complaints made it hard for me to think
-Would you shut up? I can't hear myself drink
-We used to do the freak like seven days a week
-It's the best collab since Taco Bell and KFC, uh
-Talk to me nicely, don't come at me loud
-You had a Benz at sixteen, I could barely afford a Audi
-How you gon' try to say sometimes it's not about me?
-Man, I don't know what I would do without me
-Billionaire sport, step up to the court
-They rented a room, we bought the resort
-God got me, baby, God got the children
-The devil run the playground, but God own the buildin'
-Time and silence a luxury
-Cussin' at your baby mama, guess that's why they call it custody
-God got us, baby, God got the children
-The devil run the playground, but God own the buildin'
-Time and space is a luxury
-But you came here to show that you still in love with me
-Startin' to feel like you ain't been happy for me lately, darlin'
-'Member when you used to come around and serenade me, woah
-But I guess it's gone different in a different direction lately
-Tryna do the right thing with the freedom that you gave me (Wheezy outta here)
-Your gun off safety
-Speak first, don't break me
-Harsh words, you're angry
-Lord, don't take me, oh, oh
-[Chorus]
-Well, Lord, I need You to wrap Your arms around me
-Wrap Your arms around with Your mercy
-Lord, I need You to wrap Your arms around me
-I give up on doin' things my way
-And tell me everything's gonna be alright, oh (Wheezy outta here)
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+<chorus vocals="Kanye West" mood="sad" tone="negative">
+<topic type="religion"><line>Well, Lord, I need You to wrap Your arms around me</line>
+<line>Wrap Your arms around with Your mercy</line>
+<line>Lord, I need You to wrap Your arms around me</line>
+<line>I give up on doin' things my way</line>
+<line>And tell me everything's gonna be alright, oh</line></topic>
+</chorus>
+<verse vocals="Kanye West" mood="sad" tone="negative">
+<topic type="love"><line>When you said give me a ring, you really meant a ring, huh?</line>
+<line>Turned out to be more than just a fling, huh?</line>
+<line>Three hours to get back from Palm Springs, huh?</line>
+<line>Who you know spend an hour in Walgreens, huh?</line>
+<line>You know you'll always be my favorite prom queen</line>
+<line>Even when we in dad shoes or mom jeans</line>
+<line>Too many complaints made it hard for me to think</line>
+<line>Would you shut up? I can't hear myself drink</line>
+<line>We used to do the freak like seven days a week</line>
+<line>It's the best collab since Taco Bell and KFC, uh</line></topic>
+<line>Talk to me nicely, don't come at me loud</line>
+<line>You had a Benz at sixteen, I could barely afford a Audi</line>
+<line>How you gon' try to say sometimes it's not about me?</line>
+<line>Man, I don't know what I would do without me</line>
+<line>Billionaire sport, step up to the court</line>
+<line>They rented a room, we bought the resort</line>
+<topic type="religion"><line>God got me, baby, God got the children</line>
+<line>The devil run the playground, but God own the buildin'</line>
+<line>Time and silence a luxury</line>
+<line>Cussin' at your baby mama, guess that's why they call it custody</line>
+<line>God got us, baby, God got the children</line>
+<line>The devil run the playground, but God own the buildin'</line></topic>
+<line>Time and space is a luxury</line>
+<line>But you came here to show that you still in love with me</line>
+<line>Startin' to feel like you ain't been happy for me lately, darlin'</line>
+<line>'Member when you used to come around and serenade me, woah</line>
+<line>But I guess it's gone different in a different direction lately</line>
+<line>Tryna do the right thing with the freedom that you gave me (Wheezy outta here)</line>
+<line>Your gun off safety</line>
+<line>Speak first, don't break me</line>
+<line>Harsh words, you're angry</line>
+<line>Lord, don't take me, oh, oh</line>
+</verse>
+<chorus vocals="Kanye West" mood="sad" tone="negative">
+<topic type="religion"><line>Well, Lord, I need You to wrap Your arms around me</line>
+<line>Wrap Your arms around with Your mercy</line>
+<line>Lord, I need You to wrap Your arms around me</line>
+<line>I give up on doin' things my way</line>
+<line>And tell me everything's gonna be alright, oh (Wheezy outta here)</line></topic>
+</chorus>
+</song>
