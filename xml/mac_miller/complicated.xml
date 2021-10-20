@@ -1,35 +1,51 @@
-[Verse 1]
-Outside is cloudy, but I like that better (Better, better)
-Behind the wheel, but still ain't on my way
-Some people say they want to live forever
-That's way too long, I'll just get through today
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <year>2020</year>
+        <songTitle>Complicated</songTitle>
+        <featuredArtist>None</featuredArtist>
+        <album>Circles</album>
+    </metadata>
+<verse vocals="Mac Miller" mood="sad" tone="negative">
+<line>Outside is cloudy, but I like that better <background>Better, better</background></line>
+<line>Behind the wheel, but still ain't on my way</line>
+<line>Some people say they want to live forever</line>
+<topic type="social issues"><line>That's way too long, I'll just get through today</line></topic>
+</verse>
 
-[Chorus]
-Without any complications (Ooh, ooh, ooh, ooh)
-Does it always gotta, does it always gotta
-Gotta be so complicated? (Ooh, ooh, ooh, ooh)
-Well, I'm way too young to be gettin' old
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Without any complications <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Does it always gotta, does it always gotta</line>
+<line>Gotta be so complicated? <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Well, I'm way too young to be gettin' old</line>
+</chorus>
 
-[Verse 2]
-And all I wanna do is look, but I can't see, baby
-Who you talkin' to while you talkin' to me, baby?
-Let me, let me know if I can see you later
-We could make it easy
+<verse vocals="Mac Miller" mood="sad" tone="neutral">
+<line>And all I wanna do is look, but I can't see, baby</line>
+<line>Who you talkin' to while you talkin' to me, baby?</line>
+<line>Let me, let me know if I can see you later</line>
+<line>We could make it easy</line>
+</verse>
 
-[Verse 3]
-Inside my head is getting pretty cluttered (Cluttered, cluttered)
-I try, but can't clean up this mess I made
-'Fore I start to think about the future
-First, can I please get through a day?
+<verse vocals="Mac Miller" mood="sad" tone="negative">
+<topic type="social issues"><line>Inside my head is getting pretty cluttered <background>Cluttered, cluttered</background></line></topic>
+<line>I try, but can't clean up this mess I made</line>
+<line>'Fore I start to think about the future</line>
+<line>First, can I please get through a day?</line>
+</verse>
 
-[Chorus]
-Without any complications (Ooh, ooh, ooh, ooh)
-Does it always gotta, does it always gotta
-Gotta be so complicated? (Ooh, ooh, ooh, ooh)
-Well, I'm way too young to be gettin' old
-[Outro]
-Some people say they want to live forever
-Without any complications (Ooh, ooh, ooh, ooh)
-Does it always gotta, does it always gotta
-Gotta be so complicated? (Ooh, ooh, ooh, ooh)
-Well, I'm way too young to be gettin' old
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Without any complications <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Does it always gotta, does it always gotta</line>
+<line>Gotta be so complicated? <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Well, I'm way too young to be gettin' old</line>
+</chorus>
+
+<outro vocals="Mac Miller" mood="sad" tone="negative">
+<line>Some people say they want to live forever</line>
+<line>Without any complications <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Does it always gotta, does it always gotta</line>
+<line>Gotta be so complicated? <background>Ooh, ooh, ooh, ooh</background></line>
+<line>Well, I'm way too young to be gettin' old</line>
+</outro>
+</song>
