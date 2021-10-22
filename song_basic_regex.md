@@ -28,16 +28,37 @@ in the background or are not the main focus, also we should remove the (), as th
 1. `Find \(([^)]+)\)`
 1. `Then Use The Replacement Command: <background>\1</background>`
 
-### Adding The Verse Attributes
+### Adding The Attributes
 
-Every verse should have two attributes: tone and mood. Here are the Regex commands to add them
+Every verse should have three attributes: vocals, mood, and tone. Here are the Regex commands to add them
 **Note: All attributes in all of the markup should be in LOWERCASE**
+
+###### Regex Commands To Add Intro Attributes :
+
+1. `Command F`
+1. `Find <intro>`
+1. `Then use the replacement Command: <intro vocals="" mood="" tone="">`
+1. Add the respective words within the quotes
 
 ###### Regex Commands To Add Verse Attributes :
 
 1. `Command F`
 1. `Find <verse>`
-1. `Then use the replacement Command: <verse mood="" tone="">`
+1. `Then use the replacement Command: <verse vocals="" mood="" tone="">`
+1. Add the respective words within the quotes
+
+###### Regex Commands To Add Chorus Attributes :
+
+1. `Command F`
+1. `Find <chorus>`
+1. `Then use the replacement Command: <chorus vocals="" mood="" tone="">`
+1. Add the respective words within the quotes
+
+###### Regex Commands To Add Outro Attributes :
+
+1. `Command F`
+1. `Find <outro>`
+1. `Then use the replacement Command: <outro vocals="" mood="" tone="">`
 1. Add the respective words within the quotes
 
 #### Reserved Characters:
