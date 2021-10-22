@@ -1,64 +1,84 @@
-[Intro]
-Yeah, we gon' start this one like this
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <year>2010</year>
+        <songTitle>Face in the Crowd</songTitle>
+        <featuredArtist>None</featuredArtist>
+        <album>K.I.D.S.</album>
+    </metadata>
+    
+<intro vocals="Mac Miller">
+<line>Yeah, we gon' start this one like this</line>
+</intro>
 
-[Verse 1]
-Driving down the road with a couple more miles to go
-I'm so close but they don't know
-Got some freaky hoes and weed to blow
-Rock the cleanest clothes
-My life different from every single kid you know
-Places I go out on my own
-Hoes stay blowing up my phone
-But, I wanna be left alone
-Doing shows, hitting four, five cities in a row
-Hit me with some dough, 'cause they know I'm 'bout to blow
-You can always say, "No", if you wanna lay low
-Girl, you look so good you need to get up on the floor
+<verse vocals="Mac Miller" mood="confident" tone="positive">
+<line>Driving down the road with a couple more miles to go</line>
+<line>I'm so close but they don't know</line>
+<topic type="drugs"><line>Got some freaky hoes and weed to blow</line></topic>
+<line>Rock the cleanest clothes</line>
+<line>My life different from every single kid you know</line>
+<line>Places I go out on my own</line>
+<line>Hoes stay blowing up my phone</line>
+<line>But, I wanna be left alone</line>
+<line>Doing shows, hitting four, five cities in a row</line>
+<topic type="money"><line>Hit me with some dough, 'cause they know I'm 'bout to blow</line></topic>
+<line>You can always say, "No", if you wanna lay low</line>
+<line>Girl, you look so good you need to get up on the floor</line>
+</verse>
 
-[Chorus]
-Don't you feel good, don't you feel great?
-I feel so fly and I hope you can relate
-I got some brand new shoes and a brand new tee
-It's the same old dude but a brand new me
-I've been up and I've been down
-Thought I was the coolest motherfucker around
-But, I'm just another face in the crowd
-I said, "I'm just another face in the crowd"
-[Verse 2]
-They tell me it's impossible to do it, I'd be stupid if I tried
-But I'm using a maneuver, keep on moving 'em aside
-I'm just trying to make some music for the ride
-Listen to it when you drive, destination, you arrive
-Russell Crow, just a beautiful mind
-Got talent, imagine what I'll do with some time
-I'm giving you a high feeling, moving your spine
-Usually, find me chilling up in Jupiter
-I'm so happy when you mad, Khakis, let 'em sag
-Mom says, "You could see my ass" and she laughed
-Blindfolded on the turnpike, hoping I don't crash
-Stashing the weed under the passenger seat
-Hope these sixteen wheelers don't crash into me
-People taking pictures when I pass in the street
-Zoom by, don't fasten my seatbelt
-And now you know how we felt (Aha)
+<chours vocals="Mac Miller" mood="sad" tone="negative">
+<line>Don't you feel good, don't you feel great?</line>
+<line>I feel so fly and I hope you can relate</line>
+<line>I got some brand new shoes and a brand new tee</line>
+<line>It's the same old dude but a brand new me</line>
+<line>I've been up and I've been down</line>
+<line>Thought I was the coolest motherfucker around</line>
+<line>But, I'm just another face in the crowd</line>
+<line>I said, "I'm just another face in the crowd"</line>
+</chours>
 
-[Chorus]
-Don't you feel good, don't you feel great?
-I feel so fly and I hope you can relate
-I got some brand new shoes and a brand new tee
-It's the same old dude but a brand new me
-I've been up and I've been down
-Thought I was the coolest motherfucker around
-But, I'm just another face in the crowd
-I said, "I'm just another face in the crowd"
-[Instrumental Bridge]
+<verse vocals="Mac Miller" mood="confident" tone="positive">
+<line>They tell me it's impossible to do it, I'd be stupid if I tried</line>
+<line>But I'm using a maneuver, keep on moving 'em aside</line>
+<line>I'm just trying to make some music for the ride</line>
+<line>Listen to it when you drive, destination, you arrive</line>
+<line>Russell Crow, just a beautiful mind</line>
+<line>Got talent, imagine what I'll do with some time</line>
+<line>I'm giving you a high feeling, moving your spine</line>
+<line>Usually, find me chilling up in Jupiter</line>
+<line>I'm so happy when you mad, Khakis, let 'em sag</line>
+<topic type="family"><line>Mom says, "You could see my ass" and she laughed</line></topic>
+<line>Blindfolded on the turnpike, hoping I don't crash</line>
+<topic type="drugs"><line>Stashing the weed under the passenger seat</line></topic>
+<line>Hope these sixteen wheelers don't crash into me</line>
+<line>People taking pictures when I pass in the street</line>
+<line>Zoom by, don't fasten my seatbelt</line>
+<line>And now you know how we felt <background>Aha</background></line>
+</verse>
 
-[Chorus]
-Don't you feel good, don't you feel great?
-I feel so fly and I hope you can relate
-I got some brand new shoes and a brand new tee
-It's the same old dude but a brand new me
-I've been up and I've been down
-Thought I was the coolest motherfucker around
-But, I'm just another face in the crowd
-I said, "I'm just another face in the crowd"
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Don't you feel good, don't you feel great?</line>
+<line>I feel so fly and I hope you can relate</line>
+<line>I got some brand new shoes and a brand new tee</line>
+<line>It's the same old dude but a brand new me</line>
+<line>I've been up and I've been down</line>
+<line>Thought I was the coolest motherfucker around</line>
+<line>But, I'm just another face in the crowd</line>
+<line>I said, "I'm just another face in the crowd"</line>
+</chorus>
+    
+<bridge>
+    Instrumental Bridge
+</bridge>
+
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Don't you feel good, don't you feel great?</line>
+<line>I feel so fly and I hope you can relate</line>
+<line>I got some brand new shoes and a brand new tee</line>
+<line>It's the same old dude but a brand new me</line>
+<line>I've been up and I've been down</line>
+<line>Thought I was the coolest motherfucker around</line>
+<line>But, I'm just another face in the crowd</line>
+<line>I said, "I'm just another face in the crowd"</line>
+</chorus>
+</song>
