@@ -1,6 +1,15 @@
 start = song
-song = element song {verse+}
-verse = element verse {mood, tone, text, line+}
+song = element song {metadata, (chorus | verse)+}
+metadata = element metadata {year, title, featuredArtist, album}
+year = element year {text}
+title = element title {text}
+featuredArtist = element featuredArtist {text}
+album = element album {text}
+chorus = element chorus {vocals, mood, tone, line+, topic*}
+verse = element verse {vocals, mood, tone, line+, topic*}
+vocals = attribute vocals {text}
 mood = attribute mood {text}
 tone = attribute tone {text}
+topic = element topic {type, line}
+type = attribute type {text}
 line = element line {text}
