@@ -1,3 +1,4 @@
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <intro vocals="Kanye West and Playboi Carti">
 <line>What? Yeah</line>
