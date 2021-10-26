@@ -1,5 +1,13 @@
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-<intro vocals="Kanye West and Playboi Carti">
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2021</year>
+        <title>Off the Grid</title>
+        <featuredArtist>Playboi Carti Fivio Foreign</featuredArtist>
+        <album>Donda</album>
+    </metadata>
+<intro vocals="Kanye West and Playboi Carti" mood="" tone="">
 <line>What? Yeah</line>
 <line>Boy <background>What?</background></line>
 </intro>
@@ -21,7 +29,7 @@
 <line>What?</line>
 <line>We off the grid, grid, grid, grid</line>
 </verse>
-<verse vocals="Playboi Carti">
+<verse vocals="Playboi Carti" mood="" tone="">
 <line>I'm off the grid <background>Homicide, homicide, what?</background></line>
 <line>Got tats on my ribs <background>Ah</background>, tattoos on my ribs <background>What?</background></line>
 <line>I just tattеd my kid, Onyx <background>Slatt</background></line>
@@ -42,7 +50,7 @@
 <line>He spit this</line>
 <line>We off the grid, grid, grid</line>
 </chorus>
-<verse vocals="Fivio Foreign">
+<verse vocals="Fivio Foreign" mood="" tone="">
 <line>Yeah, look, when I was in jail, I was lowkey <background>Uh</background></line>
 <line>Shout out to supporters that wrote me</line>
 <line>Eat food, work out and then go sleep</line>
@@ -104,7 +112,7 @@
 <line>'Cause they want me to lose, they ain't part of the Woos</line>
 <line>I been tryin' so hard not to move reckless</line>
 </verse>
-<chorus vocals="Kanye West">
+<chorus vocals="Kanye West" mood="" tone="">
 <line>We off the grid, grid, grid</line>
 <line>This for my kid, kid, kid</line>
 <line>Everything we did for the crib did here</line>

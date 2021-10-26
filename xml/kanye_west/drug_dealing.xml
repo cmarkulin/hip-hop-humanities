@@ -1,5 +1,13 @@
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-    <intro vocals="Kanye West">
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2004</year>
+        <title>We Don't Care</title>
+        <featuredArtist></featuredArtist>
+        <album>The College Dropout</album>
+    </metadata>
+    <intro vocals="Kanye West" mood="" tone="">
         <line>Oh, yeah</line>
         <line>I got the perfect song for the kids to sing</line>
         <line>And all my people that's—</line>
@@ -26,9 +34,9 @@
         <line>Sitting in the hood like community colleges</line>
         <topic type="family"><line>This dope money here is Lil' Trey's scholarship</line></topic>
         <line>'Cause ain't no tuition for having no ambition</line>
-        <line>And ain't no loans for sitting your <swear>ass</swear> at home</line>
+        <line>And ain't no loans for sitting your ass at home</line>
         <line>So we forced to sell crack, rap, and get a job</line>
-        <line>You gotta do something, man, your <swear>ass</swear> is grown</line>
+        <line>You gotta do something, man, your ass is grown</line>
     </verse>
     <chorus vocals="Kanye West" mood="determined" tone="positive">
         <topic type="drugs"><line>Drug dealin' just to get by</line></topic>

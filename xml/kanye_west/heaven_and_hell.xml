@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2021</year>
+        <title>Heaven and Hell</title>
+        <featuredArtist>20th Century Steel Band</featuredArtist>
+        <album>Donda</album>
+    </metadata>
 <intro vocals="20th Century Steel Band" mood="cynical" tone="negative">
 <line>Children growing, women producing</line>
 <line>Men go work and some go stealing</line>

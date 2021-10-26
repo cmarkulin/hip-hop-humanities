@@ -1,34 +1,50 @@
-[Chorus]
-That's on me, that's on me, I know
-That's on me, that's on me, it's all my fault
-That's on me, that's on me, I know
-That's on me, that's on me, I know
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <year>2020</year>
+        <songTitle>That's On Me</songTitle>
+        <featuredArtist>None</featuredArtist>
+        <album>Circles</album>
+    </metadata>
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, it's all my fault</line>
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, I know</line>
+</chorus>
 
-[Verse 1]
-Time moving slowly, I'm bouncing my head off the wall
-I know nobody that knows where we're going at all
-Don't, don't, don't, don't let me down
-And I'll pick you up, I'll help you get around
+<verse vocals="Mac Miller" mood="sad" tone="negative">
+<line>Time moving slowly, I'm bouncing my head off the wall</line>
+<line>I know nobody that knows where we're going at all</line>
+<line>Don't, don't, don't, don't let me down</line>
+<line>And I'll pick you up, I'll help you get around</line>
+</verse>
 
-[Chorus]
-That's on me, that's on me, I know
-That's on me, that's on me, it's all my fault
-That's on me, that's on me, I know
-That's on me, that's on me, I know
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, it's all my fault</line>
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, I know</line>
+</chorus>
 
-[Bridge]
-I'll let it go
-I'll cut the strings
-Today I'm fine
+<bridge>
+<line>I'll let it go</line>
+<line>I'll cut the strings</line>
+<line>Today I'm fine</line>
+</bridge>
 
-[Verse 2]
-I don't know where I've been lately, but I've been alright
-I said good morning this morning and I'll say good night
-Don't, don't, don't, don't wait around
-We'll take the stairs that gets us into there
-It's unfair when I'm being too proud, but
-[Chorus]
-That's on me, that's on me, I know
-That's on me, that's on me, it's all my fault
-That's on me, that's on me, I know
-That's on me, that's on me, I know
+<verse vocals="Mac Miller" mood="anxious" tone="negative">
+<line>I don't know where I've been lately, but I've been alright</line>
+<line>I said good morning this morning and I'll say good night</line>
+<line>Don't, don't, don't, don't wait around</line>
+<line>We'll take the stairs that gets us into there</line>
+<line>It's unfair when I'm being too proud, but</line>
+</verse>
+
+<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, it's all my fault</line>
+<line>That's on me, that's on me, I know</line>
+<line>That's on me, that's on me, I know</line>
+</chorus>
+</song>

@@ -1,4 +1,12 @@
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2021</year>
+        <title>Jesus Lord</title>
+        <featuredArtist>Jay Electronica</featuredArtist>
+        <album>Donda</album>
+    </metadata>
 <chorus vocals="Kanye West" mood="gloomy" tone="negative">
 <topic type="religion"><line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
 <line>Now we've been through a lot of things</line>
@@ -75,7 +83,7 @@
 <chorus vocals="Kanye West" mood="empathetic" tone="neutral">
 <topic type="religion"><line>Tell me if you know someone that needs <background>Jesus, Lord</background></line></topic>
 </chorus>
-<verse vocals="Jay Electronica">
+<verse vocals="Jay Electronica" mood="" tone="">
 <line>Uh-huh, in the name of the true and living God, the beneficent, the merciful <background>Hallelujah</background></line>
 <line>Thank you for bringing me up the rough side of the mountain like Ertuğrul <background>Jesus</background></line>
 <line>Every knee bowed and every tongue confessed and paid homage <background>Lord</background></line>
@@ -109,7 +117,7 @@
 <line>Been through a lot of things</line>
 <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line></topic>
 </chorus>
-<outro vocals="Larry Hoover Jr.">
+<outro vocals="Larry Hoover Jr." mood="" tone="">
 <line>What up, Ye? This Larry Hoover Jr</line>
 <line>First and foremost, I wanna thank you for taking the fight for my father to the Oval Office</line>
 <line>You might not have been the only one that could've did that</line>

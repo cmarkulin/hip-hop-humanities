@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2021</year>
+        <title>Lord I Need You</title>
+        <featuredArtist></featuredArtist>
+        <album>Donda</album>
+    </metadata>
 <chorus vocals="Kanye West" mood="sad" tone="negative">
 <topic type="religion"><line>Well, Lord, I need You to wrap Your arms around me</line>
 <line>Wrap Your arms around with Your mercy</line>

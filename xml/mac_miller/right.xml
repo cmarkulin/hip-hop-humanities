@@ -1,56 +1,73 @@
-[Verse 1]
-Yeah, it's been a while without your face
-But I saw your picture on the wall the other day
-Too much distance, too much space
-You need to come back home or run along, yeah
-I'm waitin' for the light to change
-You ask me how I've been, well I'm good, I can't complain
-Times get harder, things get strained
-All I know, I don't want you gone
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <year>2020</year>
+        <songTitle>Right</songTitle>
+        <featuredArtist>None</featuredArtist>
+        <album>Circles</album>
+    </metadata>
+<verse vocals="Mac Miller" mood="sad" tone="negative">
+<line>Yeah, it's been a while without your face</line>
+<line>But I saw your picture on the wall the other day</line>
+<line>Too much distance, too much space</line>
+<line>You need to come back home or run along, yeah</line>
+<line>I'm waitin' for the light to change</line>
+<line>You ask me how I've been, well I'm good, I can't complain</line>
+<line>Times get harder, things get strained</line>
+<line>All I know, I don't want you gone</line>
+</verse>
 
-[Chorus]
-I know it hasn't been easy lately
-But you don't wanna leave me, baby
-And you know I hate to keep you waitin'
-But when it's right, then it's right, yeah
+<chorus vocals="Mac Miller" mood="determined" tone="negative">
+<line>I know it hasn't been easy lately</line>
+<line>But you don't wanna leave me, baby</line>
+<line>And you know I hate to keep you waitin'</line>
+<line>But when it's right, then it's right, yeah</line>
+</chorus>
 
-[Post-Chorus]
-Days turn into nights
-Conversations turn into fights, we gon' be alright
-Love turn into life
-Girl, you been burnin' so bright, let me turn off the lights
-Stay awake 'til the mornin', yeah
-It ain't always great, but it's never borin', yeah
+<post-chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Days turn into nights</line>
+<topic type="violence"><line>Conversations turn into fights, we gon' be alright</line></topic>
+<line>Love turn into life</line>
+<line>Girl, you been burnin' so bright, let me turn off the lights</line>
+<line>Stay awake 'til the mornin', yeah</line>
+<line>It ain't always great, but it's never borin', yeah</line>
+</post-chorus>
 
-[Verse 2]
-And I been itchin' for your love
-Don't want to feel a single thing if it ain't your touch
-I get drunk and become numb
-Just want to stumble into us
-But baby, don't stop now 'cause it ain't over, yeah
-Few years ago I was so dumb
-Clueless, young and stupid, but look at who I have become
-I ain't gonna break your heart, promise it's always safe
-Baby, don't go now, pull me closer
-[Chorus]
-I know it hasn't been easy lately
-But you don't wanna leave me, baby (Woah)
-You know I hate to keep you waitin'
-But I know when it's right, then it's right, yeah
+<verse vocals="Mac Miller" mood="determined" tone="negative">
+<line>And I been itchin' for your love</line>
+<line>Don't want to feel a single thing if it ain't your touch</line>
+<topic type="social_issues"><line>I get drunk and become numb</line></topic>
+<line>Just want to stumble into us</line>
+<line>But baby, don't stop now 'cause it ain't over, yeah</line>
+<line>Few years ago I was so dumb</line>
+<line>Clueless, young and stupid, but look at who I have become</line>
+<line>I ain't gonna break your heart, promise it's always safe</line>
+<line>Baby, don't go now, pull me closer</line>
+</verse>
 
-[Post-Chorus]
-Days turn into nights
-Conversations turn into fights, we gon' be alright
-'Cause love turn into life
-Girl, you been burnin' so bright, let me turn off the lights
-Stay awake 'til the mornin'
-It ain't always great, but it's never borin'
+<chorus vocals="Mac Miller" mood="determined" tone="sad">
+<line>I know it hasn't been easy lately</line>
+<line>But you don't wanna leave me, baby <background>Woah</background></line>
+<line>You know I hate to keep you waitin'</line>
+<line>But I know when it's right, then it's right, yeah</line>
+</chorus>
 
-[Outro]
-Woah-woah, woah-woah, woah-woah
-Woah-woah, woah-woah, woah-woah
-Woah-woah, woah-woah, woah-woah (Ha-ha)
-But when it's right, then it's right, alright
-Ooh-ooh, mhm
-Ooh-ooh, mhm
-Ooh-ooh, mhm
+<post-chorus vocals="Mac Miller" mood="sad" tone="negative">
+<line>Days turn into nights</line>
+<topic type="violence"><line>Conversations turn into fights, we gon' be alright</line></topic>
+<line>'Cause love turn into life</line>
+<line>Girl, you been burnin' so bright, let me turn off the lights</line>
+<line>Stay awake 'til the mornin'</line>
+<line>It ain't always great, but it's never borin'</line>
+</post-chorus>
+
+<outro vocals="Mac Miller">
+<line>Woah-woah, woah-woah, woah-woah</line>
+<line>Woah-woah, woah-woah, woah-woah</line>
+<line>Woah-woah, woah-woah, woah-woah <background>Ha-ha</background></line>
+<line>But when it's right, then it's right, alright</line>
+<line>Ooh-ooh, mhm</line>
+<line>Ooh-ooh, mhm</line>
+<line>Ooh-ooh, mhm</line>
+</outro>
+</song>
