@@ -1,8 +1,9 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2010</year>
-        <songTitle>Face in the Crowd</songTitle>
+        <title>Face in the Crowd</title>
         <featuredArtist>None</featuredArtist>
         <album>K.I.D.S.</album>
     </metadata>

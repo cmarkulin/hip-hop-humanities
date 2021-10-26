@@ -1,8 +1,9 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>Complicated</songTitle>
+        <title>Complicated</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
@@ -28,7 +29,7 @@
 </verse>
 
 <verse vocals="Mac Miller" mood="sad" tone="negative">
-<topic type="social issues"><line>Inside my head is getting pretty cluttered <background>Cluttered, cluttered</background></line></topic>
+<topic type="social_issues"><line>Inside my head is getting pretty cluttered <background>Cluttered, cluttered</background></line></topic>
 <line>I try, but can't clean up this mess I made</line>
 <line>'Fore I start to think about the future</line>
 <line>First, can I please get through a day?</line>

@@ -1,8 +1,9 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>I Can See</songTitle>
+        <title>I Can See</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
