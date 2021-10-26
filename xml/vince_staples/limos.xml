@@ -1,76 +1,89 @@
-[Chorus 1: Teyana Taylor]
-I can love you
-I can love you
-I can love you
-I can love you better
-
-[Verse 1: Vince Staples]
-Bitches think they livin' in a dream 'til I wake 'em up
-Faded off the liquor, limousines waiting in the front
-Looking for a nigga with the green shinin' in the club
-Trying to trade the hoes life for the red rose life
-Hope we roll dice, but a seed ain't what you want
-18 years with a check coming every month
-Every step you take will get you closer to the paper
-Pay attention to the ones known
-The Marilyn Monroes use their wombs as ways to move forward
-Fall with the rules to bask in the glory
-Bastard child often lost in the story
-Sad and unfortunate, but the game's to win
-
-[Bridge: Vince Staples]
-Say you love her, you losin'
-She don’t want him involved
-Keep your heart in your chest
-And your head in the stars
-Fall in love and get lost
-Fall in love and get lost
-Fall in love and get lost
-Fall in love and get lost
-[Chorus 2: Teyana Taylor]
-I can love you (I can love you)
-I can love you (I can love you)
-I can love you (I can love you)
-I can love you better
-
-[Verse 2: Vince Staples]
-He don't love her at all, but he fuckin' her raw
-Tales of Adam and Eve birthin' a bitch and a dog
-How you follow a heart colder than winter in Prague
-Love for the wealth and the self, her mind full of everything else
-The Bible she hide in the shelf, doubt she ever open it
-Lost in the world, just tryin' to figure where to go from here
-Wonder what her motive is, she wonder what your focus is
-Every man she ever felt done lied and left her to herself
-Scared of the future, runnin' from the past
-Like she's starin' in the grave while you starin' at her ass
-Young, dumb, and depraved, heart numb from the pain
-Eyes strain from the tears, yeah, she stuck in her ways
-
-[Bridge: Vince Staples]
-Say you love her, you losin'
-She don’t want him involved
-Keep your heart in your chest
-And your head in the stars
-Fall in love and get lost
-Fall in love and get lost
-Fall in love and get lost
-Fall in love and get lost
-[Chorus 2: Teyana Taylor]
-I can love you (I can love you)
-I can love you (I can love you)
-I can love you (I can love you)
-I can love you better
-
-[Outro: Teyana Taylor]
-I can love you
-I can love you better
-I can love you
-I can love you
-I can love you better
-I can love you
-I can love you better
-Love you better
-Mine, mine, mine
-You're mine, mine, mine
-'Cuz I can love you better
+<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Vince Staples</artist>
+        <year>2014</year>
+        <title>Limos</title>
+        <featuredArtist>Teyana Taylor</featuredArtist>
+        <album>Hell Can Wait</album>
+    </metadata>
+    <intro vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+        <line>I can love you</line>
+        <line>I can love you</line>
+        <line>I can love you</line>
+        <line>I can love you better</line>
+    </intro>
+    <verse vocals="Vince Staples" mood="cynical" tone="negative">
+        <line>Bitches think they livin' in a dream 'til I wake 'em up</line>
+        <line>Faded off the liquor, limousines waiting in the front</line>
+        <line>Looking for a nigga with the green shinin' in the club</line>
+        <line>Trying to trade the hoes life for the red rose life</line>
+        <line>Hope we roll dice, but a seed ain't what you want</line>
+        <line>18 years with a check coming every month</line>
+        <line>Every step you take will get you closer to the paper</line>
+        <line>Pay attention to the ones known</line>
+        <line>The Marilyn Monroes use their wombs as ways to move forward</line>
+        <line>Fall with the rules to bask in the glory</line>
+        <line>Bastard child often lost in the story</line>
+        <line>Sad and unfortunate, but the game's to win</line>
+    </verse>
+    <bridge vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Say you love her, you losin'</line>
+        <line>She don’t want him involved</line>
+        <line>Keep your heart in your chest</line>
+        <line>And your head in the stars</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+    </bridge>
+    <chorus vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+        <line>I can love you (I can love you)</line>
+        <line>I can love you (I can love you)</line>
+        <line>I can love you (I can love you)</line>
+        <line>I can love you better</line>
+    </chorus>
+    <verse vocals="Vince Staples" mood="cynical" tone="negative">
+        <line>He don't love her at all, but he fuckin' her raw</line>
+        <line>Tales of Adam and Eve birthin' a bitch and a dog</line>
+        <line>How you follow a heart colder than winter in Prague</line>
+        <line>Love for the wealth and the self, her mind full of everything else</line>
+        <line>The Bible she hide in the shelf, doubt she ever open it</line>
+        <line>Lost in the world, just tryin' to figure where to go from here</line>
+        <line>Wonder what her motive is, she wonder what your focus is</line>
+        <line>Every man she ever felt done lied and left her to herself</line>
+        <line>Scared of the future, runnin' from the past</line>
+        <line>Like she's starin' in the grave while you starin' at her ass</line>
+        <line>Young, dumb, and depraved, heart numb from the pain</line>
+        <line>Eyes strain from the tears, yeah, she stuck in her ways</line>
+    </verse>
+    <bridge vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Say you love her, you losin'</line>
+        <line>She don’t want him involved</line>
+        <line>Keep your heart in your chest</line>
+        <line>And your head in the stars</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+        <line>Fall in love and get lost</line>
+    </bridge>
+    <chorus vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+        <line>I can love you (I can love you)</line>
+        <line>I can love you (I can love you)</line>
+        <line>I can love you (I can love you)</line>
+        <line>I can love you better</line>
+    </chorus>
+    <outro vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+        <line>I can love you</line>
+        <line>I can love you better</line>
+        <line>I can love you</line>
+        <line>I can love you</line>
+        <line>I can love you better</line>
+        <line>I can love you</line>
+        <line>I can love you better</line>
+        <line>Love you better</line>
+        <line>Mine, mine, mine</line>
+        <line>You're mine, mine, mine</line>
+        <line>'Cuz I can love you better</line>
+    </outro>
+</song>

@@ -1,58 +1,82 @@
-[Intro]
-Yeah, ugh, ugh
-Trippin' (Yeah), trippin' (Ugh, trippin')
-Trippin' (Trippin', huh, yeah), trippin' (Yeah)
-Yeah
-
-[Verse 1]
-Listen (Listen), I ain't going (Nah), riding foreign
-Riches off of tourin' (Yeah), call-ignoring
-Missions, miss my brothers (Yeah), die for colors (Miss my, miss my)
-Quidditch, catching snitches (Snitch), do him vicious
-Living, like Khadijah, quick to leave her (I ain't never really know the bitch, man)
-Just because, like Anita (Baker), she in love
-But it's leisure (Nah, no), real around-the-corner bleeder (Yeah, Norfside)
-Bounce out on 'em on Artesia, now we got amnesia (Yeah, likе, "Where you from, cuz?")
-
-[Chorus]
-Trippin', yeah (Yеah)
-Trippin', yeah (Trippin')
-Trippin' (Trippin', huh, yeah)
-Trippin', yeah (Yeah, yeah)
-Trippin', yeah (Yeah)
-Trippin', yeah (Ayy, who trippin'?)
-Trippin' (Yeah), yeah (Trippin')
-Trippin', yeah
-[Verse 2]
-I ain't gon' lie (Nah), always been the one to cuff (Uh-huh)
-I ain't gon' lie (Uh-huh), sometimes, I hit it once and then I'm stuck (Aw, yeah)
-I ain't gon' lie (Nah), no, you not the only one (You're never the only one, baby)
-I ain't gon' lie, she only want me 'cause I money-touch
-I hate July (I hate it, sheesh), crime is high, the summer sucks (We run it up)
-Can't even hit the beach without my heat, it's in my trunks
-They ride the tide (Yeah), I don't got no one to trust (Can't trust, you know what's out here, man)
-Trust and believe I see the shit that's up your sleeve (Ain't fooling nobody, cuz)
-Come fuck with me, we living fast as SRTs, yeah (Hundred on the dash)
-Don't come for me unless GoFundMe what you seek, yeah (Put you on your ass, lil' nigga)
-They lighting candles on the curb, they not Diptyques (Naw)
-My hood impatient (Yeah), so be wary if it's beef, yeah (Naw, you know how Norfside with it)
-Pull up, location is the belly of the beast, yeah (Ayy, pull up)
-This shit get deadly, hope you ready to decease, yeah (Ayy, rest in peace, nigga, you really not ready for this shit, man)
-It's just you and me (You know it, you and me)
-Pay me what you owe, this shit ain't free
-Nah
-
-[Interlude]
-I knew very well that I was supposed to go straight home from school. I just couldn't refuse. I knew I was doing the wrong thing. But I guess it was more important to be accepted by the guys than anything else (Don't lie)
-
-[Chorus]
-Trippin', yeah (Yeah)
-Trippin', yeah (Trippin')
-Trippin' (Trippin', huh, yeah)
-Trippin', yeah (Yeah, yeah)
-Trippin', yeah (Yeah)
-Trippin', yeah (Ayy, who trippin'?)
-Trippin' (Yeah), yeah (Trippin')
-Trippin', yeah
-[Outro]
-I mean, the fellas in the gang weren't the greatest. But I didn't wanna be left out
+<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Vince Staples</artist>
+        <year>2021</year>
+        <title>Taking Trips</title>
+        <album>Vince Staples</album>
+    </metadata>
+    <intro vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Yeah, ugh, ugh</line>
+        <line>Trippin' (Yeah), trippin' (Ugh, trippin')</line>
+        <line>Trippin' (Trippin', huh, yeah), trippin' (Yeah)</line>
+        <line>Yeah</line>
+    </intro>
+    <verse vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Listen (Listen), I ain't going (Nah), riding foreign</line>
+        <line>Riches off of tourin' (Yeah), call-ignoring</line>
+        <line>Missions, miss my brothers (Yeah), die for colors (Miss my, miss my)</line>
+        <line>Quidditch, catching snitches (Snitch), do him vicious</line>
+        <line>Living, like Khadijah, quick to leave her (I ain't never really know the bitch,
+            man)</line>
+        <line>Just because, like Anita (Baker), she in love</line>
+        <line>But it's leisure (Nah, no), real around-the-corner bleeder (Yeah, Norfside)</line>
+        <line>Bounce out on 'em on Artesia, now we got amnesia (Yeah, likе, "Where you from,
+            cuz?")</line>
+    </verse>
+    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Trippin', yeah (Yеah)</line>
+        <line>Trippin', yeah (Trippin')</line>
+        <line>Trippin' (Trippin', huh, yeah)</line>
+        <line>Trippin', yeah (Yeah, yeah)</line>
+        <line>Trippin', yeah (Yeah)</line>
+        <line>Trippin', yeah (Ayy, who trippin'?)</line>
+        <line>Trippin' (Yeah), yeah (Trippin')</line>
+        <line>Trippin', yeah</line>
+    </chorus>
+    <verse vocals="Vince Staples" mood="mad" tone="negative">
+        <line>I ain't gon' lie (Nah), always been the one to cuff (Uh-huh)</line>
+        <line>I ain't gon' lie (Uh-huh), sometimes, I hit it once and then I'm stuck (Aw,
+            yeah)</line>
+        <line>I ain't gon' lie (Nah), no, you not the only one (You're never the only one,
+            baby)</line>
+        <line>I ain't gon' lie, she only want me 'cause I money-touch</line>
+        <line>I hate July (I hate it, sheesh), crime is high, the summer sucks (We run it up)</line>
+        <line>Can't even hit the beach without my heat, it's in my trunks</line>
+        <line>They ride the tide (Yeah), I don't got no one to trust (Can't trust, you know what's
+            out here, man)</line>
+        <line>Trust and believe I see the shit that's up your sleeve (Ain't fooling nobody,
+            cuz)</line>
+        <line>Come fuck with me, we living fast as SRTs, yeah (Hundred on the dash)</line>
+        <line>Don't come for me unless GoFundMe what you seek, yeah (Put you on your ass, lil'
+            nigga)</line>
+        <line>They lighting candles on the curb, they not Diptyques (Naw)</line>
+        <line>My hood impatient (Yeah), so be wary if it's beef, yeah (Naw, you know how Norfside
+            with it)</line>
+        <line>Pull up, location is the belly of the beast, yeah (Ayy, pull up)</line>
+        <topic type="violence"><line>This shit get deadly, hope you ready to decease, yeah (Ayy, rest in peace, nigga, you
+            really not ready for this shit, man)</line></topic>
+        <line>It's just you and me (You know it, you and me)</line>
+        <line>Pay me what you owe, this shit ain't free</line>
+        <line>Nah</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="anxious" tone="negative">
+        <topic type="gangs"><line>I knew very well that I was supposed to go straight home from school. I just couldn't
+            refuse. I knew I was doing the wrong thing. But I guess it was more important to be
+            accepted by the guys than anything else (Don't lie)</line></topic>
+    </verse>
+    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Trippin', yeah (Yeah)</line>
+        <line>Trippin', yeah (Trippin')</line>
+        <line>Trippin' (Trippin', huh, yeah)</line>
+        <line>Trippin', yeah (Yeah, yeah)</line>
+        <line>Trippin', yeah (Yeah)</line>
+        <line>Trippin', yeah (Ayy, who trippin'?)</line>
+        <line>Trippin' (Yeah), yeah (Trippin')</line>
+        <line>Trippin', yeah</line>
+    </chorus>
+    <outro vocals="Vince Staples" mood="cynical" tone="neutral">
+        <topic type="gangs"><line>I mean, the fellas in the gang weren't the greatest. But I didn't wanna be left
+            out</line></topic>
+    </outro>
+</song>

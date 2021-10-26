@@ -1,57 +1,66 @@
-[Intro]
-Yeah, yeah, yeah
-Where you from? Where your gun?
-Pacing around
-Stay awake, know I got a play to make
-And moving across the room
-Stay awake, know I got a play to make
-Pacing around
-Gotta stay awake, know I got a play to make
-Let's move all across the room
-Yeah
-
-[Verse 1: Vince Staples]
-I can die tonight, so today, I'm finna go get paid
-I'm the violent type, so don't play 'less you want your grave
-We was in the hood, rent was late, ain't have Section 8'
-Had a .38 in the eighth, moved on 68th
-Then they put us out, we was sleepin' on my auntie couch (Pacing around)
-Then she put us out, stomach growling, stealing from the Ralph's (And moving across the room)
-If I pull it out, I'ma send a nigga to the clouds (Pacing around)
-Watch them bullets bounce (Let's move all across the room)
-Fell in love with guns, I love the sound, yeah
-
-[Chorus]
-From the sun-up 'til the sun is down, yeah
-Tryna run it up, I'm running wild, yeah
-From the sun-up 'til the sun is down, yeah
-Tryna run it up, I'm running wild, yeah
-[Verse 2]
-I don't fear no man, only Allah got the upper hand
-Lost too many friends to the down-the-streets, I can't pretend
-That I'll make amends, I know that the blood gon' spill again
-Hanging on them corners same as hanging from a ceiling fan
-When I see my fans, I'm too paranoid to shake they hands
-Clutching on the blam, don't know if you foe or if you fam
-I don't got a plan, I'm just out here thugging 'til the end (Yeah)
-Niggas know I'll never fold or bend (Yeah, free 03) yeah
-
-[Interlude]
-Pacing around
-And moving across the room
-Pacing around
-Let's move all across the room
-
-[Chorus]
-From the sun-up 'til the sun is down, yeah (Pacing around)
-Tryna run it up, I'm running wild, yeah (And moving across the room)
-From the sun-up 'til the sun is down, yeah (Pacing around)
-Tryna run it up, I'm running wild, yeah (Let's move all across the room)
-
-[Outro]
-I am tired, tired, over again
-I am tired, tired, over again
-Tired, over again
-
-
-
+<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Vince Staples</artist>
+        <year>2021</year>
+        <title>Sundown Town</title>
+        <album>Vince Staples</album>
+    </metadata>
+    <intro vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Yeah, yeah, yeah</line>
+        <line>Where you from? Where your gun?</line>
+        <line>Pacing around</line>
+        <line>Stay awake, know I got a play to make</line>
+        <line>And moving across the room</line>
+        <line>Stay awake, know I got a play to make</line>
+        <line>Pacing around</line>
+        <line>Gotta stay awake, know I got a play to make</line>
+        <line>Let's move all across the room</line>
+        <line>Yeah</line>
+    </intro>
+    <verse vocals="Vince Staples" mood="cynical" tone="neutral">
+        <line>I can die tonight, so today, I'm finna go get paid</line>
+        <line>I'm the violent type, so don't play 'less you want your grave</line>
+        <line>We was in the hood, rent was late, ain't have Section 8'</line>
+        <line>Had a .38 in the eighth, moved on 68th</line>
+        <line>Then they put us out, we was sleepin' on my auntie couch (Pacing around)</line>
+        <line>Then she put us out, stomach growling, stealing from the Ralph's (And moving across
+            the room)</line>
+        <line>If I pull it out, I'ma send a nigga to the clouds (Pacing around)</line>
+        <line>Watch them bullets bounce (Let's move all across the room)</line>
+        <topic type="violence"><line>Fell in love with guns, I love the sound, yeah</line></topic>
+    </verse>
+    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>From the sun-up 'til the sun is down, yeah</line>
+        <line>Tryna run it up, I'm running wild, yeah</line>
+        <line>From the sun-up 'til the sun is down, yeah</line>
+        <line>Tryna run it up, I'm running wild, yeah</line>
+    </chorus>
+    <verse vocals="Vince Staples" mood="sad" tone="neutral">
+        <line>I don't fear no man, only Allah got the upper hand</line>
+        <topic type="violence"><line>Lost too many friends to the down-the-streets, I can't pretend</line></topic>
+        <line>That I'll make amends, I know that the blood gon' spill again</line>
+        <line>Hanging on them corners same as hanging from a ceiling fan</line>
+        <line>When I see my fans, I'm too paranoid to shake they hands</line>
+        <line>Clutching on the blam, don't know if you foe or if you fam</line>
+        <line>I don't got a plan, I'm just out here thugging 'til the end (Yeah)</line>
+        <line>Niggas know I'll never fold or bend (Yeah, free 03) yeah</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>Pacing around</line>
+        <line>And moving across the room</line>
+        <line>Pacing around</line>
+        <line>Let's move all across the room</line>
+    </verse>
+    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+        <line>From the sun-up 'til the sun is down, yeah (Pacing around)</line>
+        <line>Tryna run it up, I'm running wild, yeah (And moving across the room)</line>
+        <line>From the sun-up 'til the sun is down, yeah (Pacing around)</line>
+        <line>Tryna run it up, I'm running wild, yeah (Let's move all across the room)</line>
+    </chorus>
+    <outro vocals="Vince Staples" mood="sad" tone="neutral">
+        <line>I am tired, tired, over again</line>
+        <line>I am tired, tired, over again</line>
+        <line>Tired, over again</line>
+    </outro>
+</song>

@@ -1,15 +1,23 @@
 start = song
-song = element song {metadata, (chorus | verse)+}
-metadata = element metadata {year, title, featuredArtist, album}
+# Added optional intro and outro, 2021-10-24 clt
+song = element song {metadata, intro*, (chorus | verse | bridge*)+, outro*}
+# Added required artist element, 2021-10-24 clt
+metadata = element metadata {artist, year, title, featuredArtist*, album}
+artist = element artist {text}
 year = element year {text}
 title = element title {text}
 featuredArtist = element featuredArtist {text}
 album = element album {text}
-chorus = element chorus {vocals, mood, tone, line+, topic*}
-verse = element verse {vocals, mood, tone, line+, topic*}
+intro = element intro {vocals, mood, tone, (topic | line)+}
+chorus = element chorus {vocals, mood, tone, (topic | line)+}
+verse = element verse {vocals, mood, tone, (topic | line)+}
+bridge = element bridge {vocals, mood, tone, (topic | line)+}
+outro = element outro {vocals, mood, tone, (topic | line)+}
 vocals = attribute vocals {text}
 mood = attribute mood {text}
 tone = attribute tone {text}
-topic = element topic {type, line}
+topic = element topic {type, line+}
 type = attribute type {text}
-line = element line {text}
+line = element line {mixed {background*}}
+# Added optional background vocals 2021-10-24 clt
+background = element background {text}
