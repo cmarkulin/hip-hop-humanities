@@ -1,116 +1,141 @@
-[Intro]
-How's your son? (All the things)
-He made the team this year? (All, all, all the things things)
-Aight, they said he wasn't tall enough
-(...all all that glitters is not gold
-And all gold is not reality
-Real is what you lays on me)
-Ma we here we gon' cook this Sunday ok?
-That's your new girlfriend?
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2004</year>
+        <title>Family Business</title>
+        <featuredArtist/>
+        <album>The College Dropout</album>
+    </metadata>
+    <intro vocals="?" mood="" tone="">
+        <line>How's your son? <background>All the things</background></line>
+        <line>He made the team this year? <background>All, all, all the things
+            things</background></line>
+        <line>Aight, they said he wasn't tall enough</line>
+        <line><background>...all all that glitters is not gold</background></line>
+        <line><background>And all gold is not reality</background></line>
+        <line><background>Real is what you lays on me</background></line>
+        <line>Ma we here we gon' cook this Sunday ok?</line>
+        <line>That's your new girlfriend?</line>
+    </intro>
+    <verse vocals="Kanye West" mood="sad" tone="negative">
+        <topic type="family">
+            <line>This is family business</line>
+            <line>And this is for the family that can't be with us</line>
+            <line>And this is for my cousin locked down, know the answer's in us</line>
+            <line>This why I spit it in my songs so sweet like a photo</line>
+            <line>Of your granny's picture, now that you're gone, it hit us</line>
+            <line>Super hard on Thanksgiving and Christmas, this can't be right</line>
+            <line>Yeah, you heard the track I did man, "This Can't Be Life"</line>
+            <line>Somebody please say grace so I can save face</line>
+            <line>And have a reason to cover my face</line>
+            <line>I even made you a plate, soul food, know how Granny do it</line>
+            <line>Monkey bread on the side, know how the family do it</line>
+            <line>When I brought it why the guard have to look all through it?</line>
+            <line>As kids, we used to laugh</line>
+            <line>Who knew that life would move this fast?</line>
+            <line>Who knew I'd have to look at you through a glass?</line>
+            <line>And look, you tell me you ain't did it, then you ain't did it</line>
+            <line>And if you did, then that's family business</line>
+        </topic>
+    </verse>
+    <chorus vocals="Kanye West" mood="sad" tone="negative">
+        <line>And I don't care 'bout</line>
+        <line><background>All the diamond rings, all the diamond rings</background></line>
+        <line>They don't mean a thing <background>All, all, all the things</background></line>
+        <line>All these fancy things</line>
+        <line>I tell you that all is my weight and gold</line>
+        <line><background>All that glitters is not gold, now gold is not reality</background></line>
+        <line>Now all I know I know all these things</line>
+        <line><background>Real is what you lease on me</background></line>
+    </chorus>
 
-[Verse 1]
-This is family business
-And this is for the family that can't be with us
-And this is for my cousin locked down, know the answer's in us
-This why I spit it in my songs so sweet like a photo
-Of your granny's picture, now that you're gone, it hit us
-Super hard on Thanksgiving and Christmas, this can't be right
-Yeah, you heard the track I did man, "This Can't Be Life"
-Somebody please say grace so I can save face
-And have a reason to cover my face
-I even made you a plate, soul food, know how Granny do it
-Monkey bread on the side, know how the family do it
-When I brought it why the guard have to look all through it?
-As kids, we used to laugh
-Who knew that life would move this fast?
-Who knew I'd have to look at you through a glass?
-And look, you tell me you ain't did it, then you ain't did it
-And if you did, then that's family business
-[Chorus]
-And I don't care 'bout
-(All the diamond rings, all the diamond rings)
-They don't mean a thing (All, all, all the things)
-All these fancy things
-I tell you that all is my weight and gold
-(All that glitters is not gold, now gold is not reality)
-Now all I know I know all these things
-(Real is what you lease on me)
+    <verse vocals="Kanye West" mood="confident" tone="neutral">
+        <topic type="family">
+            <line>This is family business</line>
+            <line>And this is for everybody standing with us</line>
+            <line>Come on, let's take a family Grammy picture</line>
+            <line>Abi, remember when they ain't believe in me?</line>
+            <line>Now she like "See, that's my cousin on TV!"</line>
+            <line>Now, we gettin' it and we gon' make it</line>
+            <line>And they gon' hate it and I'm his favorite</line>
+            <line>I can't deny it, I'm a straight rider</line>
+            <line>But when we get together be electric slidin'</line>
+            <line>Grandma, get 'em shook up</line>
+            <line>Aw naw, don't open the photo book up</line>
+            <line>I got an Aunt Ruth that can't remember your name</line>
+            <line>But I bet them Polaroids'll send her down memory lane</line>
+            <line>You know that one auntie, you don't mean to be rude</line>
+            <line>But every holiday nobody eating her food</line>
+            <line>And you don't wanna stay there cause them your worst cousins</line>
+            <line>Got roaches at their crib like them your first cousins</line>
+            <line>Act like you ain't took a bath with your cousins</line>
+            <line>Fit three in the bed if it's six of y'all</line>
+            <line>I'm talkin' 'bout three by the head and three by the leg</line>
+            <line>But you ain't have to tell my girl I used to pee in the bed</line>
+        </topic>
+        <line>Rain, rain, rain go away</line>
+        <line>Let the sun come out and all the children say</line>
+        <line>Rain, rain, rain go away</line>
+        <line>Let the sun come out and all the children say</line>
+    </verse>
 
-[Verse 2]
-This is family business
-And this is for everybody standing with us
-Come on, let's take a family Grammy picture
-Abi, remember when they ain't believe in me?
-Now she like "See, that's my cousin on TV!"
-Now, we gettin' it and we gon' make it
-And they gon' hate it and I'm his favorite
-I can't deny it, I'm a straight rider
-But when we get together be electric slidin'
-Grandma, get 'em shook up
-Aw naw, don't open the photo book up
-I got an Aunt Ruth that can't remember your name
-But I bet them Polaroids'll send her down memory lane
-You know that one auntie, you don't mean to be rude
-But every holiday nobody eating her food
-And you don't wanna stay there cause them your worst cousins
-Got roaches at their crib like them your first cousins
-Act like you ain't took a bath with your cousins
-Fit three in the bed if it's six of y'all
-I'm talkin' 'bout three by the head and three by the leg
-But you ain't have to tell my girl I used to pee in the bed
-[Bridge]
-Rain, rain, rain go away
-Let the sun come out and all the children say
-Rain, rain, rain go away
-Let the sun come out and all the children say
+    <verse vocals="Kanye West" mood="happy" tone="positive">
+        <line>I woke up early this morning with a new state of mind</line>
+        <line>A creative way to rhyme without using knives and guns</line>
+        <line>Keep your nose out the sky, keep your heart to God</line>
+        <line>And keep your face to the risin' sun</line>
+        <topic type="family">
+            <line>All my niggas from the Chi, that's my family, dog</line>
+            <line>And my niggas ain't my guys, they my family, dog</line>
+            <line>I feel like one day you'll understand me, dog</line>
+            <line>You can still love your man and be manly, dog</line>
+            <line>You ain't got to get heated at every house warmin'</line>
+            <line>Sittin' here, grillin' people like George Foreman</line>
+            <line>Why Uncle Ray and Aunt Shiela always performin'?</line>
+            <line>The second she storm out then he storm in</line>
+            <line>Y'all gon' sit down, have a good time this reunion</line>
+            <line>And drink some wine like Communion</line>
+            <line>And act like everything fine and if it isn't</line>
+            <line>We ain't letting everybody in our family business, uh</line>
+        </topic>
+    </verse>
 
-[Verse 3]
-I woke up early this morning with a new state of mind
-A creative way to rhyme without using knives and guns
-Keep your nose out the sky, keep your heart to God
-And keep your face to the risin' sun
-All my niggas from the Chi, that's my family, dog
-And my niggas ain't my guys, they my family, dog
-I feel like one day you'll understand me, dog
-You can still love your man and be manly, dog
-You ain't got to get heated at every house warmin'
-Sittin' here, grillin' people like George Foreman
-Why Uncle Ray and Aunt Shiela always performin'?
-The second she storm out then he storm in
-Y'all gon' sit down, have a good time this reunion
-And drink some wine like Communion
-And act like everything fine and if it isn't
-We ain't letting everybody in our family business, uh
-
-[Chorus]
-(All all all the diamond rings diamond rings)
-They don't mean a thing (All, all, all the things)
-They don't mean a thing (All, all, all the things)
-(All all that glitters is not gold, now gold is not reality)
-They don't mean a thing a thing
-(All, all, all the things)
-They don't mean a thing a thing a thing
-I don't care what they don't mean a thing
-(All, all, all the things) all these fancy things
-I tell you that all is my weight and gold
-All I know, I know all these things
-All these things, all these things
-All these things, all these things
-[Outro]
-CLK Mercedes Benz
-All these things, all these things ...
-All these things, all these things ...
-All these things, all these things ...
-A whole lotta money
-All these things, all these things
-All these things, all these things
-All these things, all these things
-Mommy and Daddy, will you please stop fighting?
-All these things, all these things
-All these things, (And I don't care why) all these things
-All these things, all these things
-All these things, all these things...
-Let's get Stevie outta jail
-
-
-
+    <chorus vocals="Kanye West" mood="sad" tone="negative">
+        <line><background>All all all the diamond rings diamond rings</background></line>
+        <line>They don't mean a thing <background>All, all, all the things</background></line>
+        <line>They don't mean a thing <background>All, all, all the things</background></line>
+        <line><background>All all that glitters is not gold, now gold is not
+            reality</background></line>
+        <line>They don't mean a thing a thing</line>
+        <line><background>All, all, all the things</background></line>
+        <line>They don't mean a thing a thing a thing</line>
+        <line>I don't care what they don't mean a thing</line>
+        <line><background>All, all, all the things</background> all these fancy things</line>
+        <line>I tell you that all is my weight and gold</line>
+        <line>All I know, I know all these things</line>
+        <line>All these things, all these things</line>
+        <line>All these things, all these things</line>
+    </chorus>
+    <outro vocals="Kanye West" mood="sad" tone="negative">
+        <topic type="wealth">
+            <line>CLK Mercedes Benz</line>
+            <line>All these things, all these things ...</line>
+            <line>All these things, all these things ...</line>
+            <line>All these things, all these things ...</line>
+            <line>A whole lotta money</line>
+        </topic>
+        <line>All these things, all these things</line>
+        <line>All these things, all these things</line>
+        <line>All these things, all these things</line>
+        <topic type="family">
+            <line>Mommy and Daddy, will you please stop fighting?</line>
+        </topic>
+        <line>All these things, all these things</line>
+        <line>All these things, <background>And I don't care why</background> all these
+            things</line>
+        <line>All these things, all these things</line>
+        <line>All these things, all these things...</line>
+        <line>Let's get Stevie outta jail</line>
+    </outro>
+</song>

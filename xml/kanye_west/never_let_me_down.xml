@@ -1,131 +1,154 @@
-[Chorus]
-When it comes to being true, at least true to me
-One thing I've found, one thing I found
-Oh no, you'll never let me down
-Get up, I get down, get up, I get down
-Get up, I get down, get up, I get down
-Get up, I get down, get up, I get down
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2004</year>
+        <title>Never Let Me Down</title>
+        <featuredArtist>Jay-Z J. Ivy</featuredArtist>
+        <album>The College Dropout</album>
+    </metadata>
+    <chorus vocals="?" mood="" tone="">
+        <line>When it comes to being true, at least true to me</line>
+        <line>One thing I've found, one thing I found</line>
+        <line>Oh no, you'll never let me down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up, I get down</line>
+    </chorus>
 
-[Verse 1: Jay-Z]
-Yo, first I snatched the streets, then I snatched the charts
-First I had they ear, now I have they heart
-Rappers came and went, I've been here from the start
-I seen them put it together, watched them take it apart
-Seen the Rovers roll up with ribbons
-I seen them re-po'd, re-sold, then re-driven
-So when I reload, he holds number one position
-When you hot, I'm hot
-And when your feet cold, mines is sizzling
-It's plain to see, niggas can't fuck with me
-'cause I'ma be that nigga for life
-This is not an image, this is God-given
-This is hard-livin', mixed with Cristal sippin'
-It's the most consistent, Hov
-Give you the most hits you can fit inside a whole disc and
-Nigga I'm home on these charts, y'all niggas visitin'
-It's Hov tradition, Jeff Gordon of rap
-I'm back to claim pole position, holla at ya boy
-[Chorus]
-When it comes to being true, at least true to me
-One thing I've found, one thing I found
-Oh no, you'll never let me down
-Get up, I get down, get up, I get down
-Get up, I get down, get up, I get down
-Get up, I get down, get up
+    <verse vocals="Jay-Z" mood="" tone="">
+        <line>Yo, first I snatched the streets, then I snatched the charts</line>
+        <line>First I had they ear, now I have they heart</line>
+        <line>Rappers came and went, I've been here from the start</line>
+        <line>I seen them put it together, watched them take it apart</line>
+        <line>Seen the Rovers roll up with ribbons</line>
+        <line>I seen them re-po'd, re-sold, then re-driven</line>
+        <line>So when I reload, he holds number one position</line>
+        <line>When you hot, I'm hot</line>
+        <line>And when your feet cold, mines is sizzling</line>
+        <line>It's plain to see, niggas can't fuck with me</line>
+        <line>'cause I'ma be that nigga for life</line>
+        <line>This is not an image, this is God-given</line>
+        <line>This is hard-livin', mixed with Cristal sippin'</line>
+        <line>It's the most consistent, Hov</line>
+        <line>Give you the most hits you can fit inside a whole disc and</line>
+        <line>Nigga I'm home on these charts, y'all niggas visitin'</line>
+        <line>It's Hov tradition, Jeff Gordon of rap</line>
+        <line>I'm back to claim pole position, holla at ya boy</line>
+    </verse>
+    <chorus vocals="?" mood="" tone="">
+        <line>When it comes to being true, at least true to me</line>
+        <line>One thing I've found, one thing I found</line>
+        <line>Oh no, you'll never let me down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up</line>
+    </chorus>
 
-[Verse 2: Kanye West]
-I get down for my grandfather who took my mama
-Made her sit in that seat where white folks ain't want us to eat
-At the tender age of 6, she was arrested for the sit-ins
-And with that in my blood I was born to be different
-Now niggas can't make it to ballots to choose leadership
-But we can make it to Jacob's and to the dealership
-That's why I hear new music and I just don't be feelin' it
-Racism's still alive, they just be concealin' it
-But I know they don't want me in the damn club
-They even made me show ID to get inside of Sam's Club
-I done did dirt and went to church to get my hands scrubbed
-Swear I've been baptized 'least three or four times
-But in the land where niggas praise Yukons and getting paid
-It's gonna take a lot more than coupons to get us saved
-Like it take a lot more than doo rags to get you waves
-Nothing sad as that day my girl's father passed away
-So I promised to Mr. Rainey I'm gonna marry your daughter
-And you know I gotta thank you for the way that she was brought up
-And I know that you were smiling when you see the car I bought her
-You sent tears from heaven when you seen my car get balled up
-But I can't complain what the accident did to my left eye
-'Cause look what an accident did to Left Eye
-First Aaliyah now Romeo must die
-I know I got angels watching me from the other side
-[Chorus]
-When it comes to being true, at least true to me
-One thing I've found, one thing I found
-Oh no, you'll never let me down
-Get up, I get down, get up, I get down
-Get up, I get down, get up, I get down
-Get up, I get down, get up, I get down
+    <verse vocals="Kanye West" mood="sad" tone="negative">
+        <topic type="family">
+            <line>I get down for my grandfather who took my mama</line>
+        </topic>
+        <line>Made her sit in that seat where white folks ain't want us to eat</line>
+        <line>At the tender age of 6, she was arrested for the sit-ins</line>
+        <line>And with that in my blood I was born to be different</line>
+        <topic type="social issues">
+            <line>Now niggas can't make it to ballots to choose leadership</line>
+            <line>But we can make it to Jacob's and to the dealership</line>
+            <line>That's why I hear new music and I just don't be feelin' it</line>
+            <line>Racism's still alive, they just be concealin' it</line>
+            <line>But I know they don't want me in the damn club</line>
+            <line>They even made me show ID to get inside of Sam's Club</line>
+            <line>I done did dirt and went to church to get my hands scrubbed</line>
+            <line>Swear I've been baptized 'least three or four times</line>
+            <line>But in the land where niggas praise Yukons and getting paid</line>
+            <line>It's gonna take a lot more than coupons to get us saved</line>
+        </topic>
+        <line>Like it take a lot more than doo rags to get you waves</line>
+        <topic type="death">
+            <line>Nothing sad as that day my girl's father passed away</line>
+        </topic>
+        <line>So I promised to Mr. Rainey I'm gonna marry your daughter</line>
+        <line>And you know I gotta thank you for the way that she was brought up</line>
+        <line>And I know that you were smiling when you see the car I bought her</line>
+        <line>You sent tears from heaven when you seen my car get balled up</line>
+        <line>But I can't complain what the accident did to my left eye</line>
+        <line>'Cause look what an accident did to Left Eye</line>
+        <line>First Aaliyah now Romeo must die</line>
+        <line>I know I got angels watching me from the other side</line>
+    </verse>
+    <chorus vocals="?" mood="" tone="">
+        <line>When it comes to being true, at least true to me</line>
+        <line>One thing I've found, one thing I found</line>
+        <line>Oh no, you'll never let me down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up, I get down</line>
+        <line>Get up, I get down, get up, I get down</line>
+    </chorus>
+    <verse vocals="J. Ivy" mood="" tone="">
+        <line>We are all here for a reason on a particular path</line>
+        <line>You don't need a curriculum to know that you're a part of the math</line>
+        <line>Cats think I'm delirious but I'm so damn serious</line>
+        <line>That's why I expose my soul to the globe; the world</line>
+        <line>I'm trying to make it better for these little boys and girls</line>
+        <line>I'm not just another individual</line>
+        <line>My spirit is a part of this that's why I get spiritual</line>
+        <line>But I get my hymns from Him</line>
+        <line>So it's not me, it's He that's lyrical</line>
+        <line>I'm not a miracle, I'm a heaven-sent instrument</line>
+        <line>My rhythmatic regiment navigates melodic notes</line>
+        <line>For your soul and your mental</line>
+        <line>That's why I'm instrumental, vibrations is what I'm into</line>
+        <line>Yeah I need my loot by rent day</line>
+        <line>But that ain't what gives me the heart of Kunta Kinte</line>
+        <line>I'm trying to get us "us free" like Cinque</line>
+        <line>I can't stop, that's why I'm hot</line>
+        <line>Determination, dedication, motivation</line>
+        <line>I'm talking to you of my many inspirations</line>
+        <line>When I say I can't let you or self-down</line>
+        <line>If I were on the highest cliff, on the highest riff</line>
+        <line>And if you slipped off the side and clinched on to your life</line>
+        <line>In my grip, I would never ever let you down</line>
+        <line>And when these words are found</line>
+        <line>Let it be known that God's penmanship has been signed</line>
+        <line>With a language called love</line>
+        <line>That's why my breath is felt by the deaf</line>
+        <line>And while my words are heard and confined to the ears of the blind</line>
+        <line>I too dream in color and in rhyme</line>
+        <line>So I guess I'm one of a kind in a full house</line>
+        <line>'Cause whenever I open my heart, my soul or my mouth</line>
+        <line>A touch of God reigns out</line>
+        <line>Take 'em to church</line>
+    </verse>
+    <chorus vocals="?" mood="" tone="">
+        <line>When it comes to being true, at least true to me</line>
+        <line>One thing I found, one thing I found</line>
+        <line>Oh no, you'll never let me down</line>
+        <line>Get up, I get, get up, I get</line>
+        <line>Get up, I get, get up, I get</line>
+        <line>Get up, I get, get up, I get down</line>
+    </chorus>
 
-[Verse 3: J. Ivy]
-We are all here for a reason on a particular path
-You don't need a curriculum to know that you're a part of the math
-Cats think I'm delirious but I'm so damn serious
-That's why I expose my soul to the globe; the world
-I'm trying to make it better for these little boys and girls
-I'm not just another individual
-My spirit is a part of this that's why I get spiritual
-But I get my hymns from Him
-So it's not me, it's He that's lyrical
-I'm not a miracle, I'm a heaven-sent instrument
-My rhythmatic regiment navigates melodic notes
-For your soul and your mental
-That's why I'm instrumental, vibrations is what I'm into
-Yeah I need my loot by rent day
-But that ain't what gives me the heart of Kunta Kinte
-I'm trying to get us "us free" like Cinque
-I can't stop, that's why I'm hot
-Determination, dedication, motivation
-I'm talking to you of my many inspirations
-When I say I can't let you or self-down
-If I were on the highest cliff, on the highest riff
-And if you slipped off the side and clinched on to your life
-In my grip, I would never ever let you down
-And when these words are found
-Let it be known that God's penmanship has been signed
-With a language called love
-That's why my breath is felt by the deaf
-And while my words are heard and confined to the ears of the blind
-I too dream in color and in rhyme
-So I guess I'm one of a kind in a full house
-'Cause whenever I open my heart, my soul or my mouth
-A touch of God reigns out
-Take 'em to church
-[Chorus]
-When it comes to being true, at least true to me
-One thing I found, one thing I found
-Oh no, you'll never let me down
-Get up, I get, get up, I get
-Get up, I get, get up, I get
-Get up, I get, get up, I get down
-
-[Verse 4: Jay-Z & Kanye West]
-Who else you know been hot this long?
-(Oh yeah, we ain't finished)
-Started from nothing but he got this strong
-(The Roc is in the building)
-Built the Roc from a pebble, peddled rock before I met you
-Pedaled bikes, got my nephews pedal bikes because they special (Wooooo)
-Let you tell it, man, I'm falling
-Well, somebody must have caught him
-'Cause every fourth quarter, I like to Mike Jordan them
-Number one albums, what I got? Like four of them
-More of them on the way, the eighth wonder on the way
-Clear the way, I'm here to stay
-Y'all can save the chitter chat, this and that
-This is Jay, dissing Jay will get you maced
-When I start spitting them lyrics niggas get very religious
-Six Hail Marys, 'Please Father forgive us'
-Young the archbishop, the Pope John Paul of y'all niggas
-The way y'all all follow Jigga
-Hov's a living legend and I'll tell you why
-Everybody wanna be Hov and Hov's still alive
+    <verse vocals="Jay-Z" tone="" mood="">
+        <line>Who else you know been hot this long?</line>
+        <line>(Oh yeah, we ain't finished)</line>
+        <line>Started from nothing but he got this strong</line>
+        <line>(The Roc is in the building)</line>
+        <line>Built the Roc from a pebble, peddled rock before I met you</line>
+        <line>Pedaled bikes, got my nephews pedal bikes because they special (Wooooo)</line>
+        <line>Let you tell it, man, I'm falling</line>
+        <line>Well, somebody must have caught him</line>
+        <line>'Cause every fourth quarter, I like to Mike Jordan them</line>
+        <line>Number one albums, what I got? Like four of them</line>
+        <line>More of them on the way, the eighth wonder on the way</line>
+        <line>Clear the way, I'm here to stay</line>
+        <line>Y'all can save the chitter chat, this and that</line>
+        <line>This is Jay, dissing Jay will get you maced</line>
+        <line>When I start spitting them lyrics niggas get very religious</line>
+        <line>Six Hail Marys, 'Please Father forgive us'</line>
+        <line>Young the archbishop, the Pope John Paul of y'all niggas</line>
+        <line>The way y'all all follow Jigga</line>
+        <line>Hov's a living legend and I'll tell you why</line>
+        <line>Everybody wanna be Hov and Hov's still alive</line>
+    </verse>
+</song>

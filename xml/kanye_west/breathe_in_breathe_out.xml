@@ -1,105 +1,137 @@
-[Chorus: Ludacris]
-Yeah! Breathe in, breathe out
-If you're iced up, pull your sleeves out
-Push a big truck, pull your keys out
-Girls go wild and pull your D's out
-Breathe in, breathe out
-Let them hoes fight, pull a weave out
-If a nigga act up, pull a Desert E's out
-When I pull the piece out, niggas like, "Peace out!"
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 
-[Verse 1: Kanye West]
-Golly, more of that bullshit ice rap
-I gotta 'pologize to Mos and Kweli (Kweli)
-But is it cool to rap about gold
-If I told the world I copped it from Ghana and Mali? (Mali!)
-First nigga with a Benz and a backpack
-Ice chain, Carti lens, and a knapsack
-Always said if I rapped, I'd say somethin' significant
-But now, I'm rapping 'bout money, hoes, and rims again
-And it's still about the Benjamins
-Big-face hundreds and whatever other synonyms
-Strippers named "Cinnamon," more chips than Pentium
-"What you gon' buy next?" Whatever new trend it is
-I'm tryna spend my stacks, and I'm so broke
-I look back, like, "Damn, was I on crack?"
-I mean, twelve platinum chains—was I on that?
-What the hell was wrong with me, dog?
-Sing along with me, y'all
-[Chorus: Ludacris]
-Yeah! Breathe in, breathe out (Ugh)
-If you're iced up, pull your sleeves out
-Push a big truck, pull your keys out
-Girls go wild and pull your D's out
-Breathe in, breathe out
-Let them hoes fight, pull a weave out
-If a nigga act up, pull a Desert E's out
-When I pull the piece out, niggas like, "Peace out!"
+<song>
 
-[Verse 2: Kanye West]
-Now, even though I went to college and dropped out of school quick
-I always had a Ph.D: a pretty huge dick
-Ladies tired of getting ripped off by guys like this
-And giving head is like a whale that's using a toothpick
-Well, I'm in the club for a limited time
-Act now and get some action for a free-ninety-nine
-Later on, I might charge for ménage
-Heard her man was the boss of the floss
-But she still want to toss me the drawers
-And it ain't gon' cost me because
-She my caddy 'cause she grab my golf balls in the club
-And I'm still acting calm than a muh'
-She asked, "Can you drive me in the hundreds where my Altima was?"
-While we drive she tellin' me 'bout problems with her man
-Baby, I fully understand; let me help you with a plan
-While he tricking off, don't get no rich nigga
-Give me some head—that'll really piss him off
-[Chorus: Ludacris]
-Yeah! Breathe in, breathe out
-If you're iced up, pull your sleeves out
-Push a big truck, pull your keys out
-Girls go wild and pull your D's out
-Breathe in, breathe out
-Let them hoes fight, pull a weave out
-If a nigga act up, pull a Desert E's out
-When I pull the piece out, niggas like, "Peace out!"
+    <metadata>
+        <artist>Kanye West</artist>
+        <year>2004</year>
+        <title>Breathe In Breathe Out</title>
+        <featuredArtist>Ludacris</featuredArtist>
+        <album>The College Dropout</album>
+    </metadata>
+    <chorus vocals="Ludacris" mood="" tone="">
+        <line>Yeah! Breathe in, breathe out</line>
+        <line>If you're iced up, pull your sleeves out</line>
+        <line>Push a big truck, pull your keys out</line>
+        <line>Girls go wild and pull your D's out</line>
+        <line>Breathe in, breathe out</line>
+        <line>Let them hoes fight, pull a weave out</line>
+        <line>If a nigga act up, pull a Desert E's out</line>
+        <line>When I pull the piece out, niggas like, "Peace out!"</line>
+    </chorus>
 
-[Verse 3: Kanye West]
-I blow past low-class niggas with no cash
-In a four-dash-six, bitch, you can go ask
-So when I go fast, po-po just laugh
-Right until I run out of gas or 'til I go crash
-Whatever comes first, I'm prepared for the worst
-Whatever comes second, I'll be there with my weapon
-Pulling up in the Lexuses, one on both hand
-So I guess them GS'ses was ambidextrous
-Could've sworn her breasteses was sending me messages
-"K, I need a free hand-mammogram
-I got weed, drink, and a Handicam
-All of which is legal in Amsterdam"
-So, say my name like Candyman
-And I'ma come and fix you up like the handyman
-But if you don't need a fix, girl, you gotta leave
-You can't take that all at one time—you gotta breathe!
-[Chorus: Ludacris]
-Yeah! Breathe in, breathe out
-If you're iced up, pull your sleeves out
-Push a big truck, pull your keys out
-Girls go wild and pull your D's out
-Breathe in, breathe out
-Let them hoes fight, pull a weave out
-If a nigga act up, pull a Desert E's out
-When I pull the piece out, niggas like "Peace out!"
+    <verse vocals="Kanye West" mood="confident" tone="neutral">
+        <line>Golly, more of that bullshit ice rap</line>
+        <line>I gotta 'pologize to Mos and Kweli <background>Kweli</background></line>
+        <topic type="wealth">
+            <line>But is it cool to rap about gold</line>
+            <line>If I told the world I copped it from Ghana and Mali?
+                    <background>Mali!</background></line>
+            <line>First nigga with a Benz and a backpack</line>
+            <line>Ice chain, Carti lens, and a knapsack</line>
+            <line>Always said if I rapped, I'd say somethin' significant</line>
+            <line>But now, I'm rapping 'bout money, hoes, and rims again</line>
+            <line>And it's still about the Benjamins</line>
+            <line>Big-face hundreds and whatever other synonyms</line>
+            <line>Strippers named "Cinnamon," more chips than Pentium</line>
+            <line>"What you gon' buy next?" Whatever new trend it is</line>
+        </topic>
+        <topic type="poverty">
+            <line>I'm tryna spend my stacks, and I'm so broke</line>
+            <line>I look back, like, "Damn, was I on crack?"</line>
+            <line>I mean, twelve platinum chains—was I on that?</line>
+            <line>What the hell was wrong with me, dog?</line>
+        </topic>
+        <line>Sing along with me, y'all</line>
+    </verse>
 
-[Outro: Kanye West]
-Yeah-ugh, ugh-ugh, ugh-ugh
-And you say, "Chi-city" (Chi-city)
-Y-Yeah, and you say, "Chi-city"
-Y-Yeah, and you say, "Chi-city" (Chi-city)
-Uh-huh (Uh-huh), and you say, "Chi-city" (Chi-city)
-Y-Yeah, you say "Chi-city" (Chi-city)
-Ugh-ugh (Ugh-ugh), you say, "Chi—"
-Y— You say, "Chi—"
-Y— You say, "Chi-city" (Chi-city)
-Chi-city (Chi-city), Chi-city (Chi-city)
-(Chi-city, Chi-city—)
+    <chorus vocals="Ludacris" mood="" tone="">
+        <line>Yeah! Breathe in, breathe out <background>Ugh</background></line>
+        <line>If you're iced up, pull your sleeves out</line>
+        <line>Push a big truck, pull your keys out</line>
+        <line>Girls go wild and pull your D's out</line>
+        <line>Breathe in, breathe out</line>
+        <line>Let them hoes fight, pull a weave out</line>
+        <line>If a nigga act up, pull a Desert E's out</line>
+        <line>When I pull the piece out, niggas like, "Peace out!"</line>
+    </chorus>
+
+    <verse vocals="Kanye West" mood="confident" tone="positive">
+        <line>Now, even though I went to college and dropped out of school quick</line>
+        <line>I always had a Ph.D: a pretty huge dick</line>
+        <line>Ladies tired of getting ripped off by guys like this</line>
+        <line>And giving head is like a whale that's using a toothpick</line>
+        <line>Well, I'm in the club for a limited time</line>
+        <line>Act now and get some action for a free-ninety-nine</line>
+        <line>Later on, I might charge for ménage</line>
+        <line>Heard her man was the boss of the floss</line>
+        <line>But she still want to toss me the drawers</line>
+        <line>And it ain't gon' cost me because</line>
+        <line>She my caddy 'cause she grab my golf balls in the club</line>
+        <line>And I'm still acting calm than a muh'</line>
+        <line>She asked, "Can you drive me in the hundreds where my Altima was?"</line>
+        <line>While we drive she tellin' me 'bout problems with her man</line>
+        <line>Baby, I fully understand; let me help you with a plan</line>
+        <line>While he tricking off, don't get no rich nigga</line>
+        <line>Give me some head—that'll really piss him off</line>
+    </verse>
+    <chorus vocals="Ludacris" mood="" tone="">
+        <line>Yeah! Breathe in, breathe out</line>
+        <line>If you're iced up, pull your sleeves out</line>
+        <line>Push a big truck, pull your keys out</line>
+        <line>Girls go wild and pull your D's out</line>
+        <line>Breathe in, breathe out</line>
+        <line>Let them hoes fight, pull a weave out</line>
+        <line>If a nigga act up, pull a Desert E's out</line>
+        <line>When I pull the piece out, niggas like, "Peace out!"</line>
+    </chorus>
+
+    <verse vocals="Kanye West" mood="confident" tone="neutral">
+        <topic type="wealth">
+            <line>I blow past low-class niggas with no cash</line>
+            <line>In a four-dash-six, bitch, you can go ask</line>
+            <line>So when I go fast, po-po just laugh</line>
+            <line>Right until I run out of gas or 'til I go crash</line>
+            <line>Whatever comes first, I'm prepared for the worst</line>
+            <line>Whatever comes second, I'll be there with my weapon</line>
+            <line>Pulling up in the Lexuses, one on both hand</line>
+            <line>So I guess them GS'ses was ambidextrous</line>
+        </topic>
+        <line>Could've sworn her breasteses was sending me messages</line>
+        <line>"K, I need a free hand-mammogram</line>
+        <topic type="drugs">
+            <line>I got weed, drink, and a Handicam</line>
+        </topic>
+        <line>All of which is legal in Amsterdam"</line>
+        <line>So, say my name like Candyman</line>
+        <line>And I'ma come and fix you up like the handyman</line>
+        <line>But if you don't need a fix, girl, you gotta leave</line>
+        <line>You can't take that all at one time—you gotta breathe!</line>
+    </verse>
+    <chorus vocals="Ludacris" mood="" tone="">
+        <line>Yeah! Breathe in, breathe out</line>
+        <line>If you're iced up, pull your sleeves out</line>
+        <line>Push a big truck, pull your keys out</line>
+        <line>Girls go wild and pull your D's out</line>
+        <line>Breathe in, breathe out</line>
+        <line>Let them hoes fight, pull a weave out</line>
+        <line>If a nigga act up, pull a Desert E's out</line>
+        <line>When I pull the piece out, niggas like "Peace out!"</line>
+    </chorus>
+
+    <outro vocals="Kanye West" mood="energetic" tone="neutral">
+        <line>Yeah-ugh, ugh-ugh, ugh-ugh</line>
+        <line>And you say, "Chi-city" <background>Chi-city</background></line>
+        <line>Y-Yeah, and you say, "Chi-city"</line>
+        <line>Y-Yeah, and you say, "Chi-city" <background>Chi-city</background></line>
+        <line>Uh-huh <background>Uh-huh</background>, and you say, "Chi-city"
+                <background>Chi-city</background></line>
+        <line>Y-Yeah, you say "Chi-city" <background>Chi-city</background></line>
+        <line>Ugh-ugh <background>Ugh-ugh</background>, you say, "Chi—"</line>
+        <line>Y— You say, "Chi—"</line>
+        <line>Y— You say, "Chi-city" <background>Chi-city</background></line>
+        <line>Chi-city <background>Chi-city</background>, Chi-city
+            <background>Chi-city</background></line>
+        <line><background>Chi-city, Chi-city—</background></line>
+    </outro>
+</song>
