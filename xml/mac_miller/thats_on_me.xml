@@ -1,39 +1,40 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>That's On Me</songTitle>
+        <title>That's On Me</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
-<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>That's on me, that's on me, I know</line>
 <line>That's on me, that's on me, it's all my fault</line>
 <line>That's on me, that's on me, I know</line>
 <line>That's on me, that's on me, I know</line>
 </chorus>
 
-<verse vocals="Mac Miller" mood="sad" tone="negative">
+<verse vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Time moving slowly, I'm bouncing my head off the wall</line>
 <line>I know nobody that knows where we're going at all</line>
 <line>Don't, don't, don't, don't let me down</line>
 <line>And I'll pick you up, I'll help you get around</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>That's on me, that's on me, I know</line>
 <line>That's on me, that's on me, it's all my fault</line>
 <line>That's on me, that's on me, I know</line>
 <line>That's on me, that's on me, I know</line>
 </chorus>
 
-<bridge>
+    <bridge vocals="Mac_Miller" mood="ambiguous" tone="positive">
 <line>I'll let it go</line>
 <line>I'll cut the strings</line>
 <line>Today I'm fine</line>
 </bridge>
 
-<verse vocals="Mac Miller" mood="anxious" tone="negative">
+<verse vocals="Mac_Miller" mood="anxious" tone="negative">
 <line>I don't know where I've been lately, but I've been alright</line>
 <line>I said good morning this morning and I'll say good night</line>
 <line>Don't, don't, don't, don't wait around</line>
@@ -41,7 +42,7 @@
 <line>It's unfair when I'm being too proud, but</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>That's on me, that's on me, I know</line>
 <line>That's on me, that's on me, it's all my fault</line>
 <line>That's on me, that's on me, I know</line>

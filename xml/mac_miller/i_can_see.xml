@@ -1,12 +1,13 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>I Can See</songTitle>
+        <title>I Can See</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
-<verse vocals="Mac Miller" mood="hopeful" tone="positive">
+<verse vocals="Mac_Miller" mood="hopeful" tone="positive">
 <line>I'm so close I can taste it</line>
 <line>The man on the moon keep playing</line>
 <line>Practical jokes, planting the mirrors and smoke</line>
@@ -22,14 +23,14 @@
 <line>Before I drive myself crazy</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="determined" tone="neutral">
+<chorus vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>And all I know if life is but a dream then so are we</line>
 <line>Show me something, show me something, show me something</line>
 <line>And all I know if life is but a dream then so are we</line>
 <line>Show me something, show me something, something I can see</line>
 </chorus>
 
-<verse vocals="Mac Miller" mood="determined" tone="positive">
+<verse vocals="Mac_Miller" mood="determined" tone="positive">
 <line>Yeah, don't tell me to stop</line>
 <line>Let me keep goin' until I cannot</line>
 <line>Life is a fantasy until you wake up in shock</line>
@@ -40,7 +41,7 @@
 <line>You got so far to go, but look at where you came from</line>
 </verse>
     
-<chorus vocals="Mac Miller" mood="determined" tone="neutral">
+<chorus vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>And all I know if life is but a dream then so are we</line>
 <line>Show me something, show me something, show me something</line>
 <line>And all I know if life is but a dream then so are we</line>

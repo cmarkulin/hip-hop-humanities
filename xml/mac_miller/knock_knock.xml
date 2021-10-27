@@ -1,19 +1,20 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2010</year>
-        <songTitle>Knock Knock</songTitle>
+        <title>Knock Knock</title>
         <featuredArtist>None</featuredArtist>
         <album>K.I.D.S.</album>
     </metadata>
-<intro vocals="Mac Miller" mood="hopeful" tone="positive">
+<intro vocals="Mac_Miller" mood="hopeful" tone="positive">
 <line>Bum, ba bum</line>
 <line>This is gonna feel real good, a'ight?</line>
 <line>Most Dope</line>
 <line>Everybody please put a thumb in the air <background>Hey, hey</background></line>
 </intro>
 
-<chorus vocals="Mac Miller" mood="happy" tone="neutral">
+<chorus vocals="Mac_Miller" mood="happy" tone="neutral">
 <line>One, two, three, four</line>
 <line>Some crazy-ass kids gonna knock up on your door, so</line>
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
@@ -22,7 +23,7 @@
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
 </chorus>
 
-<verse vocals="Mac Miller" mood="confident" tone="positive">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>I feel like a million bucks</line>
 <topic type="money"><line>But my money don't really feel like I do</line></topic>
 <line>And from the ground, I built my own damn buzz</line>
@@ -42,7 +43,7 @@
 <line>Yeah, I rock the beat</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="happy" tone="neutral">
+<chorus vocals="Mac_Miller" mood="happy" tone="neutral">
 <line>One, two, three, four</line>
 <line>Some crazy-ass kids gonna knock up on your door, so</line>
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
@@ -51,7 +52,7 @@
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
 </chorus>
 
-<verse vocals="Mac Miller" mood="" tone="">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <topic type="money"><line>And I like my rhymes witty, all my dimes pretty</line></topic>
 <topic type="drugs"><line>If you got weed, you can come fly with me</line></topic>
 <line>I don't take pity on them silly little hoes</line>
@@ -70,7 +71,7 @@
 <topic type="money"><line>Fuck a job, I'ma get these dead presidents</line></topic>
 </verse>
 
-<chorus vocals="Mac Miller" mood="happy" tone="neutral">
+<chorus vocals="Mac_Miller" mood="happy" tone="neutral">
 <line>One, two, three, four</line>
 <line>Some crazy-ass kids gonna knock up on your door, so</line>
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
@@ -79,7 +80,7 @@
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>
 </chorus>
 
-<bridge vocals="Mac Miller" mood="happy" tone="positive">
+<bridge vocals="Mac_Miller" mood="happy" tone="positive">
 <topic type="drugs"><line>Not a day, goes by when I ain't gettin' high</line></topic>
 <line>They wonder why don't I go get myself a job</line>
 <topic type="money"><line>So I can make, them bucks, but I don't give a fuck</line></topic>
@@ -87,7 +88,7 @@
 <line>Bitch, I feel great</line>
 </bridge>
 
-<chorus vocals="Mac Miller" mood="happy" tone="neutral">
+<chorus vocals="Mac_Miller" mood="happy" tone="neutral">
 <line>One, two, three, four</line>
 <line>Some crazy-ass kids gonna knock up on your door, so</line>
 <line>Let 'em in, let 'em in, let 'em in <background>Hey</background></line>

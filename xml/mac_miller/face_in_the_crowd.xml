@@ -1,17 +1,18 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2010</year>
-        <songTitle>Face in the Crowd</songTitle>
+        <title>Face in the Crowd</title>
         <featuredArtist>None</featuredArtist>
         <album>K.I.D.S.</album>
     </metadata>
     
-<intro vocals="Mac Miller">
+<intro vocals="Mac_Miller" mood="ambiguous" tone="neutral">
 <line>Yeah, we gon' start this one like this</line>
 </intro>
 
-<verse vocals="Mac Miller" mood="confident" tone="positive">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>Driving down the road with a couple more miles to go</line>
 <line>I'm so close but they don't know</line>
 <topic type="drugs"><line>Got some freaky hoes and weed to blow</line></topic>
@@ -26,7 +27,7 @@
 <line>Girl, you look so good you need to get up on the floor</line>
 </verse>
 
-<chours vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Don't you feel good, don't you feel great?</line>
 <line>I feel so fly and I hope you can relate</line>
 <line>I got some brand new shoes and a brand new tee</line>
@@ -35,9 +36,9 @@
 <line>Thought I was the coolest motherfucker around</line>
 <line>But, I'm just another face in the crowd</line>
 <line>I said, "I'm just another face in the crowd"</line>
-</chours>
+</chorus>
 
-<verse vocals="Mac Miller" mood="confident" tone="positive">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>They tell me it's impossible to do it, I'd be stupid if I tried</line>
 <line>But I'm using a maneuver, keep on moving 'em aside</line>
 <line>I'm just trying to make some music for the ride</line>
@@ -56,7 +57,7 @@
 <line>And now you know how we felt <background>Aha</background></line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Don't you feel good, don't you feel great?</line>
 <line>I feel so fly and I hope you can relate</line>
 <line>I got some brand new shoes and a brand new tee</line>
@@ -71,7 +72,7 @@
     Instrumental Bridge
 </bridge>
 
-<chorus vocals="Mac Miller" mood="sad" tone="negative">
+<chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Don't you feel good, don't you feel great?</line>
 <line>I feel so fly and I hope you can relate</line>
 <line>I got some brand new shoes and a brand new tee</line>

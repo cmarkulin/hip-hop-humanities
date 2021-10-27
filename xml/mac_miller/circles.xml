@@ -1,13 +1,14 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>Circles</songTitle>
+        <title>Circles</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
     
-<verse vocals="Mac Miller" mood="sad" tone="negative">
+<verse vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Well, this is what it look like right before you fall</line>
 <line>Stumblin' around, you've been guessing your direction</line>
 <line>Next step, you can't see at all</line>
@@ -23,7 +24,7 @@
 <line>And I can keep you safe, I can keep you safe, mmm</line>
 <line>Do not be afraid, do not be afraid</line>
 <line>You're feeling sorry, I'm feeling fine</line>
-<topic type="social issues"><line>Don't you put any more stress on yourself, it's one day at a time</line></topic>
+<topic type="social_issues"><line>Don't you put any more stress on yourself, it's one day at a time</line></topic>
 <line>It's gettin' pretty late, gettin' pretty late</line>
 <line>Damn, and I find</line>
 <line>It goes around like the hands that keep countin' the time</line>

@@ -1,19 +1,20 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2010</year>
-        <songTitle>Good Evening</songTitle>
+        <title>Good Evening</title>
         <featuredArtist>None</featuredArtist>
         <album>K.I.D.S.</album>
     </metadata>
 
-<intro vocals="Mac Miller">
+<intro vocals="Mac_Miller" mood="ambiguous" tone="neutral">
 <line>Uh, look</line>
 <line>Good evening</line>
 <line>Yeah</line>
 </intro>
 
-<verse vocals="Mac Miller" mood="confident" tone="positive">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>When I party in New York, take the late night subway</line>
 <line>Goin' out Friday to comin' home Monday</line>
 <line>From all directions never find me on the one way flavor</line>
@@ -32,14 +33,14 @@
 <topic type="money"><line>Willie Parker money, hand it off then it's runnin' back</line></topic>
 </verse>
 
-<interlude vocals="Mac Miller">
+<interlude vocals="Mac_Miller">
 <line>Ayo you fuck wit' dat</line>
 <line>Uh you gotta fuck wit' dat</line>
 <line>You in love wit' dat</line>
-<line>Look, uh, Mac Miller</line>
+<line>Look, uh, Mac_Miller</line>
 </interlude>
 
-<verse vocals="Mac Miller" mood="apathetic" tone="negative">
+<verse vocals="Mac_Miller" mood="apathetic" tone="negative">
 <line>Takin' sips from the fountain of youth</line>
 <line>If you ain't heard about the kid then you out of the loop</line>
 <line>As I'm sittin' back starin' at this world in my eyes</line>
@@ -60,7 +61,7 @@
 <line>It's only been a year, I can stick around a hundred more</line>
 </verse>
 
-<interlude vocals="Mac Miller">
+<interlude vocals="Mac_Miller">
 <line>Said I could stick around a hundred more</line>
 <line>I ain't goin' nowhere</line>
 <line>Young and so much time to go</line>
@@ -70,7 +71,7 @@
 <line>Aight look</line>
 </interlude>
 
-<verse vocals="Mac Miller" mood="confident" tone="positive">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>You can find me in the lab workin' overtime</line>
 <topic type="drugs"><line>Smell the weed when you going by, global grind</line></topic>
 <line>And I ain't just a local guy</line>
@@ -90,7 +91,7 @@
 <topic type="drugs"><line>Find me smokin' weed where the wild things are</line></topic>
 </verse>
 
-<outro vocals="Mac Miller" mood="determined" tone="positive">
+<outro vocals="Mac_Miller" mood="determined" tone="positive">
 <line>Yessir</line>
 <line>So I mean, I had to take this time</line>
 <line>Real quickly, to just go in</line>

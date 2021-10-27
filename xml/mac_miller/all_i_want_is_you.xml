@@ -1,13 +1,14 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <metadata>
+    <artist>Mac Miller</artist>
     <year>2010</year>
-    <songTitle>All I Want Is You</songTitle>
+    <title>All I Want Is You</title>
     <featuredArtist>None</featuredArtist>
     <album>K.I.D.S.</album>
 </metadata>
     
-<chorus vocals="Mac Miller" mood="determined" tone="neutral">
+<chorus vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>Girl, I don't wanna share you</line>
 <line>We could be together, but you scared to</line>
 <line>I ain't gonna leave you</line>
@@ -26,7 +27,7 @@
 <line>Baby, all I'm gonna want is you</line>
 </chorus>
     
-<verse vocals="Mac Miller" mood="angry" tone="negative">
+<verse vocals="Mac_Miller" mood="angry" tone="negative">
 <line>Uh, look</line>
 <line>They told me never fall in love, it never works out in your favor</line>
 <line>You way too young and right now that's just human nature</line>
@@ -46,7 +47,7 @@
 <line>Uh, but you just gotta be mine, 'cause</line>
 </verse>
     
-<chorus vocals="Mac Miller" mood="determined" tone="neutral">
+<chorus vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>Girl, I don't wanna share you <background>Share you</background></line>
 <line>We could be together, but you scared to</line>
 <line>I ain't gonna leave you <background>Leave you</background></line>
@@ -57,7 +58,7 @@
 <line>Baby, all I'm gonna want is you</line>
 </chorus>
     
-<verse vocals="Mac Miller" mood="determined" tone="neutral">
+<verse vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>Hey, hey, haha, look</line>
 <line>I know this girl who want the world to call her own</line>
 <line>Goin' through these dudes like some minutes on a phone</line>
@@ -77,7 +78,7 @@
 <line>Or we can stay right here and you'll be mine</line>
 </verse>
     
-<chorus vocals="Mac Miller" mood="determined" tone="neutral">
+<chorus vocals="Mac_Miller" mood="determined" tone="neutral">
 <line>Girl, I don't wanna share you <background>Share you</background></line>
 <line>We could be together, but you scared to</line>
 <line>I ain't gonna leave you <background>Leave you</background></line>

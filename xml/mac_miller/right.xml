@@ -1,12 +1,13 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+        <artist>Mac Miller</artist>
         <year>2020</year>
-        <songTitle>Right</songTitle>
+        <title>Right</title>
         <featuredArtist>None</featuredArtist>
         <album>Circles</album>
     </metadata>
-<verse vocals="Mac Miller" mood="sad" tone="negative">
+<verse vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Yeah, it's been a while without your face</line>
 <line>But I saw your picture on the wall the other day</line>
 <line>Too much distance, too much space</line>
@@ -17,14 +18,14 @@
 <line>All I know, I don't want you gone</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="determined" tone="negative">
+<chorus vocals="Mac_Miller" mood="determined" tone="negative">
 <line>I know it hasn't been easy lately</line>
 <line>But you don't wanna leave me, baby</line>
 <line>And you know I hate to keep you waitin'</line>
 <line>But when it's right, then it's right, yeah</line>
 </chorus>
 
-<post-chorus vocals="Mac Miller" mood="sad" tone="negative">
+<post-chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Days turn into nights</line>
 <topic type="violence"><line>Conversations turn into fights, we gon' be alright</line></topic>
 <line>Love turn into life</line>
@@ -33,7 +34,7 @@
 <line>It ain't always great, but it's never borin', yeah</line>
 </post-chorus>
 
-<verse vocals="Mac Miller" mood="determined" tone="negative">
+<verse vocals="Mac_Miller" mood="determined" tone="negative">
 <line>And I been itchin' for your love</line>
 <line>Don't want to feel a single thing if it ain't your touch</line>
 <topic type="social_issues"><line>I get drunk and become numb</line></topic>
@@ -45,14 +46,14 @@
 <line>Baby, don't go now, pull me closer</line>
 </verse>
 
-<chorus vocals="Mac Miller" mood="determined" tone="sad">
+<chorus vocals="Mac Miller" mood="determined" tone="negative">
 <line>I know it hasn't been easy lately</line>
 <line>But you don't wanna leave me, baby <background>Woah</background></line>
 <line>You know I hate to keep you waitin'</line>
 <line>But I know when it's right, then it's right, yeah</line>
 </chorus>
 
-<post-chorus vocals="Mac Miller" mood="sad" tone="negative">
+<post-chorus vocals="Mac_Miller" mood="sad" tone="negative">
 <line>Days turn into nights</line>
 <topic type="violence"><line>Conversations turn into fights, we gon' be alright</line></topic>
 <line>'Cause love turn into life</line>
@@ -61,7 +62,7 @@
 <line>It ain't always great, but it's never borin'</line>
 </post-chorus>
 
-<outro vocals="Mac Miller">
+<outro vocals="Mac_Miller" mood="ambiguous" tone="neutral">
 <line>Woah-woah, woah-woah, woah-woah</line>
 <line>Woah-woah, woah-woah, woah-woah</line>
 <line>Woah-woah, woah-woah, woah-woah <background>Ha-ha</background></line>
