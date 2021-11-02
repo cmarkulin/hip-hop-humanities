@@ -39,7 +39,7 @@
 <line>The Sun risin' while you moanin'</line>
 </chorus>
     
-<verse vocals="Drake" mood="determined" tone="positive">
+<verse vocals="Drake" mood="null" tone="null">
 <line>Uh, baby, you wintertime cold</line>
 <line>The night is still young, drink that dinner wine slow</line>
 <line>I'm tryna make the goosebumps on your inner thigh show</line>
@@ -59,7 +59,7 @@
 <line>I roll over and ask if I can hit it in the mornin'</line>
 </verse>
 
-<chorus vocals="Drake" mood="determined" tone="positive">
+<chorus vocals="Drake" mood="null" tone="null">
 <line>Yeah, can I hit it in the mornin'?</line>
 <line>Yeah, can I hit it in the mornin'?</line>
 <line>Yeah, the Sun risin' while you moanin', baby</line>
@@ -90,7 +90,7 @@
 <line>That's just a warnin'</line>
 </verse>
 
-<chorus vocals="Drake" mood="determined" tone="positive">
+<chorus vocals="Drake" mood="null" tone="null">
 <line>And can I hit it in the mornin'?</line>
 <line>Can I hit it in the mornin'?</line>
 <line>Can I hit it in the mornin'?</line>
