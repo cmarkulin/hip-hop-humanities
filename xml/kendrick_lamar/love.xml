@@ -1,97 +1,119 @@
-[Intro: Kendrick Lamar]
-Damn, love or lust
-Damn, all of us
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year>2017</year>
+        <title>Love.</title>
+        <featuredArtist>Zacari</featuredArtist>
+        <album>DAMN.</album>
+    </metadata>
+    
+<intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>Damn, love or lust</line>
+<line>Damn, all of us</line>
+</intro>
 
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-(Another world premiere)
-So give me a run for my money
-Sippin' bubbly, feelin’ lovely, livin' lovely
-Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love
-I wanna be with you, ayy, I wanna be with
-Love me
-I wanna be with you
-Love me, just love me
+<chorus vocals="Zacari Kendrick_Lamar" mood="confident" tone="positive">
+<topic type="money"><line>Give me a run for my money</line></topic>
+<line>There is nobody, no one to outrun me</line>
+<line><background>Another world premiere</background></line>
+<topic type="money"><line>So give me a run for my money</line></topic>
+<line>Sippin' bubbly, feelin’ lovely, livin' lovely</line>
+<line>Just love me</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Just love me, just love me, just love</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Love me</line>
+<line>I wanna be with you</line>
+<line>Love me, just love me</line>
+</chorus>
 
-[Refrain: Kendrick Lamar & Zacari]
-If I didn't ride blade on curb, would you still love me?
-If I made up my mind at work, would you still love me?
-Keep it a hundred, I’d rather you trust me than to love me
-Keep it a whole one hund', don't got you, I got nothin' (Uh, uh)
+<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<line>If I didn't ride blade on curb, would you still love me?</line>
+<line>If I made up my mind at work, would you still love me?</line>
+<line>Keep it a hundred, I’d rather you trust me than to love me</line>
+<line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
+</refrain>
 
-[Verse 1: Kendrick Lamar]
-Ayy, I got somethin'
-Hol' up, we gon' function, ayy, no assumptions, ayy
-Feelin' like Tyson with it
-Knock it out twice, I’m with it
-Only for the night, I’m kiddin'
-Only for life, yeah, only for life, yeah
-Only for life, let’s get it
-Hit that shoulder lean
-I know what comin' over me
-Backstroke oversea
-I know what you need
-Already on ten, all money come in
-All feeling go out, this feeling don't drought
-This party won't end
-[Refrain: Kendrick Lamar & Zacari]
-If I didn’t ride blade on curb, would you still love me?
-If I minimized my net-worth, would you still love me?
-Keep it a hundred, I'd rather you trust me than to love me
-Keep it a whole one hund', don't got you, I got nothin' (Uh, uh)
+<verse vocals="Kendrick_Lamar" mood="energetic" tone="positive">
+<line>Ayy, I got somethin'</line>
+<line>Hol' up, we gon' function, ayy, no assumptions, ayy</line>
+<line>Feelin' like Tyson with it</line>
+<line>Knock it out twice, I’m with it</line>
+<line>Only for the night, I’m kiddin'</line>
+<line>Only for life, yeah, only for life, yeah</line>
+<line>Only for life, let’s get it</line>
+<line>Hit that shoulder lean</line>
+<line>I know what comin' over me</line>
+<line>Backstroke oversea</line>
+<line>I know what you need</line>
+<topic type="money"><line>Already on ten, all money come in</line></topic>
+<line>All feeling go out, this feeling don't drought</line>
+<line>This party won't end</line>
+</verse>
+ 
+<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<line>If I didn’t ride blade on curb, would you still love me?</line>
+<line>If I minimized my net-worth, would you still love me?</line>
+<line>Keep it a hundred, I'd rather you trust me than to love me</line>
+<line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
+</refrain>
 
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-So give me a run for my money
-Sippin' bubbly, feelin' lovely, livin' lovely
-Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love
-I wanna be with you, ayy, I wanna be with
-Love me
-I wanna be with you
-Love me, just love me
+<chorus vocals="Zacari Kendrick_Lamar" mood="confident" tone="positive">
+<topic type="money"><line>Give me a run for my money</line></topic>
+<line>There is nobody, no one to outrun me</line>
+<topic type="money"><line>So give me a run for my money</line></topic>
+<line>Sippin' bubbly, feelin' lovely, livin' lovely</line>
+<line>Just love me</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Just love me, just love me, just love</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Love me</line>
+<line>I wanna be with you</line>
+<line>Love me, just love me</line>
+</chorus>   
 
-[Verse 2: Kendrick Lamar & Zacari]
-I'm on the way
-We ain't got no time to waste
-Poppin' your gum on the way (love me)
-Am I in the way?
-I don't wan' pressure you none
-I want your blessing today (love me)
-Oh, by the way, open the door by the way
-Told you that I'm on the way (love me)
-I'm on the way, I know connection is vague
-Pick up the phone for me, babe
-Dammit, we jammin'
-Bad attitude from yo' nanny
-Curves and your hips from yo' mammy
-Remember Gardena, I took the studio camera
-I know Top will be mad at me
-I had to do it, I want your body, your music
-I bought the big one to prove it
-Look what you made
-Told you that I'm on the way
-I'm like a exit away, yep
-[Refrain: Kendrick Lamar & Zacari]
-If I didn't ride blade on curb, would you still love me?
-If I minimized my net-worth, would you still love me?
-Keep it a hundred, I'd rather you trust me than to love me
-Keep it a whole one hund', don't got you, I got nothin' (Uh, uh)
+<verse vocals="Zacari Kendrick_Lamar" mood="determined" tone="positive">
+<line>I'm on the way</line>
+<line>We ain't got no time to waste</line>
+<line>Poppin' your gum on the way <background>love me</background></line>
+<line>Am I in the way?</line>
+<line>I don't wan' pressure you none</line>
+<line>I want your blessing today <background>love me</background></line>
+<line>Oh, by the way, open the door by the way</line>
+<line>Told you that I'm on the way <background>love me</background></line>
+<line>I'm on the way, I know connection is vague</line>
+<line>Pick up the phone for me, babe</line>
+<line>Dammit, we jammin'</line>
+<line>Bad attitude from yo' nanny</line>
+<line>Curves and your hips from yo' mammy</line>
+<line>Remember Gardena, I took the studio camera</line>
+<line>I know Top will be mad at me</line>
+<line>I had to do it, I want your body, your music</line>
+<line>I bought the big one to prove it</line>
+<line>Look what you made</line>
+<line>Told you that I'm on the way</line>
+<line>I'm like a exit away, yep</line>
+</verse>
+ 
+<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<line>If I didn't ride blade on curb, would you still love me?</line>
+<line>If I minimized my net-worth, would you still love me?</line>
+<line>Keep it a hundred, I'd rather you trust me than to love me</line>
+<line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
+</refrain>
 
-[Chorus: Zacari & Kendrick Lamar]
-Give me a run for my money
-There is nobody, no one to outrun me
-So give me a run for my money
-Sippin' bubbly, feelin' lovely, livin' lovely
-Just love me
-I wanna be with you, ayy, I wanna be with
-Just love me, just love me, just love me
-I wanna be with you, ayy, I wanna be with
-Love me
-I wanna be with you
-Love me, just love me
+<chorus vocals="Zacari Kendrick_Lamar" mood="confident" tone="positive">
+<topic type="money"><line>Give me a run for my money</line></topic>
+<line>There is nobody, no one to outrun me</line>
+<topic type="money"><line>So give me a run for my money</line></topic>
+<line>Sippin' bubbly, feelin' lovely, livin' lovely</line>
+<line>Just love me</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Just love me, just love me, just love me</line>
+<line>I wanna be with you, ayy, I wanna be with</line>
+<line>Love me</line>
+<line>I wanna be with you</line>
+<line>Love me, just love me</line>
+</chorus>
+</song>

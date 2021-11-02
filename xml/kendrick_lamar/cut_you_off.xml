@@ -1,120 +1,141 @@
-[Produced by Tae Beast]
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year>2010</year>
+        <title>Cut You Off (To Grow Closer)</title>
+        <featuredArtist>None</featuredArtist>
+        <album>Overly Dedicated</album>
+    </metadata>
 
-[Intro]
-Ali, you thirsty on Twitter!
-You boo-boo, you T'd
-You turned down, you thirsty
-You boo-boo!
+<intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>Ali, you thirsty on Twitter!</line>
+<line>You boo-boo, you T'd</line>
+<line>You turned down, you thirsty</line>
+<line>You boo-boo!</line>
+</intro>
 
-[Verse 1]
-Uh, I'm tryna learn something new
-I'm tryna find myself, I'm searching deep for Kendrick Lamar
-I read about Napoleon Hill and try to know God
-They say he the key to my blessings, and if I speak the good
-Into existence, that instant my dreams will unlock
-Money flow like water, I'll just wait at the dock
-And by the way I'ma start, finding more light to shed
-Like a small garage in your backyard
-I'm back chilling with a friend of mine, she mighty fine
-But I notice that her heart resides next to bitterness
-Always hollering who she don't like and who she kick it with
-Who she wanna fight, who wearing a weave
-Who Dooney and Bourke bag is fake, who holding the keys
-To the car she drove last year or who fucking on who
-And who need a pap smear, getting on my nerves
-But before your negative energy curve, bitch I'ma cut you off
-[Chorus 1]
-'Cause every time you come around
-You be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say, oh my God
-Shut the fuck up... hoe
-Every time you come around
-You be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say...
+<verse vocals="Kendrick_Lamar" mood="determined" tone="negative">
+<line>Uh, I'm tryna learn something new</line>
+<line>I'm tryna find myself, I'm searching deep for Kendrick Lamar</line>
+<topic type="religion"><line>I read about Napoleon Hill and try to know God</line></topic>
+<topic type="religion"><line>They say he the key to my blessings, and if I speak the good</line></topic>
+<line>Into existence, that instant my dreams will unlock</line>
+<topic type="money"><line>Money flow like water, I'll just wait at the dock</line></topic>
+<line>And by the way I'ma start, finding more light to shed</line>
+<line>Like a small garage in your backyard</line>
+<line>I'm back chilling with a friend of mine, she mighty fine</line>
+<line>But I notice that her heart resides next to bitterness</line>
+<line>Always hollering who she don't like and who she kick it with</line>
+<topic type="violence"><line>Who she wanna fight, who wearing a weave</line></topic>
+<line>Who Dooney and Bourke bag is fake, who holding the keys</line>
+<line>To the car she drove last year or who fucking on who</line>
+<line>And who need a pap smear, getting on my nerves</line>
+<line>But before your negative energy curve, bitch I'ma cut you off</line>
+</verse>
+    
+<chorus vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
+<line>'Cause every time you come around</line>
+<line>You be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say, oh my God</line>
+<line>Shut the fuck up... hoe</line>
+<line>Every time you come around</line>
+<line>You be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say...</line>
+</chorus>
 
-[Verse 2]
-Uh, I'm tryna learn something new
-I'm tryna surround myself with people that inspire me
-Or at least inquire similar desires
-To do what it T-A-K-E just to reach the T-O-P
-I'm talking ideas, motivation
-It's more than making, enemies, my nigga
-Oh, that's not ya memo? Then tell me why you constant stressing
-On how you well connected like centipedes, my nigga
-I function with you and you flaunt your pistol
-Every second tell me how you pressed 'em at the Monte Cristo
-Where so and so from, and what neighborhoods beefing
-Who baby momma's a rat, and who got killed last weekend
-That shit is mad depressing, bringing me down
-Speak on somethin' with some substance that can get us both paid
-Rather than telling me how these niggas jocking your style
-Or his rims ain't bigger, pussy nigga, I'ma cut you off
-[Chorus 2]
-'Cause every time you come around
-You be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say, oh my God
-Shut the fuck up... scary ass
-Every time you come around
-You be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say
+<verse vocals="Kendrick_Lamar" mood="determined" tone="negative">
+<line>Uh, I'm tryna learn something new</line>
+<line>I'm tryna surround myself with people that inspire me</line>
+<line>Or at least inquire similar desires</line>
+<line>To do what it T-A-K-E just to reach the T-O-P</line>
+<line>I'm talking ideas, motivation</line>
+<line>It's more than making, enemies, my nigga</line>
+<line>Oh, that's not ya memo? Then tell me why you constant stressing</line>
+<line>On how you well connected like centipedes, my nigga</line>
+<line>I function with you and you flaunt your pistol</line>
+<line>Every second tell me how you pressed 'em at the Monte Cristo</line>
+<line>Where so and so from, and what neighborhoods beefing</line>
+<topic type="violence"><line>Who baby momma's a rat, and who got killed last weekend</line></topic>
+<line>That shit is mad depressing, bringing me down</line>
+<topic type="money"><line>Speak on somethin' with some substance that can get us both paid</line></topic>
+<line>Rather than telling me how these niggas jocking your style</line>
+<line>Or his rims ain't bigger, pussy nigga, I'ma cut you off</line>
+</verse>
 
-[Verse 3]
-Uh, I'm tryna learn something new
-I'm tryna better my chances of becoming a star
-I'm tryna feel the vibe of Mona Lisa
-Studying art... now paint that picture
-Life behind bars, remember the very day I got caught?
-I murdered a rapper, and you filed the police report?
-See what I was taught, family is all I need
-But indeed them too can run me right up a tree
-Constantly talking shit 'bout the next relative
-Wanting me to take sides, but I'd never give in
-Ever since grandma died, everyone parted ways
-Argue on holidays, left my uncle in prison
-For 15 years, no one paid him attention but moms
-Yeah, my momma as loyal as any sister would come
-Come to my house just to yap about your own people
-Dang, and if your blood wasn't running through my veins
-I would prolly cut y'all off too, yep
-[Chorus 3]
-'Cause everytime y'all come around
-Y'all be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say, oh my God, shut the fuck up
-Keep it running, Ali
-Every time you come around
-You be hollering that whoop-de-whoop, blah-zay-blah
-He say, she say
+<chorus vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
+<line>'Cause every time you come around</line>
+<line>You be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say, oh my God</line>
+<line>Shut the fuck up... scary ass</line>
+<line>Every time you come around</line>
+<line>You be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say</line>
+</chorus>
 
-[Outro]
-So tell 'em, "Shut the fuck up!"
-Tell 'em, "Shut the fuck up!"
-Yeah, bitch, you boo-boo, you T'd
-You turnt down, you thirsty
-Tell 'em "Shut the fuck up!"
-Tell 'em "Shut the fuck up!"
-Yeah, nigga, you boo-boo, you T'd
-You turnt down, you thirsty
-You thirsty, you boo-boo
-You T, you turnt down
-You boo-boo, you T'd
-You boo-boo, you turnt down
-You thirsty, you T'd
-You boo-boo, you turnt down
-You boo-boo, you T'd
-You turnt down, you weak
-You weak, yo’ bitch weak
-Yo- (laughs)
-You boo-boo, you T (laughs)
-Keep all that
+<verse vocals="Kendrick_Lamar" mood="determined" tone="negative">
+<line>Uh, I'm tryna learn something new</line>
+<line>I'm tryna better my chances of becoming a star</line>
+<line>I'm tryna feel the vibe of Mona Lisa</line>
+<line>Studying art... now paint that picture</line>
+<line>Life behind bars, remember the very day I got caught?</line>
+<topic type="violence"><line>I murdered a rapper, and you filed the police report?</line></topic>
+<topic type="family"><line>See what I was taught, family is all I need</line></topic>
+<line>But indeed them too can run me right up a tree</line>
+<line>Constantly talking shit 'bout the next relative</line>
+<line>Wanting me to take sides, but I'd never give in</line>
+<topic type="death"><line>Ever since grandma died, everyone parted ways</line></topic>
+<line>Argue on holidays, left my uncle in prison</line>
+<line>For 15 years, no one paid him attention but moms</line>
+<topic type="family"><line>Yeah, my momma as loyal as any sister would come</line></topic>
+<line>Come to my house just to yap about your own people</line>
+<line>Dang, and if your blood wasn't running through my veins</line>
+<line>I would prolly cut y'all off too, yep</line>
+</verse>   
+    
+<chorus vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
+<line>'Cause everytime y'all come around</line>
+<line>Y'all be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say, oh my God, shut the fuck up</line>
+<line>Keep it running, Ali</line>
+<line>Every time you come around</line>
+<line>You be hollering that whoop-de-whoop, blah-zay-blah</line>
+<line>He say, she say</line>
+</chorus>
 
-[Interlude]
-What is HiiiPoWeR?
-HiiiPoWeR is the way we think, the way we live
-See it’s known today that the human race is nothing
-No morals, no standards
-What we’re about to do is raise the level of expectations
-No, you don’t have to have a lot of money
-You don’t have to be rich
-But you will be rich in mind and spirit
-Some say it’s as big as a crew, some say it’s as big as a gang
-HiiiPoWeR, we stand for it as if it’s as big as a religion
+<outro vocals="Kendrick_Lamar" mood="apathetic" tone="neutral">
+<line>So tell 'em, "Shut the fuck up!"</line>
+<line>Tell 'em, "Shut the fuck up!"</line>
+<line>Yeah, bitch, you boo-boo, you T'd</line>
+<line>You turnt down, you thirsty</line>
+<line>Tell 'em "Shut the fuck up!"</line>
+<line>Tell 'em "Shut the fuck up!"</line>
+<line>Yeah, nigga, you boo-boo, you T'd</line>
+<line>You turnt down, you thirsty</line>
+<line>You thirsty, you boo-boo</line>
+<line>You T, you turnt down</line>
+<line>You boo-boo, you T'd</line>
+<line>You boo-boo, you turnt down</line>
+<line>You thirsty, you T'd</line>
+<line>You boo-boo, you turnt down</line>
+<line>You boo-boo, you T'd</line>
+<line>You turnt down, you weak</line>
+<line>You weak, yo’ bitch weak</line>
+<line>Yo- <background>laughs</background></line>
+<line>You boo-boo, you T <background>laughs</background></line>
+<line>Keep all that</line>
+</outro>
+
+<interlude vocals="Kendrick_Lamar" mood="" tone="neutral">
+<line>What is HiiiPoWeR?</line>
+<line>HiiiPoWeR is the way we think, the way we live</line>
+<line>See it’s known today that the human race is nothing</line>
+<line>No morals, no standards</line>
+<line>What we’re about to do is raise the level of expectations</line>
+<topic type="money"><line>No, you don’t have to have a lot of money</line></topic>
+<topic type="wealth"><line>You don’t have to be rich</line></topic>
+<line>But you will be rich in mind and spirit</line>
+<line>Some say it’s as big as a crew, some say it’s as big as a gang</line>
+<line>HiiiPoWeR, we stand for it as if it’s as big as a religion</line>
+</interlude>
+</song>

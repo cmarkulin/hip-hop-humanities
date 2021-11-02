@@ -1,87 +1,106 @@
-[Intro: Kid Capri & Kendrick Lamar]
-New Kung Fu Kenny
-Ain't nobody prayin' for me
-Y'all know, what happens on Earth stays on Earth
-Here we go!
-I don't give a fuck, I don't give a fuck
-I don't give a, I don't give a, I don't give a fuck
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year>2017</year>
+        <title>ELEMENT</title>
+        <featuredArtist>Kid Capri</featuredArtist>
+        <album>DAMN</album>
+    </metadata>
+    
+<intro vocals="Kendrick_Lamar Kid_Capri" mood="ambiguous" tone="neutral">
+<line>New Kung Fu Kenny</line>
+<line>Ain't nobody prayin' for me</line>
+<line>Y'all know, what happens on Earth stays on Earth</line>
+<line>Here we go!</line>
+<line>I don't give a fuck, I don't give a fuck</line>
+<line>I don't give a, I don't give a, I don't give a fuck</line>
+</intro>
 
-[Verse 1]
-I'm willin' to die for this shit
-I done cried for this shit, might take a life for this shit
-Put the Bible down and go eye for an eye for this shit
-D-O-T my enemy, won't catch a vibe for this shit, ayy
-I been stomped out in front of my mama
-My daddy commissary made it to commas
-Bitch, all my grandmas dead
-So ain't nobody prayin' for me, I'm on your head, ayy
-Thirty millions later, know the feds watchin'
-Auntie on my Telegram like, "Be cautious!"
-I be hangin' out at Tam's, I be on Stockton
-I don't do it for the 'Gram, I do it for Compton
-I'm willin' to die for this shit, nigga
-I'll take your fuckin' life for this shit, nigga
-We ain't goin' back to broke, family sellin' dope
-That's why you maney-ass rap niggas better know
-[Chorus]
-If I gotta slap a pussy-ass nigga, I'ma make it look sexy
-If I gotta go hard on a bitch, I'ma make it look sexy
-I pull up, hop out, air out, made it look sexy
-They won't take me out my element
-Nah, take me out my element
+<verse vocals="Kendrick_Lamar" mood="determined" tone="negative">
+<topic type="death"><line>I'm willin' to die for this shit</line></topic>
+<line>I done cried for this shit, might take a life for this shit</line>
+<topic type="religion"><line>Put the Bible down and go eye for an eye for this shit</line></topic>
+<line>D-O-T my enemy, won't catch a vibe for this shit, ayy</line>
+<topic type="family"><line>I been stomped out in front of my mama</line></topic>
+<topic type="family"><line>My daddy commissary made it to commas</line></topic>
+<line>Bitch, all my grandmas dead</line>
+<line>So ain't nobody prayin' for me, I'm on your head, ayy</line>
+<line>Thirty millions later, know the feds watchin'</line>
+<line>Auntie on my Telegram like, "Be cautious!"</line>
+<line>I be hangin' out at Tam's, I be on Stockton</line>
+<line>I don't do it for the 'Gram, I do it for Compton</line>
+<line>I'm willin' to die for this shit, nigga</line>
+<line>I'll take your fuckin' life for this shit, nigga</line>
+<line>We ain't goin' back to broke, family sellin' dope</line>
+<line>That's why you maney-ass rap niggas better know</line>
+</verse>
+    
+<chorus vocals="Kendrick_Lamar" mood="confident" tone="neutral">
+<line>If I gotta slap a pussy-ass nigga, I'ma make it look sexy</line>
+<line>If I gotta go hard on a bitch, I'ma make it look sexy</line>
+<line>I pull up, hop out, air out, made it look sexy</line>
+<line>They won't take me out my element</line>
+<line>Nah, take me out my element</line>
+</chorus>
 
-[Verse 2]
-I'm allergic to a bitch nigga, ayy
-An imaginary rich nigga, ayy
-Seven figures ho, that's slimmer than my bitch figure, ayy
-Goin' digital and physical on all y'all, ayy
-Bunch of criminals and money in my phone calls, ayy
-We okay, we let the A1 fly
-Relocate, jump on the same G5
-Checkin' for me heavy 'cause I go, yeah, I go, yeah
-They never been ready, yeah, I know, yeah, know, yeah
-100K spread across the floor, 'cross the floor, yeah
-None of y'all fuckin' with the flow, yeah, the flow, yeah
-Years in the makin', and don't y'all mistake it
-I got 'em by a landslide, we talkin' about races
-You know this'll never be a tie, just look at they laces
-You know careers take off, just gotta be patient
-Mr. One through Five, that's the only logic
-Fake my death, go to Cuba, that's the only option
-[Chorus]
-If I gotta slap a pussy-ass nigga, I'ma make it look sexy
-If I gotta go hard on a bitch, I'ma make it look sexy
-I pull up, hop out, air out, made it look sexy
-They won't take me out my element
-Nah, take me out my element
+<verse vocals="Kendrick_Lamar" mood="ambiguous" tone="negative">
+<line>I'm allergic to a bitch nigga, ayy</line>
+<line>An imaginary rich nigga, ayy</line>
+<topic type="wealth"><line>Seven figures ho, that's slimmer than my bitch figure, ayy</line></topic>
+<line>Goin' digital and physical on all y'all, ayy</line>
+<line>Bunch of criminals and money in my phone calls, ayy</line>
+<line>We okay, we let the A1 fly</line>
+<line>Relocate, jump on the same G5</line>
+<line>Checkin' for me heavy 'cause I go, yeah, I go, yeah</line>
+<line>They never been ready, yeah, I know, yeah, know, yeah</line>
+<topic type="money"><line>100K spread across the floor, 'cross the floor, yeah</line></topic>
+<line>None of y'all fuckin' with the flow, yeah, the flow, yeah</line>
+<line>Years in the makin', and don't y'all mistake it</line>
+<line>I got 'em by a landslide, we talkin' about races</line>
+<line>You know this'll never be a tie, just look at they laces</line>
+<line>You know careers take off, just gotta be patient</line>
+<line>Mr. One through Five, that's the only logic</line>
+<topic type="death"><line>Fake my death, go to Cuba, that's the only option</line></topic>
+</verse>
+    
+<chorus vocals="Kendrick_Lamar" mood="confident" tone="neutral">
+<line>If I gotta slap a pussy-ass nigga, I'ma make it look sexy</line>
+<line>If I gotta go hard on a bitch, I'ma make it look sexy</line>
+<line>I pull up, hop out, air out, made it look sexy</line>
+<line>They won't take me out my element</line>
+<line>Nah, take me out my element</line>
+</chorus>
 
-[Bridge]
-Damned if I do, if I don't (Yuh)
-Goddamn us all if you won't (Yuh)
-Damn, damn, damn, it's a goddamn shame
-You ain't front in line, get out the goddamn way
+<bridge vocals="Kendrick_Lamar" mood="angry" tone="negative">
+<line>Damned if I do, if I don't <background>Yuh</background></line>
+<line>Goddamn us all if you won't <background>Yuh</background></line>
+<line>Damn, damn, damn, it's a goddamn shame</line>
+<line>You ain't front in line, get out the goddamn way</line>
+</bridge>
 
-[Verse 3]
-Niggas thought they wasn't gonna see me, huh?
-Niggas thought that K-Dot real life
-Was the same life they see on TV, huh?
-Niggas wanna flex on me and be in L.A. for free, huh?
-Next time they hit the 10 freeway, we need a receipt, huh?
-'Cause most of y'all ain't real, most of y'all gon' squeal
-Most of y'all just envy, but jealousy get you killed
-Most of y'all throw rocks and try to hide your hand
-Just say his name and I promise that you'll see Candyman
-Because it's all in your eyes, most of y'all tell lies
-Most of y'all don't fade, most of y'all been advised
-Last LP I tried to lift the black artists
-But it's a difference 'tween black artists and wack artists
-[Chorus: Kendrick Lamar & Kid Capri]
-If I gotta slap a pussy-ass nigga, I'ma make it look sexy
-It's the one and only, the world's greatest, the Kid Capri
-If I gotta go hard on a bitch, I'ma make it look sexy
-I pull up, hop out, air out, made it look sexy
-They won't take me out my element
-Nah, take me out my element
+<verse vocals="Kendrick_Lamar" mood="angry" tone="negative">
+<line>Niggas thought they wasn't gonna see me, huh?</line>
+<line>Niggas thought that K-Dot real life</line>
+<line>Was the same life they see on TV, huh?</line>
+<line>Niggas wanna flex on me and be in L.A. for free, huh?</line>
+<line>Next time they hit the 10 freeway, we need a receipt, huh?</line>
+<line>'Cause most of y'all ain't real, most of y'all gon' squeal</line>
+<line>Most of y'all just envy, but jealousy get you killed</line>
+<line>Most of y'all throw rocks and try to hide your hand</line>
+<line>Just say his name and I promise that you'll see Candyman</line>
+<line>Because it's all in your eyes, most of y'all tell lies</line>
+<line>Most of y'all don't fade, most of y'all been advised</line>
+<line>Last LP I tried to lift the black artists</line>
+<line>But it's a difference 'tween black artists and wack artists</line>
+</verse>
 
-
-
+<chorus vocals="Kendrick_Lamar Kid_Capri" mood="confident" tone="neutral">
+<line>If I gotta slap a pussy-ass nigga, I'ma make it look sexy</line>
+<line>It's the one and only, the world's greatest, the Kid Capri</line>
+<line>If I gotta go hard on a bitch, I'ma make it look sexy</line>
+<line>I pull up, hop out, air out, made it look sexy</line>
+<line>They won't take me out my element</line>
+<line>Nah, take me out my element</line>
+</chorus>
+</song>

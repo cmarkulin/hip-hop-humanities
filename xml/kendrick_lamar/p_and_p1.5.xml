@@ -1,144 +1,164 @@
-[Intro: Sample]
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year></year>
+        <title>PandP 1.5</title>
+        <featuredArtist>Ab-Soul</featuredArtist>
+        <album>Overly Dedicated</album>
+    </metadata>
 
-[Part I]
 
-[Skit]
-"Gina, baby, I don't have no money, I don't have no ends
-Gina, I'm ass-out"
-"I'm going through something right now!"
-"I done told you that"
+<skit vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<topic type="money"><line>"Gina, baby, I don't have no money, I don't have no ends</line></topic>
+<line>Gina, I'm ass-out"</line>
+<line>"I'm going through something right now!"</line>
+<line>"I done told you that"</line>
+</skit>
 
-[Intro: Kendrick Lamar]
-Oh, what up ho? Oh, what up?
-I said, oh, what up ho? Oh, what up?
-I said, oh, what up ho? Oh, what up?
-Well, alright
+<intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>Oh, what up ho? Oh, what up?</line>
+<line>I said, oh, what up ho? Oh, what up?</line>
+<line>I said, oh, what up ho? Oh, what up?</line>
+<line>Well, alright</line>
+</intro>
 
-[Chorus: Kendrick Lamar]
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-[Verse 1: Kendrick Lamar]
-Welcome to my diary, stressing got me gray hairs
-Something to inspire me, rather than society's
-Woes, let me go, let me shine a lil' bit, love
-I want diamonds, too: Ronnie on Player's Club
-I used to have a nine-to-five; fresh out of school—that was '05
-That bitch was racist, got me fired; ever since then, I had no job
-Pushing in my momma van, stop for gas on Rosecrans
-Trust me, these niggas rushed me for something my cousin prolly did
-Guilty by association: story of my life, nigga
-You gon' make me flip and split your shit, judge give me life, nigga
-Pain since my grandma's death, Uncle killed at Louie's Burgers
-Hold my tears, I tried my best; let it go, drench my pullover
-Cycles of a starving artist, tryna go beyond the margin— margin
-Maintaining my modest— modest as I dream
-So while I go through all this— all this bullshit, what you call it
-Life itself, I know what helps, let me scroll through my Blackberry
-("Hey, what's up, daddy?")
+<chorus vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+</chorus>
+   
+<verse vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>Welcome to my diary, stressing got me gray hairs</line>
+<line>Something to inspire me, rather than society's</line>
+<line>Woes, let me go, let me shine a lil' bit, love</line>
+<line>I want diamonds, too: Ronnie on Player's Club</line>
+<line>I used to have a nine-to-five; fresh out of school—that was '05</line>
+<line>That bitch was racist, got me fired; ever since then, I had no job</line>
+<line>Pushing in my momma van, stop for gas on Rosecrans</line>
+<line>Trust me, these niggas rushed me for something my cousin prolly did</line>
+<line>Guilty by association: story of my life, nigga</line>
+<line>You gon' make me flip and split your shit, judge give me life, nigga</line>
+<topic type="death"><line>Pain since my grandma's death, Uncle killed at Louie's Burgers</line></topic>
+<line>Hold my tears, I tried my best; let it go, drench my pullover</line>
+<topic type="poverty"><line>Cycles of a starving artist, tryna go beyond the margin— margin</line></topic>
+<line>Maintaining my modest— modest as I dream</line>
+<line>So while I go through all this— all this bullshit, what you call it</line>
+<line>Life itself, I know what helps, let me scroll through my Blackberry</line>
+<line><background>"Hey, what's up, daddy?"</background></line>
+</verse>
 
-[Chorus: Kendrick Lamar]
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-[Part II]
+<chorus vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+</chorus>
 
-[Skit]
-"So what'd you rush me over here for?
-How was your day?
-Are you tipsy?"
-"Mhm!"
+<skit vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>"So what'd you rush me over here for?</line>
+<line>How was your day?</line>
+<line>Are you tipsy?"</line>
+<line>"Mhm!"</line>
+</skit>
 
-[Bridge: Kendrick Lamar]
-All I need in this lifetime: Pussy and Patrón
-Give me that, once you give me that, once again, it's on
-Bitch, I'm swagged up, hoes bopping when I'm off that Screw
-Coming down clean, tell your baby momma, "What it do?"
-Where your friends at? I got long dick—what it is?
-Go'n' poke it out, situate your little positives
-How I live? Big shot, on my grind, already
-I'ma lay it down like a carpenter when you let me
+<bridge vocals="Kendrick_Lamar" mood="confident" tone="neutral">
+<line>All I need in this lifetime: Pussy and Patrón</line>
+<line>Give me that, once you give me that, once again, it's on</line>
+<line>Bitch, I'm swagged up, hoes bopping when I'm off that Screw</line>
+<line>Coming down clean, tell your baby momma, "What it do?"</line>
+<line>Where your friends at? I got long dick—what it is?</line>
+<line>Go'n' poke it out, situate your little positives</line>
+<line>How I live? Big shot, on my grind, already</line>
+<line>I'ma lay it down like a carpenter when you let me</line>
+</bridge>
 
-[Refrain: Kendrick Lamar]
-Give me that funk
-That sweet, that nasty, that gushy stuff
-I can't get enough
-If I offend you, blame it on the liquor, babe
-Give me that funk
-That sweet, that nasty, that gushy stuff
-I can't get enough
-If I offend you
-[Verse 2: Kendrick Lamar]
-Ugh, I wrote this song when Dave drove home
-And caught that flat in the mean T-Flats
-And it made me think if we could blink
-To change locations where we at
-We often get lost in the alcohol bottle
-In attempt to ignore pain, problem, and sorrow
-Just for a minute, then back to the bullshit
-Your car note due, and you 'bout to get evicted
-Two drugs, surely, Patrón, pussy, make it feel alright
-But once it's empty and that bitch leave, then it's back to life
-You can't run from it, gotta run to it, nigga
-The antidote wouldn't last, and you knew it, nigga
-But still, you proceed to dive deep, ask what's her Zodiac sign
+<refrain vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
+<line>Give me that funk</line>
+<line>That sweet, that nasty, that gushy stuff</line>
+<line>I can't get enough</line>
+<line>If I offend you, blame it on the liquor, babe</line>
+<line>Give me that funk</line>
+<line>That sweet, that nasty, that gushy stuff</line>
+<line>I can't get enough</line>
+<line>If I offend you</line>
+</refrain>
+    
+<verse vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>Ugh, I wrote this song when Dave drove home</line>
+<line>And caught that flat in the mean T-Flats</line>
+<line>And it made me think if we could blink</line>
+<line>To change locations where we at</line>
+<topic type="social_issues"><line>We often get lost in the alcohol bottle</line></topic>
+<line>In attempt to ignore pain, problem, and sorrow</line>
+<line>Just for a minute, then back to the bullshit</line>
+<line>Your car note due, and you 'bout to get evicted</line>
+<topic type="drugs"><line>Two drugs, surely, Patrón, pussy, make it feel alright</line></topic>
+<line>But once it's empty and that bitch leave, then it's back to life</line>
+<line>You can't run from it, gotta run to it, nigga</line>
+<line>The antidote wouldn't last, and you knew it, nigga</line>
+<line>But still, you proceed to dive deep, ask what's her Zodiac sign</line>
+</verse>
 
-[Chorus: Kendrick Lamar]
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
+<chorus vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+</chorus>
 
-[Verse 3: Ab-Soul]
-Okay, welcome to my diary—hmm, where should I begin?
-Finna get a Swisher and fill it with at least a gram
-Crackers watch my every step; man, I hate to work for them
-One time, I tried to work for me, but that shit didn't work for me
-And here I am, stressing, questioning my direction man
-What to do? Nothing's moving, traffic jam, wiggle through it
-Pop the cork and take the fluid, bust that pussy open
-Bust that pussy open, bust that pussy open
-(Soul!) Balls deep, you dig?
-Retrieve relief, you dig?
-Let's kill a bottle of tequila
-And lie butt-naked telling the truth, would you?
-What's up?
-I had a long day, and I really wanna fuck
-Take a double-shot to the face and forget about my whole day
-'Cause all I've been thinking the whole day (Whole day, whole day)
+<verse vocals="Ab_Soul" mood="sad" tone="negative">
+<line>Okay, welcome to my diary—hmm, where should I begin?</line>
+<topic type="drugs"><line>Finna get a Swisher and fill it with at least a gram</line></topic>
+<line>Crackers watch my every step; man, I hate to work for them</line>
+<line>One time, I tried to work for me, but that shit didn't work for me</line>
+<line>And here I am, stressing, questioning my direction man</line>
+<line>What to do? Nothing's moving, traffic jam, wiggle through it</line>
+<line>Pop the cork and take the fluid, bust that pussy open</line>
+<line>Bust that pussy open, bust that pussy open</line>
+<line><background>Soul!</background> Balls deep, you dig?</line>
+<line>Retrieve relief, you dig?</line>
+<line>Let's kill a bottle of tequila</line>
+<line>And lie butt-naked telling the truth, would you?</line>
+<line>What's up?</line>
+<line>I had a long day, and I really wanna fuck</line>
+<line>Take a double-shot to the face and forget about my whole day</line>
+<line>'Cause all I've been thinking the whole day <background>Whole day, whole day</background></line>
+</verse>
 
-[Chorus: Kendrick Lamar]
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
-I'm going through something with life
-But pussy and Patrón make you feel alright
-Pussy and Patrón make you feel alright
-Pussy and Patrón, that's some great advice
+<chorus vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+<line>I'm going through something with life</line>
+<line>But pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón make you feel alright</line>
+<line>Pussy and Patrón, that's some great advice</line>
+</chorus>
 
-[Bridge: Kendrick Lamar]
-All I need in this lifetime: Pussy and Patrón
-Give me that, once you give me that, once again, it's on
-Bitch I'm swagged up, hoes bopping when I'm off that Screw
-Coming down clean, tell your baby momma, "What it do?"
-Where your friends at? I got long dick—what it is?
-Go'n' poke it out, situate your little positives
-How I live? Big shot, on my grind, already
-I'ma lay it down like a carpenter when you let me
-
-[Produced by King Blue]
+<bridge vocals="Kendrick_Lamar" mood="confident" tone="neutral">
+<line>All I need in this lifetime: Pussy and Patrón</line>
+<line>Give me that, once you give me that, once again, it's on</line>
+<line>Bitch I'm swagged up, hoes bopping when I'm off that Screw</line>
+<line>Coming down clean, tell your baby momma, "What it do?"</line>
+<line>Where your friends at? I got long dick—what it is?</line>
+<line>Go'n' poke it out, situate your little positives</line>
+<line>How I live? Big shot, on my grind, already</line>
+<line>I'ma lay it down like a carpenter when you let me</line>
+</bridge>
+</song>

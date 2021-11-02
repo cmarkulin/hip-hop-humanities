@@ -1,80 +1,99 @@
-[Intro: Bēkon & Kid Capri]
-America
-God bless you if it's good to ya
-America, please take my hand
-Can you help me underst—
-New Kung Fu Kenny!
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year>2017</year>
+        <title>XXX</title>
+        <featuredArtist>Bēkon, Kid Capri, Bono</featuredArtist>
+        <album>DAMN.</album>
+    </metadata>
+    
+<intro vocals="Bēkon Kid_Capri" mood="ambiguous" tone="neutral">
+<line>America</line>
+<line>God bless you if it's good to ya</line>
+<line>America, please take my hand</line>
+<line>Can you help me underst—</line>
+<line>New Kung Fu Kenny!</line>
+</intro>
+    
+<verse vocals="Kendrick_Lamar" mood="angry" tone="negative">
+<line>Throw a steak off the ark to a pool full of sharks</line>
+<line>He'll take it</line>
+<topic type="violence"><line>Leave him in the wilderness with a sworn nemesis</line></topic>
+<line>He'll make it <background>He'll make it</background></line>
+<line>Take the gratitude from him, I bet he'll show you somethin'</line>
+<line>Woah <background>Woah</background></line>
+<line>I chip a nigga lil' bit of nothin'</line>
+<line>I chip a nigga lil' bit of nothin'</line>
+<line>I chip a nigga lil' bit of nothin'</line>
+<line>I chip a nigga, then throw the blower in his lap</line>
+<line>Walk myself to the court like, "Bitch, I did that!," X-rated</line>
+<line>Johnny don't wanna go to school no mo', no mo'</line>
+<line>Johnny said books ain't cool no mo' <background>No mo'</background></line>
+<line>Johnny wanna be a rapper like his big cousin</line>
+<line>Johnny caught a body yesterday out hustlin'</line>
+<line>God bless America, you know we all love him</line>
+<line>Yesterday, I got a call, like, from my dog, like 101</line>
+<topic type="violence"><line>Said they killed his only son because of insufficient funds</line></topic>
+<line>He was sobbin', he was mobbin', way belligerent and drunk</line>
+<line>Talkin' out his head, philosophin' on what the Lord had done</line>
+<topic type="religion"><line>He said: "K-Dot, can you pray for me? It been a fucked up day for me</line></topic>
+<topic type="religion"><line>I know that you anointed, show me how to overcome."</line></topic>
+<line>He was lookin' for some closure, hopin' I could bring him closer</line>
+<line>To the spiritual, my spirit do know better, but I told him</line>
+<line>"I can't sugarcoat the answer for you, this is how I feel:</line>
+<topic type="violence"><line>If somebody kill my son, that mean somebody gettin' killed."</line></topic>
+<line>Tell me what you do for love, loyalty, and passion of</line>
+<line>All the memories collected, moments you could never touch</line>
+<line>I wait in front a nigga's spot and watch him hit his block</line>
+<line>I catch a nigga leavin' service if that's all I got</line>
+<line>I chip a nigga, then throw the blower in his lap</line>
+<line>Walk myself to the court like, "Bitch, I did that!"</line>
+<topic type="social_issues"><line>Ain't no Black Power when your baby killed by a coward</line></topic>
+<line>I can't even keep the peace, don't you fuck with one of ours</line>
+<topic type="death"><line>It be murder in the street, it be bodies in the hour</line></topic>
+<line>Ghetto bird be on the street, paramedics on the dial</line>
+<topic type="family"><line>Let somebody touch my momma, touch my sister, touch my woman</line></topic>
+<topic type="family"><line>Touch my daddy, touch my niece, touch my nephew, touch my brother</line></topic>
+<line>You should chip a nigga, then throw the blower in his lap</line>
+<line>Matter fact, I'm 'bout to speak at this convention, call you back—</line>
+</verse>
+ 
+<break vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>Alright, kids, we're gonna talk about gun control</line>
+<line><background>Pray for me</background> Damn!</line>
+</break>
+    
+<chorus vocals="Bono" mood="sad" tone="neutral">
+<line>It's not a place</line>
+<line>This country is to me a sound</line>
+<line>Of drum and bass</line>
+<line>You close your eyes to look around</line>
+</chorus>
 
-[Verse 1: Kendrick Lamar]
-Throw a steak off the ark to a pool full of sharks
-He'll take it
-Leave him in the wilderness with a sworn nemesis
-He'll make it (He'll make it)
-Take the gratitude from him, I bet he'll show you somethin'
-Woah (Woah)
-I chip a nigga lil' bit of nothin'
-I chip a nigga lil' bit of nothin'
-I chip a nigga lil' bit of nothin'
-I chip a nigga, then throw the blower in his lap
-Walk myself to the court like, "Bitch, I did that!," X-rated
-Johnny don't wanna go to school no mo', no mo'
-Johnny said books ain't cool no mo' (No mo')
-Johnny wanna be a rapper like his big cousin
-Johnny caught a body yesterday out hustlin'
-God bless America, you know we all love him
-Yesterday, I got a call, like, from my dog, like 101
-Said they killed his only son because of insufficient funds
-He was sobbin', he was mobbin', way belligerent and drunk
-Talkin' out his head, philosophin' on what the Lord had done
-He said: "K-Dot, can you pray for me? It been a fucked up day for me
-I know that you anointed, show me how to overcome."
-He was lookin' for some closure, hopin' I could bring him closer
-To the spiritual, my spirit do know better, but I told him
-"I can't sugarcoat the answer for you, this is how I feel:
-If somebody kill my son, that mean somebody gettin' killed."
-Tell me what you do for love, loyalty, and passion of
-All the memories collected, moments you could never touch
-I wait in front a nigga's spot and watch him hit his block
-I catch a nigga leavin' service if that's all I got
-I chip a nigga, then throw the blower in his lap
-Walk myself to the court like, "Bitch, I did that!"
-Ain't no Black Power when your baby killed by a coward
-I can't even keep the peace, don't you fuck with one of ours
-It be murder in the street, it be bodies in the hour
-Ghetto bird be on the street, paramedics on the dial
-Let somebody touch my momma, touch my sister, touch my woman
-Touch my daddy, touch my niece, touch my nephew, touch my brother
-You should chip a nigga, then throw the blower in his lap
-Matter fact, I'm 'bout to speak at this convention, call you back—
-[Break: Kendrick Lamar]
-Alright, kids, we're gonna talk about gun control
-(Pray for me) Damn!
+<verse vocals="Kendrick_Lamar" mood="angry" tone="negative">
+<topic type="religion"><line>Hail Mary, Jesus and Joseph</line></topic>
+<topic type="violence"><line>The great American flag is wrapped in drag with explosives</line></topic>
+<line>Compulsive disorder, sons and daughters</line>
+<topic type="social_issues"><line>Barricaded blocks and borders—look what you taught us</line></topic>
+<topic type="violence"><line>It's murder on my street, your street, back streets, Wall Street</line></topic>
+<line>Corporate offices, banks, employees, and bosses with</line>
+<topic type="violence"><line>Homicidal thoughts; Donald Trump's in office</line></topic>
+<line>We lost Barack and promised to never doubt him again</line>
+<line>But is America honest, or do we bask in sin?</line>
+<line>Pass the gin, I mix it with American blood</line>
+<topic type="social_issues"><line>Then bash him in, you Crippin' or you married to Blood?</line></topic>
+<line>I'll aks again—oops, accident</line>
+<line>It's nasty when you set us up then roll the dice, then bet us up</line>
+<line>You overnight the big rifles, then tell Fox to be scared of us</line>
+<line>Gang members or terrorists, et cetera, et cetera</line>
+<line>America's reflections of me, that's what a mirror does</line>
+</verse>
 
-[Chorus: Bono]
-It's not a place
-This country is to me a sound
-Of drum and bass
-You close your eyes to look around
-
-[Verse 2: Kendrick Lamar]
-Hail Mary, Jesus and Joseph
-The great American flag is wrapped in drag with explosives
-Compulsive disorder, sons and daughters
-Barricaded blocks and borders—look what you taught us
-It's murder on my street, your street, back streets, Wall Street
-Corporate offices, banks, employees, and bosses with
-Homicidal thoughts; Donald Trump's in office
-We lost Barack and promised to never doubt him again
-But is America honest, or do we bask in sin?
-Pass the gin, I mix it with American blood
-Then bash him in, you Crippin' or you married to Blood?
-I'll aks again—oops, accident
-It's nasty when you set us up then roll the dice, then bet us up
-You overnight the big rifles, then tell Fox to be scared of us
-Gang members or terrorists, et cetera, et cetera
-America's reflections of me, that's what a mirror does
-[Chorus: Bono]
-It's not a place
-This country is to me a sound
-Of drum and bass
-You close your eyes to look ar—
+<chorus vocals="Bono" mood="sad" tone="neutral">
+<line>It's not a place</line>
+<line>This country is to me a sound</line>
+<line>Of drum and bass</line>
+<line>You close your eyes to look ar—</line>
+</chorus>
+</song>

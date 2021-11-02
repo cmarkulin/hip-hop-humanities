@@ -1,59 +1,75 @@
-[Intro: Kendrick Lamar]
-This is me thinking at 4:43 AM, June 6th
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kendrick Lamar</artist>
+        <year>2010</year>
+        <title>ROTC (interlude)</title>
+        <featuredArtist>BJ the Chicago Kid</featuredArtist>
+        <album>Overly Dedicated</album>
+    </metadata>
+    
+<intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>This is me thinking at 4:43 AM, June 6th</line>
+</intro>
+    
+<verse vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<topic type="money"><line>Sometimes I wanna say fuck rapping, I need money now</line></topic>
+<line>Like should I start trapping?</line>
+<line>If what I write down don't collect this very moment</line>
+<line>Then I'm on it, no question</line>
+<line>In the streets, my niggas is well connected, let's see</line>
+<topic type="drugs"><line>Do I cop a pound of kush, promethazine or push some E?</line></topic>
+<topic type="drugs"><line>Oxycontin have me laying on soft cotton when I sleep?</line></topic>
+<line>This is deep as the abyss, I'm not just rhyming on the beat</line>
+<line>I be in spots, chopping the rocks like Flintstone feet</line>
+<line>This is me, frustrated, battling my own evils</line>
+<line>Finna saddle up that work across Ohio in a Geo</line>
+<line>Or should I sell my music .zip to buy your zip</line>
+<topic type="money"><line>And hope one day it flourish to a kilo</line></topic>
+<line>Track record of a hustler</line>
+<line>Rather records on the needle, making music</line>
+<topic type="money"><line>Clocking fast bank like a shot from Patrick Ewing</line></topic>
+<line>My nigga, what you doing on these corners whipping?</line>
+<line>"I thought you had a show?" Well, my nigga, I guess I didn't</line>
+<topic type="money"><line>I'm tryna get this dough, and easy money sounds tempting</line></topic>
+<line>Especially when your homies pushing V8 engines</line>
+<line>Twenty-two on twenty-sixes, Range Rovers rolling up</line>
+<topic type="drugs"><line>Three-fifty for an ounce of fire, I hope I got enough</line></topic>
+<line>This industry calling my bluff, I need a new solution</line>
+<line>Curb-serving, or I might be in your store boosting</line>
+<line>Two-elevens with Mac-11s like fuck hip-hop</line>
+<line>Don't wanna be Pun, don't wanna be B.I.G., don't wanna be Pac</line>
+<line>Just give me your funds, A.K.A. everything that you got</line>
+<topic type="violence"><line>Or everything getting shot, for nothing</line></topic>
+<line>Leave you in shock, coughing up blood and mumbling</line>
+<line>Watch, the plans of a young man sponsor</line>
+<line>Moving grams like relocating your mom's momma</line>
+<line>Then expand to the Hoover Dam, water, sherm</line>
+<line>Contraband, they yearn for the butt-naked</line>
+<line>Fuck a verse, verses get let off in thirty minutes, six seconds</line>
+<line>I disperse to the world of unruly, where I put the mic down</line>
+<line>And pick up a sack and a toolie, if you knew me</line>
+<line>You'll know I always had a passion for riddling, writing</line>
+<line>But lately, I've been thinking 'bout taking chances to brighten</line>
+<line>My future financially, so please don't be mad at me</line>
+<line>I gotta do what I gotta do, no shit</line>
+<line>So I tell my nigga, "Front me, let me put it on the strip"</line>
+<line>Then give it back when I think about the consequence</line>
+<line>Shit...</line>
+</verse>
+    
+<chorus vocals="BJ_the_Chicago_Kid" mood="ambiguous" tone="neutral">
+<line>There are times, when you need someone</line>
+<line>I will be by your side</line>
+<line>Oh darling, cause there is a light that shines</line>
+<line>Special for you, and me yeah</line>
+<line>I-take-I-take-take my chances-chances-chances</line>
+<line>Before they pass, they pass, they pass</line>
+<line>Pass me by, oh darling</line>
+<line>You've got to look at the other side</line>
+</chorus>
 
-[Verse: Kendrick Lamar]
-Sometimes I wanna say fuck rapping, I need money now
-Like should I start trapping?
-If what I write down don't collect this very moment
-Then I'm on it, no question
-In the streets, my niggas is well connected, let's see
-Do I cop a pound of kush, promethazine or push some E?
-Oxycontin have me laying on soft cotton when I sleep?
-This is deep as the abyss, I'm not just rhyming on the beat
-I be in spots, chopping the rocks like Flintstone feet
-This is me, frustrated, battling my own evils
-Finna saddle up that work across Ohio in a Geo
-Or should I sell my music .zip to buy your zip
-And hope one day it flourish to a kilo
-Track record of a hustler
-Rather records on the needle, making music
-Clocking fast bank like a shot from Patrick Ewing
-My nigga, what you doing on these corners whipping?
-"I thought you had a show?" Well, my nigga, I guess I didn't
-I'm tryna get this dough, and easy money sounds tempting
-Especially when your homies pushing V8 engines
-Twenty-two on twenty-sixes, Range Rovers rolling up
-Three-fifty for an ounce of fire, I hope I got enough
-This industry calling my bluff, I need a new solution
-Curb-serving, or I might be in your store boosting
-Two-elevens with Mac-11s like fuck hip-hop
-Don't wanna be Pun, don't wanna be B.I.G., don't wanna be Pac
-Just give me your funds, A.K.A. everything that you got
-Or everything getting shot, for nothing
-Leave you in shock, coughing up blood and mumbling
-Watch, the plans of a young man sponsor
-Moving grams like relocating your mom's momma
-Then expand to the Hoover Dam, water, sherm
-Contraband, they yearn for the butt-naked
-Fuck a verse, verses get let off in thirty minutes, six seconds
-I disperse to the world of unruly, where I put the mic down
-And pick up a sack and a toolie, if you knew me
-You'll know I always had a passion for riddling, writing
-But lately, I've been thinking 'bout taking chances to brighten
-My future financially, so please don't be mad at me
-I gotta do what I gotta do, no shit
-So I tell my nigga, "Front me, let me put it on the strip"
-Then give it back when I think about the consequence
-Shit...
-[Chorus: BJ the Chicago Kid]
-There are times, when you need someone
-I will be by your side
-Oh darling, cause there is a light that shines
-Special for you, and me yeah
-I-take-I-take-take my chances-chances-chances
-Before they pass, they pass, they pass
-Pass me by, oh darling
-You've got to look at the other side
-
-[Outro: Kendrick Lamar]
-R.O.T.C—Right On Time Conscience
+<outro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<line>R.O.T.C—Right On Time Conscience</line>
+</outro>
+</song>
