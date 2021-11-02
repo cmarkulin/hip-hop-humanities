@@ -1,91 +1,125 @@
-[Intro: Puff Daddy & A$AP Rocky]
-Uh, my mic sounds nice, check one (Woo!)
-My mic sounds nice, check two (Uh-huh, yeah-yeah)
-Testing, one-two, one-two, let's go (Uh-huh, yeah-yeah)
-(Uh, woo!) Let's go
-(Uh, uh, yeah-yeah) Let's go
-My mic sounds nice, check one (Yeah, yeah)
-My mic sounds nice, check two (Yeah, testing, testing, woo!)
-
-[Chorus: A$AP Rocky & Puff Daddy]
-Stoned-stoned when I'm in my zoney-zone
-Smokin' on the homegrown, feeling like I'm all alone
-Used to go to Kingdome, Rucker Park with Tony Tone (Harlem!)
-Listenin' to Bone Bone, feelins in my bone bone
-
-[Post-Chorus: A$AP Rocky & Puff Daddy]
-I can tell it
-I could give a fuck about a list, ya heard? (Ya heard?)
-I could give a fuck about a diss, ya heard? (Ya heard?)
-I could give a fuck about your clique, ya heard? (Ya heard?)
-Shut the fuck up 'fore I rock your bitch, ya heard? Uh
-Shut the fuck up!
-
-[Verse 1: A$AP Rocky & Puff Daddy]
-My mama named me, my papa gave me cock to take a piss with
-To fuck ya bitch with, life is different for me, for instance
-The type of niggas spray his kids in some chicks
-He wouldn't raise his kids with, that type of twisted sick shit
-Come on, man
-[Interlude: Akia Harvey & Puff Daddy]
-What you say, nigga? Time's out
-Let's start over with this conversation
-You sound super crazy right now
-And I got my two kids listenin'? (I'm just playing)
-You said what? (I said I'm just-)
-Uh-uh, nigga, you got me fucked up
-Shut the fuck up!
-
-[Post-Chorus: A$AP Rocky & Puff Daddy]
-I could give a fuck about a list, ya heard? (Ya heard?)
-I could give a fuck about a diss, ya heard? (Ya heard?)
-I could give a fuck about your clique, ya heard? (Ya heard?)
-Shut the fuck up 'fore I rock your bitch, ya heard?
-Shut the fuck up!
-
-[Verse 2: A$AP Rocky & Puff Daddy]
-People really think I'm an asshole, I say anything (C'mon)
-Truthfully, I just say what I really think
-Like I'm too fresh, man, to be an under-class-man (Too fresh)
-Would say, "Suck my dick"—but that's sexual harassment (Take that, let's go!)
-Fuck around and really come through in a murse on ya (Come on)
-Who else you know design ya stage and do your merch over? (Come on)
-And if you lame, do your verse over (Yeah)
-I changed the game like I'm Kurt Warner (Yeah, keep going)
-I run the game like I'm Time Warner (Yeah)
-This ain't no Teen Choice Awards, slime slide on ya (Keep goin', yeah)
-And make your home for mama's fried roasting
-Had leans and Beams, tomatoes, Mercedes
-Had keys and grams, just me and Yams
-(Yeah, come on)
-[Interlude: A$AP Rocky]
-And Stevie rest in peace
-Pickin' off the last collard greens, stress up outta me
-Now we sellin' out the Coliseum for the dynasty
-Tell them boys who got it locked and got the key
-You gotta see behind the scenes or in the streets (A$AP)
-
-[Verse 3: A$AP Rocky, Puff Daddy & A$AP Ferg]
-Peep my repertoire, Uptown esplanade
-Eleanor, Druham, Nickel goin too HAM (C'mon)
-AK, Jackie Rob, East 11, 99
-Lenox Ave, VLONE, Eastside, Wingstone (Yeah, Uptown)
-
-[Chorus: A$AP Rocky & Puff Daddy]
-Stoned-stoned when I'm in my zoney-zone
-Smokin' on the homegrown, feeling like I'm all alone (Yeah)
-Used to go to Kingdome, Rucker Park with Tony Tone (C'mon, that's right)
-Listenin' to Bone Bone, feelins in my bone bone (Yeah, yeah)
-
-[Post-Chorus: A$AP Rocky & Puff Daddy]
-I can tell it
-I could give a fuck about a list, ya heard? (Take that, yeah)
-I could give a fuck about a diss, ya heard? (Ya heard?)
-I could give a fuck about your clique, ya heard? (Take that)
-Shut the fuck up 'fore I rock your bitch, ya heard? Uh (Take that, take that)
-[Outro: Puff Daddy & A$AP Ferg]
-Ayo, we don't give a fuck about none of that shit
-This is Harlem, motherfuckers (Yeah, take that, take that)
-The fuck you think? (Uptown, nigga!)
-Mob, A$AP, Same Gang, Tone Wop
-Harlem
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>ASAP Rocky</artist>
+        <year>2018</year>
+        <title>Tony Tone</title>
+        <featuredArtist>Akia Harvey &amp; Puff Daddy</featuredArtist>
+        <album>Testing</album>
+    </metadata>
+    <intro vocals="ASAP Rocky &amp; Puff Daddy" mood="ambiguous" tone="positive">
+        <line>Uh, my mic sounds nice, check one <background>Woo!</background></line>
+        <line>My mic sounds nice, check two <background>Uh-huh, yeah-yeah</background></line>
+        <line>Testing, one-two, one-two, let's go <background>Uh-huh, yeah-yeah</background></line>
+        <line><background>Uh, woo!</background> Let's go</line>
+        <line><background>Uh, uh, yeah-yeah</background> Let's go</line>
+        <line>My mic sounds nice, check one <background>Yeah, yeah</background></line>
+        <line>My mic sounds nice, check two <background>Yeah, testing, testing,
+            woo!</background></line>
+    </intro>
+    <chorus vocals="ASAP Rocky &amp; Puff Daddy" mood="apathetic" tone="positive">
+        <topic type="drugs">
+            <line>Stoned-stoned when I'm in my zoney-zone</line>
+            <line>Smokin' on the homegrown, feeling like I'm all alone</line>
+        </topic>
+        <line>Used to go to Kingdome, Rucker Park with Tony Tone
+            <background>Harlem!</background></line>
+        <line>Listenin' to Bone Bone, feelins in my bone bone</line>
+    </chorus>
+    <chorus vocals="ASAP Rocky &amp; Puff Daddy" mood="apathetic" tone="negative">
+        <line>I can tell it</line>
+        <line>I could give a fuck about a list, ya heard? <background>Ya heard?</background></line>
+        <line>I could give a fuck about a diss, ya heard? <background>Ya heard?</background></line>
+        <line>I could give a fuck about your clique, ya heard? <background>Ya
+            heard?</background></line>
+        <line>Shut the fuck up 'fore I rock your bitch, ya heard? Uh</line>
+        <line>Shut the fuck up!</line>
+    </chorus>
+    <verse vocals="ASAP Rocky &amp; Puff Daddy" mood="cynical" tone="neutral">
+        <line>My mama named me, my papa gave me cock to take a piss with</line>
+        <line>To fuck ya bitch with, life is different for me, for instance</line>
+        <line>The type of niggas spray his kids in some chicks</line>
+        <line>He wouldn't raise his kids with, that type of twisted sick shit</line>
+        <line>Come on, man</line>
+    </verse>
+    <verse vocals="Akia Harvey &amp; Puff Daddy" mood="angry" tone="negative">
+        <line>What you say, nigga? Time's out</line>
+        <line>Let's start over with this conversation</line>
+        <line>You sound super crazy right now</line>
+        <line>And I got my two kids listenin'? <background>I'm just playing</background></line>
+        <line>You said what? <background>I said I'm just-</background></line>
+        <line>Uh-uh, nigga, you got me fucked up</line>
+        <line>Shut the fuck up!</line>
+    </verse>
+    <chorus vocals="ASAP Rocky &amp; Puff Daddy" mood="apathetic" tone="negative">
+        <line>I could give a fuck about a list, ya heard? <background>Ya heard?</background></line>
+        <line>I could give a fuck about a diss, ya heard? <background>Ya heard?</background></line>
+        <line>I could give a fuck about your clique, ya heard? <background>Ya
+            heard?</background></line>
+        <line>Shut the fuck up 'fore I rock your bitch, ya heard?</line>
+        <line>Shut the fuck up!</line>
+    </chorus>
+    <verse vocals="ASAP Rocky &amp; Puff Daddy" mood="confident" tone="negative">
+        <line>People really think I'm an asshole, I say anything
+            <background>C'mon</background></line>
+        <line>Truthfully, I just say what I really think</line>
+        <line>Like I'm too fresh, man, to be an under-class-man <background>Too
+            fresh</background></line>
+        <line>Would say, "Suck my dick"—but that's sexual harassment <background>Take that, let's
+                go!</background></line>
+        <line>Fuck around and really come through in a murse on ya <background>Come
+            on</background></line>
+        <line>Who else you know design ya stage and do your merch over? <background>Come
+                on</background></line>
+        <line>And if you lame, do your verse over <background>Yeah</background></line>
+        <line>I changed the game like I'm Kurt Warner <background>Yeah, keep
+            going</background></line>
+        <line>I run the game like I'm Time Warner <background>Yeah</background></line>
+        <line>This ain't no Teen Choice Awards, slime slide on ya <background>Keep goin',
+                yeah</background></line>
+        <line>And make your home for mama's fried roasting</line>
+        <line>Had leans and Beams, tomatoes, Mercedes</line>
+        <line>Had keys and grams, just me and Yams</line>
+        <line><background>Yeah, come on</background></line>
+    </verse>
+    <verse vocals="ASAP Rocky" mood="confident" tone="neutral">
+        <line>And Stevie rest in peace</line>
+        <line>Pickin' off the last collard greens, stress up outta me</line>
+        <line>Now we sellin' out the Coliseum for the dynasty</line>
+        <line>Tell them boys who got it locked and got the key</line>
+        <line>You gotta see behind the scenes or in the streets <background>A$AP</background></line>
+    </verse>
+    <verse vocals="A$AP Rocky, A$AP Ferg, &amp; Puff Daddy" mood="ambiguous" tone="neutral">
+        <line>Peep my repertoire, Uptown esplanade</line>
+        <line>Eleanor, Druham, Nickel goin too HAM <background>C'mon</background></line>
+        <line>AK, Jackie Rob, East 11, 99</line>
+        <line>Lenox Ave, VLONE, Eastside, Wingstone <background>Yeah, Uptown</background></line>
+    </verse>
+    <chorus vocals="A$AP Rocky &amp; Puff Daddy" mood="ambiguous" tone="positive">
+        <line>Stoned-stoned when I'm in my zoney-zone</line>
+        <line>Smokin' on the homegrown, feeling like I'm all alone
+            <background>Yeah</background></line>
+        <line>Used to go to Kingdome, Rucker Park with Tony Tone <background>C'mon, that's
+                right</background></line>
+        <line>Listenin' to Bone Bone, feelins in my bone bone <background>Yeah,
+            yeah</background></line>
+    </chorus>
+    <chorus vocals="A$AP Rocky &amp; Puff Daddy" mood="apathetic" tone="negative">
+        <line>I can tell it</line>
+        <line>I could give a fuck about a list, ya heard? <background>Take that,
+            yeah</background></line>
+        <line>I could give a fuck about a diss, ya heard? <background>Ya heard?</background></line>
+        <line>I could give a fuck about your clique, ya heard? <background>Take
+            that</background></line>
+        <line>Shut the fuck up 'fore I rock your bitch, ya heard? Uh <background>Take that, take
+                that</background></line>
+    </chorus>
+    <outro vocals="A$AP Ferg &amp; Puff Daddy" mood="apathetic" tone="negative">
+        <line>Ayo, we don't give a fuck about none of that shit</line>
+        <line>This is Harlem, motherfuckers <background>Yeah, take that, take
+            that</background></line>
+        <line>The fuck you think? <background>Uptown, nigga!</background></line>
+        <line>Mob, A$AP, Same Gang, Tone Wop</line>
+        <line>Harlem</line>
+    </outro>
+</song>

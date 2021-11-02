@@ -1,80 +1,109 @@
-[Intro]
-Ahh, pain
-Ahh, pain
-Ahh, pain
-Ahh
-
-[Bridge: A$AP Rocky]
-So big you are, shining like the star
-With your head in the clouds 'til somebody shoot you down
-Hands on the ground, back against the wall
-Tell me who you call, when no one else around
-
-[Chorus]
-It was a lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-
-[Verse 1: A$AP Rocky]
-The future will be televised, haters getting genocide
-23 and 43, I'm talking my Margiela size
-My niggas is hella fly, you over accessorize
-Dead alive, it’s in my repertoire, forever ever high
-I never lie, never tell a lie, I would testify
-Set aside dreams, I’m a king ask Coretta Scott
-Cute faced, fat ass, and a nice set of thighs
-Rihanna weave, I need a umbrella, ella, ella, ah
-[Verse 2: Kent Jamz]
-Everybody knows me, shit, still ain’t got no cash
-Bitch, hit that flash quick, post my bad habits
-Fuck you and your Instagram, match a gram, Mando
-Royal blue Foams, getting head in the red Lambo
-Media take me out, TMZ all in the V.I.P
-Bitch I’m hard and my loop concrete, too much Bossip if you ask me
-Almost fucked fame, but she came with money
-I got two bad bitches, haters wanna take em from me
-
-[Chorus]
-It was a lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-Lights, camera, act-, light, lights, camera, action
-Lights, camera, action, lights, camera, action (you love, you love it)
-
-[Verse 3: Tube]
-Tryna get on in this industry, acting like you're (Ruthy)
-Breaking down cocaine with the EBT (oh yeah)
-These male groupies doin' it however, whatever they seein' on the box
-Everybody spit, everybody hot, everybody's an artist (everybody not)
-S-O L-O-S-T, niggas talking dollars, getting change
-In a minute I'ma lose my cool, Sprewell one year before '98
-Like fuck coach, I’m cutthroat, so what goes
-Do you have for the year they say might be the end?
-Better look within
-[Verse 4: A$AP Rocky]
-Glitz and the glamors, we pose for the cameras
-Ghetto niggas with me, they pose with the hammers
-Ghetto girls with me, pink toes in the sandals
-No dirty laundry, get your nose out my hamper
-Clothes in my hamper, that Bathing Ape camouflage
-Brands from Japan, you would think I was a samurai
-Drop-crotch Jeremy Scott pants, bitch it’s Hammer time
-Getting dirty money but I keep my hand sanitized
-Li-life is what you need, won't you take a Z? Feel the breeze
-Smoke the Sour Diese', hit that shit and please, act at ease
-What you wanna be, like? The Black Eyed Peas, all these steezs
-S-T-A-R-S, Hollywood, won’t you rest in peace?
-
-[Bridge: A$AP Rocky]
-So big you are, shining like the star
-With your head in the clouds 'til somebody shoot you down
-Hands on the ground, back against the wall
-Tell me who you call, when no one else around
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>ASAP Rocky</artist>
+        <year>2013</year>
+        <title>Hell</title>
+        <featuredArtist>OverDoz. (Kent Jamz &amp; Tube)</featuredArtist>
+        <album>Long. Live. ASAP</album>
+    </metadata>
+    <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+        <line>Ahh, pain</line>
+        <line>Ahh, pain</line>
+        <line>Ahh, pain</line>
+        <line>Ahh</line>
+    </intro>
+    <bridge vocals="ASAP Rocky" mood="empathetic" tone="positive">
+        <line>So big you are, shining like the star</line>
+        <line>With your head in the clouds 'til somebody shoot you down</line>
+        <line>Hands on the ground, back against the wall</line>
+        <line>Tell me who you call, when no one else around</line>
+    </bridge>
+    <chorus vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+        <line>It was a lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+    </chorus>
+    <verse vocals="ASAP Rocky" mood="confident" tone="neutral">
+        <line>The future will be televised, haters getting genocide</line>
+        <topic type="wealth">
+            <line>23 and 43, I'm talking my Margiela size</line>
+        </topic>
+        <line>My niggas is hella fly, you over accessorize</line>
+        <line>Dead alive, it’s in my repertoire, forever ever high</line>
+        <line>I never lie, never tell a lie, I would testify</line>
+        <line>Set aside dreams, I’m a king ask Coretta Scott</line>
+        <line>Cute faced, fat ass, and a nice set of thighs</line>
+        <line>Rihanna weave, I need a umbrella, ella, ella, ah</line>
+    </verse>
+    <verse vocals="Kent Jamz" mood="apathetic" tone="neutral">
+        <line>Everybody knows me, shit, still ain’t got no cash</line>
+        <line>Bitch, hit that flash quick, post my bad habits</line>
+        <line>Fuck you and your Instagram, match a gram, Mando</line>
+        <line>Royal blue Foams, getting head in the red Lambo</line>
+        <line>Media take me out, TMZ all in the V.I.P</line>
+        <line>Bitch I’m hard and my loop concrete, too much Bossip if you ask me</line>
+        <line>Almost fucked fame, but she came with money</line>
+        <line>I got two bad bitches, haters wanna take em from me</line>
+    </verse>
+    <chorus vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+        <line>It was a lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+        <line>Lights, camera, act-, light, lights, camera, action</line>
+        <line>Lights, camera, action, lights, camera, action <background>you love, you love
+                it</background></line>
+    </chorus>
+    <verse vocals="Tube" mood="cynical" tone="neutral">
+        <line>Tryna get on in this industry, acting like you're
+            <background>Ruthy</background></line>
+        <line>Breaking down cocaine with the EBT <background>oh yeah</background></line>
+        <line>These male groupies doin' it however, whatever they seein' on the box</line>
+        <line>Everybody spit, everybody hot, everybody's an artist <background>everybody
+                not</background></line>
+        <line>S-O L-O-S-T, niggas talking dollars, getting change</line>
+        <line>In a minute I'ma lose my cool, Sprewell one year before '98</line>
+        <line>Like fuck coach, I’m cutthroat, so what goes</line>
+        <line>Do you have for the year they say might be the end?</line>
+        <line>Better look within</line>
+    </verse>
+    <verse vocals="ASAP Rocky" mood="confident" tone="neutral">
+        <line>Glitz and the glamors, we pose for the cameras</line>
+        <line>Ghetto niggas with me, they pose with the hammers</line>
+        <line>Ghetto girls with me, pink toes in the sandals</line>
+        <line>No dirty laundry, get your nose out my hamper</line>
+        <line>Clothes in my hamper, that Bathing Ape camouflage</line>
+        <line>Brands from Japan, you would think I was a samurai</line>
+        <topic type="wealth">
+            <line>Drop-crotch Jeremy Scott pants, bitch it’s Hammer time</line>
+        </topic>
+        <line>Getting dirty money but I keep my hand sanitized</line>
+        <line>Li-life is what you need, won't you take a Z? Feel the breeze</line>
+        <topic type="drugs">
+            <line>Smoke the Sour Diese', hit that shit and please, act at ease</line>
+        </topic>
+        <line>What you wanna be, like? The Black Eyed Peas, all these steezs</line>
+        <line>S-T-A-R-S, Hollywood, won’t you rest in peace?</line>
+    </verse>
+    <bridge vocals="ASAP Rocky" mood="empathetic" tone="positive">
+        <line>So big you are, shining like the star</line>
+        <line>With your head in the clouds 'til somebody shoot you down</line>
+        <line>Hands on the ground, back against the wall</line>
+        <line>Tell me who you call, when no one else around</line>
+    </bridge>
+</song>

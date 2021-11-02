@@ -1,63 +1,73 @@
-[Produced by Clams Casino]
-
-[Intro: A$AP Rocky]
-Clams Casino, nigga
-A$AP
-
-[Verse 1: A$AP Rocky]
-Mr. Pistol Popper, Flacko locked and loaded
-Life's a bitch and she pussy pop, know why? Cause I got her open
-That pussy soaking, fuck is you promoting?
-Yeah, you claim you rage, you hating like you live in Oakland
-All my rap town niggas with the roof back
-Introduce you niggas to the new swag
-Make you say a nigga blew up too fast
-Fuck I'm 'sposed to do with all this new ass?
-Fuck I'm 'sposed to do with all this new cash?
-Thousand dollar drawers just to hold my balls
-All I ever do is let my jewels sag
-Pac gone, but the "Juice" back
-Get your popcorn, juice, snacks
-It's a movie nigga, with a new cast
-Get the news flash, that the truth back
-This is boom bap, mixed with new raps
-Look at all the niggas that I blew past
-Hood by Air, to the do-rag
-Nigga make way for the new jacks
-[Interlude: A$AP Rocky]
-Yea, uh
-Yea, uh
-Uhh
-Yea, yea
-Uhh
-Uh, uhh
-
-[Verse 2: A$AP Rocky]
-It's Mr. Pistol Popper screaming, "Fuck a copper"
-I just bought a crispy choppa, finna fuck your block up, blocka!
-Even cracked the pavement that's for niggas hating
-I been impatiently waiting to show you niggas Satan
-All this talk of Illuminati ain't got a clue about me
-Bitch, I'm Trillmaluminati and got my crew behind me
-Shooters round me, keep them looters round me
-Keep a tool around me, it'll keep you fools from round me
-Couple of them dudes surround me
-With a gat, with a strap in a backpack
-When they cap cap, leave you flat, better back back
-On a fast track, ratatat, nigga that's that
-Nigga pass that, finna ash, where the hash at
-Got a Kat Stacks with a ass, finna smash that
-Make 'em catch that, A$AP, then I pass that
-Off to my niggas then she ask, "Where the cash at?"
-I see dead people, I need dead people
-Lord Pretty Flacko, bitch, I behead people
-Kneel and kiss the ring, all hail the King
-Long Live A$AP put that on everything
-[Outro: Haim]
-Alright, mothafucka
-Alright, A$AP
-All you need is love
-All you need is love
-All you need is love
-All you need is love
-All you need is love
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>ASAP Rocky</artist>
+        <year>2013</year>
+        <title>Hell</title>
+        <album>Long. Live. ASAP</album>
+    </metadata>
+    <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+        <line>Clams Casino, nigga</line>
+        <line>A$AP</line>
+    </intro>
+    <verse vocals="ASAP Rocky" mood="angry" tone="negative">
+        <line>Mr. Pistol Popper, Flacko locked and loaded</line>
+        <line>Life's a bitch and she pussy pop, know why? Cause I got her open</line>
+        <line>That pussy soaking, fuck is you promoting?</line>
+        <line>Yeah, you claim you rage, you hating like you live in Oakland</line>
+        <line>All my rap town niggas with the roof back</line>
+        <line>Introduce you niggas to the new swag</line>
+        <line>Make you say a nigga blew up too fast</line>
+        <line>Fuck I'm 'sposed to do with all this new ass?</line>
+        <line>Fuck I'm 'sposed to do with all this new cash?</line>
+        <line>Thousand dollar drawers just to hold my balls</line>
+        <line>All I ever do is let my jewels sag</line>
+        <line>Pac gone, but the "Juice" back</line>
+        <line>Get your popcorn, juice, snacks</line>
+        <line>It's a movie nigga, with a new cast</line>
+        <line>Get the news flash, that the truth back</line>
+        <line>This is boom bap, mixed with new raps</line>
+        <line>Look at all the niggas that I blew past</line>
+        <line>Hood by Air, to the do-rag</line>
+        <line>Nigga make way for the new jacks</line>
+    </verse>
+    <verse vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+        <line>Yea, uh</line>
+        <line>Yea, uh</line>
+        <line>Uhh</line>
+        <line>Yea, yea</line>
+        <line>Uhh</line>
+        <line>Uh, uhh</line>
+    </verse>
+    <verse vocals="ASAP Rocky" mood="cynical" tone="negative">
+        <line>It's Mr. Pistol Popper screaming, "Fuck a copper"</line>
+        <line>I just bought a crispy choppa, finna fuck your block up, blocka!</line>
+        <line>Even cracked the pavement that's for niggas hating</line>
+        <line>I been impatiently waiting to show you niggas Satan</line>
+        <line>All this talk of Illuminati ain't got a clue about me</line>
+        <line>Bitch, I'm Trillmaluminati and got my crew behind me</line>
+        <line>Shooters round me, keep them looters round me</line>
+        <line>Keep a tool around me, it'll keep you fools from round me</line>
+        <line>Couple of them dudes surround me</line>
+        <line>With a gat, with a strap in a backpack</line>
+        <line>When they cap cap, leave you flat, better back back</line>
+        <line>On a fast track, ratatat, nigga that's that</line>
+        <line>Nigga pass that, finna ash, where the hash at</line>
+        <line>Got a Kat Stacks with a ass, finna smash that</line>
+        <line>Make 'em catch that, A$AP, then I pass that</line>
+        <line>Off to my niggas then she ask, "Where the cash at?"</line>
+        <line>I see dead people, I need dead people</line>
+        <line>Lord Pretty Flacko, bitch, I behead people</line>
+        <line>Kneel and kiss the ring, all hail the King</line>
+        <line>Long Live A$AP put that on everything</line>
+    </verse>
+    <outro vocals="Haim" mood="ambiguous" tone="neutral">
+        <line>Alright, mothafucka</line>
+        <line>Alright, A$AP</line>
+        <line>All you need is love</line>
+        <line>All you need is love</line>
+        <line>All you need is love</line>
+        <line>All you need is love</line>
+        <line>All you need is love</line>
+    </outro>
+</song>

@@ -1,51 +1,64 @@
-[Intro: Scarface]
-"Mo—money and the power, money and the power"
-
-[Chorus: A$AP Rocky & Dean Blunt]
-Eyedrops, ("Fuckin' with the killas")
-Teardrops
-Droptops, ("Fuckin' with the killas")
-Ice blocks (Beat drop, beat drop)
-
-[Verse 1: A$AP Rocky]
-I was thinking to myself (Calldrops)
-Maybe I should seek some help
-Maybe I should blame myself ("Don't expect no money")
-My mystique in stealth is gone away
-("Don't expect no money")
-It's going away, it's going away
-
-[Chorus: Dean Blunt]
-Eye drops
-Teardrops
-Droptops
-Ice blocks
-
-[Interlude: A$AP Rocky & Kodak Black]
-You used to be so soft
-This is a prepaid collect call from
-("Fuckin' with the killas")
-Beautiful teardrops on your cheeks
-An inmate at Florida Correctional Institution
-Beautiful things
-This call is subject to recording and monitoring
-This-this life situation and shit, you there?
-Uh-huh
-You ready right now?
-Yeah, I'm ready, got you on speaker
-[Verse 2: Kodak Black & A$AP Rocky]
-All the pain I went through
-Turned to a singer
-I put it all on my tattoos
-'Cause of where I came from
-If I ain't ever learned before, then it's gon' change me
-(This call is subject to recording and monitoring)
-Sittin' in institution, I done lost my baby
-If nan' ain't ever woke me up, then it's gon' wake me
-When them people ran up on my spot, and they took my baby
-A random kind that's doing his time, but it's for no reason
-A random kind that's ridin' the pine, something you free—something you free—something you free
-(This call has dropped, to add more credits, please press 1)
-(Free Kodak)
-
-[Produced by A$AP Rocky, Boys Noize, and Hector Delgado]
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>ASAP Rocky</artist>
+        <year>2018</year>
+        <title>Calldrops</title>
+        <featuredArtist>Dean Blunt, Kodak Black, &amp; Scarface</featuredArtist>
+        <album>Testing</album>
+    </metadata>
+    <verse vocals="Scarface" mood="ambiguous" tone="neutral">
+        <line>"Mo—money and the power, money and the power"</line>
+    </verse>
+    <chorus vocals="A$AP Rocky &amp; Dean Blunt" mood="ambiguous" tone="neutral">
+        <line>Eyedrops, <background>"Fuckin' with the killas"</background></line>
+        <line>Teardrops</line>
+        <line>Droptops, <background>"Fuckin' with the killas"</background></line>
+        <line>Ice blocks <background>Beat drop, beat drop</background></line>
+    </chorus>
+    <verse vocals="ASAP Rocky" mood="anxious" tone="neutral">
+        <line>I was thinking to myself <background>Calldrops</background></line>
+        <line>Maybe I should seek some help</line>
+        <line>Maybe I should blame myself <background>"Don't expect no money"</background></line>
+        <line>My mystique in stealth is gone away</line>
+        <line><background>"Don't expect no money"</background></line>
+        <line>It's going away, it's going away</line>
+    </verse>
+    <chorus vocals="Dean Blunt" mood="ambiguous" tone="neutral">
+        <line>Eye drops</line>
+        <line>Teardrops</line>
+        <line>Droptops</line>
+        <line>Ice blocks</line>
+    </chorus>
+    <verse vocals="A$AP Rocky &amp; Kodak Black" mood="empathetic" tone="neutral">
+        <line>You used to be so soft</line>
+        <line>This is a prepaid collect call from</line>
+        <line><background>"Fuckin' with the killas"</background></line>
+        <line>Beautiful teardrops on your cheeks</line>
+        <line>An inmate at Florida Correctional Institution</line>
+        <line>Beautiful things</line>
+        <line>This call is subject to recording and monitoring</line>
+        <line>This-this life situation and shit, you there?</line>
+        <line>Uh-huh</line>
+        <line>You ready right now?</line>
+        <line>Yeah, I'm ready, got you on speaker</line>
+    </verse>
+    <verse vocals="A$AP Rocky &amp; Kodak Black" mood="sad" tone="negative">
+        <line>All the pain I went through</line>
+        <line>Turned to a singer</line>
+        <line>I put it all on my tattoos</line>
+        <line>'Cause of where I came from</line>
+        <line>If I ain't ever learned before, then it's gon' change me</line>
+        <line><background>This call is subject to recording and monitoring</background></line>
+        <topic type="family">
+            <line>Sittin' in institution, I done lost my baby</line>
+        </topic>
+        <line>If nan' ain't ever woke me up, then it's gon' wake me</line>
+        <line>When them people ran up on my spot, and they took my baby</line>
+        <line>A random kind that's doing his time, but it's for no reason</line>
+        <line>A random kind that's ridin' the pine, something you free—something you free—something
+            you free</line>
+        <line><background>This call has dropped, to add more credits, please press 1</background></line>
+        <line><background>Free Kodak</background></line>
+    </verse>
+</song>
