@@ -59,10 +59,10 @@
 <line>Matter fact, I'm 'bout to speak at this convention, call you back—</line>
 </verse>
  
-<break vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<verse vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
 <line>Alright, kids, we're gonna talk about gun control</line>
 <line><background>Pray for me</background> Damn!</line>
-</break>
+</verse>
     
 <chorus vocals="Bono" mood="sad" tone="neutral">
 <line>It's not a place</line>

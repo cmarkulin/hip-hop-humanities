@@ -42,11 +42,11 @@
 <line>Or maybe some kicks and make you—</line>
 </verse>    
     
-<break vocals="RAT_BOY" mood="energetic" tone="neutral">
+<verse vocals="RAT_BOY" mood="energetic" tone="neutral">
 <line>Door and his Nike Air Rattles</line>
 <line>Rush the fire exit, no time for battles</line>
 <line>Well I, I never expected</line>
-</break>
+</verse>
 
 <verse vocals="Kendrick_Lamar" mood="confident" tone="positive">
 <topic type="money"><line>Wake up in the morning, thinking 'bout money, kick your feet up</line></topic>
