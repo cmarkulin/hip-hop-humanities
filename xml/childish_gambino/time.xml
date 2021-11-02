@@ -1,83 +1,98 @@
-[Verse 1: Childish Gambino]
-Seven billion people
-Tryna free themselves
-Said a billion prayers
-Tryna save myself
-I can see it coming
-But it's moving fast
-
-[Verse 2: Ariana Grande]
-Been through a hurricane
-With the sunroof down
-Dancing with no pain
-We wait to see the sunrise
-It's a holiday (Hey)
-When you're around (When you're around)
-Breath of fresh air like a cold winter breeze
-And I can feel it slow down, oh
-
-[Chorus: Childish Gambino]
-Maybe all the stars in the night are really dreams
-Maybe this whole world ain't exactly what it seems
-Maybe the sky will fall down on tomorrow
-But one thing's for certain, baby
-We're running out of time
-
-[Post-Chorus: Childish Gambino]
-Oh, time, time, yeah
-[Verse 3: Childish Gambino]
-Running after something
-But I don't know what
-Am I running to?
-Too afraid to stop
-Hundred miles an hour
-With no seatbelt on
-Time is everlasting
-I can't wait that long (Ooh)
-
-[Chorus: Childish Gambino]
-Maybe all the stars in the night are really dreams (All the stars)
-Maybe this whole world ain't exactly what it seems (This whole world)
-Maybe the sky will fall down on tomorrow (Ooh)
-But one thing's for certain, baby
-We're running out of time
-
-[Verse 4: Ariana Grande]
-My feet are falling to the bottom of the ocean
-Running out of time, out of time, uh, oh yeah
-High on emotion, I can feel it moving forward
-Running out of time, running out
-Running out, running out of time
-
-[Chorus: Brent Jones & The Best Life Singers]
-Maybe all the stars in the night are really dreams (All the stars)
-Maybe this whole world ain't exactly what it seems (This whole world)
-Maybe the sky will fall down on tomorrow (Ooh)
-But one thing's for certain, baby
-We're running out of time
-[Bridge: Childish Gambino]
-(Time)
-(Time)
-Uh
-It's about power (Time)
-All about power (Time)
-Oh, I'm in time
-I'm just tryna feel it (Time)
-Get a little bit stronger
-Gotta go all out (Time)
-A nigga gon' ball out
-Try not to fall out
-Tryna be better
-Gotta get better (Time)
-Too many pressure
-Nigga need pressure
-People need pressure
-Uh, woo
-
-[Outro]
-Running out of time
-We're running
-Running out of time (Woah)
-We're running
-Running out of time
-We're running
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Childish Gambino</artist>
+        <year>2020</year>
+        <title>Time</title>
+        <featuredArtist>Ariana Grande &amp; Brent Jones</featuredArtist>
+        <album>3.15.20</album>
+    </metadata>
+    <verse vocals="Childish Gambino" mood="ambiguous" tone="positive">
+        <line>Seven billion people</line>
+        <line>Tryna free themselves</line>
+        <line>Said a billion prayers</line>
+        <line>Tryna save myself</line>
+        <line>I can see it coming</line>
+        <line>But it's moving fast</line>
+    </verse>
+    <verse vocals="Ariana Grande" mood="determined" tone="positive">
+        <line>Been through a hurricane</line>
+        <line>With the sunroof down</line>
+        <line>Dancing with no pain</line>
+        <line>We wait to see the sunrise</line>
+        <line>It's a holiday <background>Hey</background></line>
+        <line>When you're around <background>When you're around</background></line>
+        <line>Breath of fresh air like a cold winter breeze</line>
+        <line>And I can feel it slow down, oh</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="anxious" tone="neutral">
+        <line>Maybe all the stars in the night are really dreams</line>
+        <line>Maybe this whole world ain't exactly what it seems</line>
+        <line>Maybe the sky will fall down on tomorrow</line>
+        <line>But one thing's for certain, baby</line>
+        <line>We're running out of time</line>
+        <line>Oh, time, time, yeah</line>
+    </chorus>
+    <verse vocals="Childish Gambino" mood="anxious" tone="positive">
+        <line>Running after something</line>
+        <line>But I don't know what</line>
+        <line>Am I running to?</line>
+        <line>Too afraid to stop</line>
+        <line>Hundred miles an hour</line>
+        <line>With no seatbelt on</line>
+        <line>Time is everlasting</line>
+        <line>I can't wait that long <background>Ooh</background></line>
+        </verse>
+    <chorus vocals="Childish Gambino" mood="anxious" tone="postive">
+        <line>Maybe all the stars in the night are really dreams <background>All the
+                stars</background></line>
+        <line>Maybe this whole world ain't exactly what it seems <background>This whole
+                world</background></line>
+        <line>Maybe the sky will fall down on tomorrow <background>Ooh</background></line>
+        <line>But one thing's for certain, baby</line>
+        <line>We're running out of time</line>
+    </chorus>
+    <verse vocals="Ariana Grande" mood="anxious" tone="positive">
+        <line>My feet are falling to the bottom of the ocean</line>
+        <line>Running out of time, out of time, uh, oh yeah</line>
+        <line>High on emotion, I can feel it moving forward</line>
+        <line>Running out of time, running out</line>
+        <line>Running out, running out of time</line>
+    </verse>
+    <chorus vocals="Brent Jones &amp; The Best Life Singers" mood="anxious" tone="positive">
+        <line>Maybe all the stars in the night are really dreams <background>All the
+                stars</background></line>
+        <line>Maybe this whole world ain't exactly what it seems <background>This whole
+                world</background></line>
+        <line>Maybe the sky will fall down on tomorrow <background>Ooh</background></line>
+        <line>But one thing's for certain, baby</line>
+        <line>We're running out of time</line>
+    </chorus>
+    <bridge vocals="Childish Gambino" mood="hopeful" tone="positive">
+        <line><background>Time</background></line>
+        <line><background>Time</background></line>
+        <line>Uh</line>
+        <line>It's about power <background>Time</background></line>
+        <line>All about power <background>Time</background></line>
+        <line>Oh, I'm in time</line>
+        <line>I'm just tryna feel it <background>Time</background></line>
+        <line>Get a little bit stronger</line>
+        <line>Gotta go all out <background>Time</background></line>
+        <line>A nigga gon' ball out</line>
+        <line>Try not to fall out</line>
+        <line>Tryna be better</line>
+        <line>Gotta get better <background>Time</background></line>
+        <line>Too many pressure</line>
+        <line>Nigga need pressure</line>
+        <line>People need pressure</line>
+        <line>Uh, woo</line>
+    </bridge>
+    <outro vocals="Childish Gambino" mood="anxious" tone="positive">
+        <line>Running out of time</line>
+        <line>We're running</line>
+        <line>Running out of time <background>Woah</background></line>
+        <line>We're running</line>
+        <line>Running out of time</line>
+        <line>We're running</line>
+    </outro>
+</song>

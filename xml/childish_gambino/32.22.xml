@@ -1,97 +1,109 @@
-[Verse 1]
-I got them feelings bad, hey
-Most them bones goin' bad, ayy
-I got them bones, bones me
-Feel so bonafide, ayy
-You got them feelings up on me
-On me and up in front of me
-And his mama's on fire
-Man, your mama don't ride
-I'm a funky motherfucker, man
-Don't fucking call me
-When you don't wan' talk to me
-I been the man, don't fire me
-Boom, boom, shooting
-Things I'm gon' do
-Everything all bad
-Things ain't all bad
-
-[Pre-Chorus]
-Fire, pick it up, pick it up
-Pick it up, fire, fire, fire, hey, hey (Woo)
-Fire, fire, fire (Hey, hey, hey, woah, woah, woah)
-(Woah, woah, woah)
-Ayy, fire (Woah, woah, woah), fire, fire, fire, ayy
-Firelight, are you ready? (Uh)
-Billie Jean is on fire, Billie Jean is on fire
-Billie Jean is on fire, Billie Jean is on fire
-Billie Jean is on fire
-[Chorus]
-Pick it up, jump, ayy, pick it up, jump
-Pick it up, jump (Woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo)
-Pick it up, jump (Yeah, yeah, yeah, yeah)
-
-[Verse 2]
-Firelight, are you ready?
-We are the, we are the warlords
-We are, are you ready?
-Firelight, got it, warlords
-Pick it up, no, pick it up
-Firelight gonna clean it up
-Firelight's goin' way up
-Red light's on fire
-
-[Chorus]
-Pick it up, jump (Oh, oh, oh, oh, oh, oh)
-Pick it up, jump (Oh, oh, oh, oh, oh, oh)
-Pick it up, jump (Oh, oh, oh, oh, oh, oh)
-Pick it up, jump (Oh, oh, oh, oh, oh, oh)
-Pick it up, jump (Woo, woo, woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo, woo, woo)
-Pick it up, jump (Woo, woo, woo, woo, woo, woo)
-Yeah (Huh), yeah (Huh)
-Woo, woo, woo, woo
-[Bridge]
-Kick it, yeah
-Proud, ain't it, you know ain't it, though
-Woo, woo, woo, woo, woo
-Yeah, so sweet
-More fire, more fire
-Woo (Ooh, ah)
-
-[Outro]
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
-Ayy-ayy, yeah, yeah
-Ayy, yeah, yeah
-Ayy, yup, ayy, yup
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Childish Gambino</artist>
+        <year>2020</year>
+        <title>32.22</title>
+        <album>3.15.20</album>
+    </metadata>
+    <verse vocals="Childish Gambino" mood="anxious" tone="negative">
+        <line>I got them feelings bad, hey</line>
+        <line>Most them bones goin' bad, ayy</line>
+        <line>I got them bones, bones me</line>
+        <line>Feel so bonafide, ayy</line>
+        <line>You got them feelings up on me</line>
+        <line>On me and up in front of me</line>
+        <line>And his mama's on fire</line>
+        <line>Man, your mama don't ride</line>
+        <line>I'm a funky motherfucker, man</line>
+        <line>Don't fucking call me</line>
+        <line>When you don't wan' talk to me</line>
+        <line>I been the man, don't fire me</line>
+        <line>Boom, boom, shooting</line>
+        <line>Things I'm gon' do</line>
+        <line>Everything all bad</line>
+        <line>Things ain't all bad</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Fire, pick it up, pick it up</line>
+        <line>Pick it up, fire, fire, fire, hey, hey <background>Woo</background></line>
+        <line>Fire, fire, fire <background>Hey, hey, hey, woah, woah, woah</background></line>
+        <line><background>Woah, woah, woah</background></line>
+        <line>Ayy, fire <background>Woah, woah, woah</background>, fire, fire, fire, ayy</line>
+        <line>Firelight, are you ready? <background>Uh</background></line>
+        <line>Billie Jean is on fire, Billie Jean is on fire</line>
+        <line>Billie Jean is on fire, Billie Jean is on fire</line>
+        <line>Billie Jean is on fire</line>
+    </chorus>
+    <chorus vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Pick it up, jump, ayy, pick it up, jump</line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Yeah, yeah, yeah, yeah</background></line>
+    </chorus>
+    <verse vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Firelight, are you ready?</line>
+        <line>We are the, we are the warlords</line>
+        <line>We are, are you ready?</line>
+        <line>Firelight, got it, warlords</line>
+        <line>Pick it up, no, pick it up</line>
+        <line>Firelight gonna clean it up</line>
+        <line>Firelight's goin' way up</line>
+        <line>Red light's on fire</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Pick it up, jump <background>Oh, oh, oh, oh, oh, oh</background></line>
+        <line>Pick it up, jump <background>Oh, oh, oh, oh, oh, oh</background></line>
+        <line>Pick it up, jump <background>Oh, oh, oh, oh, oh, oh</background></line>
+        <line>Pick it up, jump <background>Oh, oh, oh, oh, oh, oh</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo, woo, woo</background></line>
+        <line>Pick it up, jump <background>Woo, woo, woo, woo, woo, woo</background></line>
+        <line>Yeah <background>Huh</background>, yeah <background>Huh</background></line>
+        <line>Woo, woo, woo, woo</line>
+    </chorus>
+    <bridge vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Kick it, yeah</line>
+        <line>Proud, ain't it, you know ain't it, though</line>
+        <line>Woo, woo, woo, woo, woo</line>
+        <line>Yeah, so sweet</line>
+        <line>More fire, more fire</line>
+        <line>Woo <background>Ooh, ah</background></line>
+    </bridge>
+    <outro vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+        <line>Ayy-ayy, yeah, yeah</line>
+        <line>Ayy, yeah, yeah</line>
+        <line>Ayy, yup, ayy, yup</line>
+    </outro>
+</song>

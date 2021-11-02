@@ -1,92 +1,114 @@
-[Chorus]
-Oh, I want it, yeah
-Whenever you need my hand
-I'll hold you down, oh
-Oh, you want it, yeah
-Why in the fuck these niggas
-Tryin' to hold me down, oh
-Yeah, uh
-Why in the fuck these niggas
-Try and hold me down, ohh
-
-[Verse 1]
-"You such a fuckin' lame!"
-It's what they used to yell back in seventh grade
-My mama said she'd get me that new jacket when the cost go down
-Hit the office, stole some Tommy Hill from lost and found
-Not bad for a family of foster child
-Lookin' fly man, I'm flossin' now
-But them niggas saw through me
-"Are you serious? What is this?"
-Took the jacket off third period, ellipsis
-Listening to "Sky Is the Limit" on my Walkman
-Thinking if Biggie can make it through it, man then I can
-Dope-boy swag, I always wanted that
-But my persona was always more of that Arthur Ashe
-But no love for the son of a commuter who was a radio head
-And okay at them computers at the post office
-It's funny how you smoke niggas then you start coffins
-All my people need throat lozenge
-My fear is dead, ambition drove the hearse
-But niggas got me feelin' I ain't black enough to go to church
-Culture shock at barber shops cause I ain't hood enough
-We all look the same to the cops, ain't that good enough?
-The black experience is black and serious
-Cause being black, my experience, is no one hearin' us
-White kids get to wear whatever hat they want
-When it comes to black kids one size fits all
-[Chorus]
-Oh, I want it, yeah
-Whenever you need my hand
-I'll hold you down, oh
-Oh, you want it, yeah
-Why in the fuck these niggas
-Tryin' to hold me down, oh
-
-[Break]
-We the baddest nigga
-We the baddest nigga, yeah
-We the baddest nigga, we the baddest nigga, uh
-We the baddest nigga, we the baddest nigga, uh
-We the baddest nigga, uh, we the baddest nigga
-
-[Verse 2]
-The reason that they say I'm nothin' what they seen or heard's
-The same reason Will Smith always opposite Latino girls
-They only see you how they wanna see you
-'Til you make them see you in some other way
-I'm trippin' off the other day
-'Cause God knows what these white kids sayin' dude
-You're not not racist 'cause The Wire's in your Netflix queue
-Subtle racism, it's hard to pin it
-'Cause you'd only understand if you were me for just a minute
-This one kid said somethin' that was really bad
-He said I wasn't really black because I had a dad
-I think that's kinda sad
-Mostly 'cause a lot of black kids think they should agree with that
-If you're a father, you should stick around if you could
-'Cause even if you're bad at it, you could Tiger Woods or MJ
-We warriors, we all need senseis
-Change everything that we've done so far
-I don't mean makin' B.E.T. T.E.R
-I mean just the way that we see each other
-I won't stop until they say:
-"James Franco is the white Donald Glover"
-Yeah, these niggas wanted Cookie, but instead I gave 'em Loch Ness
-Sick Boi for life, my swag is in a hospice
-Aimin' for the throne, Jay and Ye said to watch that
-They ask me what I'm doin', and I said I'm stealin' rock back
-Nigga
-[Chorus]
-Oh, I want it, yeah
-Whenever you need my hand
-I'll hold you down, oh
-Oh, you want it, yeah
-Why in the fuck these niggas
-Tryin' to hold me down, oh
-Oh, I want it, yeah
-Whenever you need my hand
-I'll hold you down, oh
-Oh, you want it, yeah
-Why in the fuck these niggas
-Tryin' to hold me down, oh
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Childish Gambino</artist>
+        <year>2011</year>
+        <title>Hold You Down</title>
+        <album>Camp</album>
+    </metadata>
+    <chorus vocals="Childish Gambino" mood="sad" tone="negative">
+        <line>Oh, I want it, yeah</line>
+        <line>Whenever you need my hand</line>
+        <line>I'll hold you down, oh</line>
+        <line>Oh, you want it, yeah</line>
+        <line>Why in the fuck these niggas</line>
+        <line>Tryin' to hold me down, oh</line>
+        <line>Yeah, uh</line>
+        <line>Why in the fuck these niggas</line>
+        <line>Try and hold me down, ohh</line>
+    </chorus>
+    <verse vocals="Childish Gambino" mood="sad" tone="negative">
+        <line>"You such a fuckin' lame!"</line>
+        <line>It's what they used to yell back in seventh grade</line>
+        <topic type="poverty">
+            <line>My mama said she'd get me that new jacket when the cost go down</line>
+            <line>Hit the office, stole some Tommy Hill from lost and found</line>
+        </topic>
+        <topic type="family">
+            <line>Not bad for a family of foster child</line>
+        </topic>
+        <line>Lookin' fly man, I'm flossin' now</line>
+        <line>But them niggas saw through me</line>
+        <line>"Are you serious? What is this?"</line>
+        <line>Took the jacket off third period, ellipsis</line>
+        <line>Listening to "Sky Is the Limit" on my Walkman</line>
+        <line>Thinking if Biggie can make it through it, man then I can</line>
+        <line>Dope-boy swag, I always wanted that</line>
+        <line>But my persona was always more of that Arthur Ashe</line>
+        <line>But no love for the son of a commuter who was a radio head</line>
+        <line>And okay at them computers at the post office</line>
+        <line>It's funny how you smoke niggas then you start coffins</line>
+        <line>All my people need throat lozenge</line>
+        <line>My fear is dead, ambition drove the hearse</line>
+        <topic type="social_issues">
+            <line>But niggas got me feelin' I ain't black enough to go to church</line>
+            <line>Culture shock at barber shops cause I ain't hood enough</line>
+            <line>We all look the same to the cops, ain't that good enough?</line>
+            <line>The black experience is black and serious</line>
+            <line>Cause being black, my experience, is no one hearin' us</line>
+            <line>White kids get to wear whatever hat they want</line>
+            <line>When it comes to black kids one size fits all</line>
+        </topic>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="sad" tone="negative">
+        <line>Oh, I want it, yeah</line>
+        <line>Whenever you need my hand</line>
+        <line>I'll hold you down, oh</line>
+        <line>Oh, you want it, yeah</line>
+        <line>Why in the fuck these niggas</line>
+        <line>Tryin' to hold me down, oh</line>
+    </chorus>
+    <bridge vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+        <line>We the baddest nigga</line>
+        <line>We the baddest nigga, yeah</line>
+        <line>We the baddest nigga, we the baddest nigga, uh</line>
+        <line>We the baddest nigga, we the baddest nigga, uh</line>
+        <line>We the baddest nigga, uh, we the baddest nigga</line>
+    </bridge>
+    <verse vocals="Childish Gambino" mood="sad" tone="negative">
+        <line>The reason that they say I'm nothin' what they seen or heard's</line>
+        <line>The same reason Will Smith always opposite Latino girls</line>
+        <line>They only see you how they wanna see you</line>
+        <line>'Til you make them see you in some other way</line>
+        <topic type="social_issues">
+            <line>I'm trippin' off the other day</line>
+            <line>'Cause God knows what these white kids sayin' dude</line>
+            <line>You're not not racist 'cause The Wire's in your Netflix queue</line>
+            <line>Subtle racism, it's hard to pin it</line>
+            <line>'Cause you'd only understand if you were me for just a minute</line>
+            <line>This one kid said somethin' that was really bad</line>
+            <line>He said I wasn't really black because I had a dad</line>
+            <line>I think that's kinda sad</line>
+            <line>Mostly 'cause a lot of black kids think they should agree with that</line>
+        </topic>
+        <topic type="family">
+            <line>If you're a father, you should stick around if you could</line>
+        </topic>
+        <line>'Cause even if you're bad at it, you could Tiger Woods or MJ</line>
+        <line>We warriors, we all need senseis</line>
+        <line>Change everything that we've done so far</line>
+        <line>I don't mean makin' B.E.T. T.E.R</line>
+        <line>I mean just the way that we see each other</line>
+        <line>I won't stop until they say:</line>
+        <line>"James Franco is the white Donald Glover"</line>
+        <line>Yeah, these niggas wanted Cookie, but instead I gave 'em Loch Ness</line>
+        <line>Sick Boi for life, my swag is in a hospice</line>
+        <line>Aimin' for the throne, Jay and Ye said to watch that</line>
+        <line>They ask me what I'm doin', and I said I'm stealin' rock back</line>
+        <line>Nigga</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="sad" tone="negative">
+        <line>Oh, I want it, yeah</line>
+        <line>Whenever you need my hand</line>
+        <line>I'll hold you down, oh</line>
+        <line>Oh, you want it, yeah</line>
+        <line>Why in the fuck these niggas</line>
+        <line>Tryin' to hold me down, oh</line>
+        <line>Oh, I want it, yeah</line>
+        <line>Whenever you need my hand</line>
+        <line>I'll hold you down, oh</line>
+        <line>Oh, you want it, yeah</line>
+        <line>Why in the fuck these niggas</line>
+        <line>Tryin' to hold me down, oh</line>
+    </chorus>
+</song>

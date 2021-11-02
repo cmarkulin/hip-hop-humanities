@@ -1,55 +1,75 @@
-[Verse 1]
-Supercomputer status, walkin' along streets
-Everyone is an addict, stumbling concrete
-What was the motivation? Constant communication
-Everybody wanna get chose like Moses
-Came out Mother Earth smelling like roses
-Summon the new edition, made it way too efficient
-Made us the guinea pig and did it with no permission
-Told it to call a friend, didn't tell it to listen
-So very scary, so binary, zero or one
-Like or dislike, coal mine canary
-I dream in color, not black and white
-You sell your daughter on that data stream
-Dopamine make it hit now
-Humans don't understand, humans gon' sell a lie
-Humans gotta survive, we know we gon' die
-Nothing can live forever, you know we gon' try
-Life, is it really worth it? The algorhythm is perfect, mmh
-
-[Chorus]
-Everybody (Everybody), move your body, now do it (Now do it)
-Here is something (Ooh), that's gonna make you move and groove
-(Please don't lose that tempo)
-Algorhythm
-(Moving how they say so)
-Algorhythm
-[Verse 2]
-Step, step, slide, slide
-Move your body from side to side
-Clap your hands, don't spite the vibe
-Keep on moving, you might survive
-Pressure is to evolve, take a bite of the apple
-We crush it into the sauce, how do we know the cost?
-How do we know the truth without feeling what could be false?
-Freedom of being wrong, freedom of being lost
-Wait a minute, wait a minute (Wait a minute, wait a minute)
-Feelin' like the devil did it (Devil did it, ooh)
-Lord willing, I'ma step to it (Step to it)
-You gon' fall behind if you can't do it (Ooh, yeah)
-Ooh, we eating good over here now (Yeah)
-Is you eating good over there now? (No)
-Human ain't the move, do I care now? (No)
-Looking for something worth it, the algorhythm is perfect, mmh
-
-[Chorus]
-Everybody (Everybody), move your body, now do it (Now do it)
-Here is something (Ooh), that's gonna make you move and groove
-(Please don't lose that tempo)
-Algorhythm
-(Moving how they say so)
-Algorhythm (Woo)
-Everybody (Everybody), move your body, now do it (Now do it)
-Here is something (Ooh), that's gonna make you move and groove
-Algorhythm (Woo)
-Algorhythm (Yeah, yeah)
+<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Childish Gambino</artist>
+        <year>2020</year>
+        <title>Algorhythm</title>
+        <album>3.15.20</album>
+    </metadata>
+    <verse vocals="Childish Gambino" mood="cynical" tone="negative">
+        <line>Supercomputer status, walkin' along streets</line>
+        <line>Everyone is an addict, stumbling concrete</line>
+        <line>What was the motivation? Constant communication</line>
+        <line>Everybody wanna get chose like Moses</line>
+        <line>Came out Mother Earth smelling like roses</line>
+        <line>Summon the new edition, made it way too efficient</line>
+        <line>Made us the guinea pig and did it with no permission</line>
+        <line>Told it to call a friend, didn't tell it to listen</line>
+        <line>So very scary, so binary, zero or one</line>
+        <line>Like or dislike, coal mine canary</line>
+        <line>I dream in color, not black and white</line>
+        <line>You sell your daughter on that data stream</line>
+        <line>Dopamine make it hit now</line>
+        <line>Humans don't understand, humans gon' sell a lie</line>
+        <line>Humans gotta survive, we know we gon' die</line>
+        <line>Nothing can live forever, you know we gon' try</line>
+        <line>Life, is it really worth it? The algorhythm is perfect, mmh</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="happy" tone="positive">
+        <line>Everybody <background>Everybody</background>, move your body, now do it
+                <background>Now do it</background></line>
+        <line>Here is something <background>Ooh</background>, that's gonna make you move and
+            groove</line>
+        <line><background>Please don't lose that tempo</background></line>
+        <line>Algorhythm</line>
+        <line><background>Moving how they say so</background></line>
+        <line>Algorhythm</line>
+    </chorus>
+    <verse vocals="Childish Gambino" mood="apathetic" tone="negative">
+        <line>Step, step, slide, slide</line>
+        <line>Move your body from side to side</line>
+        <line>Clap your hands, don't spite the vibe</line>
+        <line>Keep on moving, you might survive</line>
+        <line>Pressure is to evolve, take a bite of the apple</line>
+        <line>We crush it into the sauce, how do we know the cost?</line>
+        <line>How do we know the truth without feeling what could be false?</line>
+        <line>Freedom of being wrong, freedom of being lost</line>
+        <line>Wait a minute, wait a minute <background>Wait a minute, wait a
+            minute</background></line>
+        <line>Feelin' like the devil did it <background>Devil did it, ooh</background></line>
+        <line>Lord willing, I'ma step to it <background>Step to it</background></line>
+        <line>You gon' fall behind if you can't do it <background>Ooh, yeah</background></line>
+        <topic type="wealth">
+            <line>Ooh, we eating good over here now <background>Yeah</background></line>
+        </topic>
+        <line>Is you eating good over there now? <background>No</background></line>
+        <line>Human ain't the move, do I care now? <background>No</background></line>
+        <line>Looking for something worth it, the algorhythm is perfect, mmh</line>
+    </verse>
+    <chorus vocals="Childish Gambino" mood="happy" tone="positive">
+        <line>Everybody <background>Everybody</background>, move your body, now do it
+                <background>Now do it</background></line>
+        <line>Here is something <background>Ooh</background>, that's gonna make you move and
+            groove</line>
+        <line><background>Please don't lose that tempo</background></line>
+        <line>Algorhythm</line>
+        <line><background>Moving how they say so</background></line>
+        <line>Algorhythm <background>Woo</background></line>
+        <line>Everybody <background>Everybody</background>, move your body, now do it
+                <background>Now do it</background></line>
+        <line>Here is something <background>Ooh</background>, that's gonna make you move and
+            groove</line>
+        <line>Algorhythm <background>Woo</background></line>
+        <line>Algorhythm <background>Yeah, yeah</background></line>
+    </chorus>
+</song>
