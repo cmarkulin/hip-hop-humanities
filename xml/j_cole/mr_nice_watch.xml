@@ -1,88 +1,108 @@
-[Intro: J. Cole]
-Hey, huh, Cole World
-Yeah
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>J.Cole</artist>
+        <year>2011</year>
+        <title>Mr. Nice Watch</title>
+        <featuredArtist>Jay-Z</featuredArtist>
+        <album>Cole World: The Sideline Story</album>
+    </metadata>
+    
+<intro vocals="J_Cole" mood="ambiguous" tone="neutral">
+<line>Hey, huh, Cole World</line>
+<line>Yeah</line>
+</intro>
 
-[Verse 1: J. Cole]
-Yeah, everybody got a bad side, drop, let me see that shit
-What you say? "Cole ain't hot," what?
-Where you read that shit? You believe that shit?
-All cause some lame nigga tweet that shit?
-Have you seen my shows? Have you seen my hoes?
-If I wasn't hot, would they be so thick?
-Guess not, got the game in a headlock
-I'm blasting that, I'm laughing at you old niggas, Redd Foxx
-Don't mind me, boy, I'm red hot, aw, nigga, they not
-I'm over here, I'm over there, I'm everywhere, they not (I said)
-You'll never play me, nice try, balling in a nice spot
-No more Mr. Nice Guy, hello Mr. Nice Watch
-You don't want no problems, put yourself in a tight spot
-So, you can look, but don't touch
-I stay on my toes like the White Sox, cause
+<verse vocals="J_Cole" mood="confident" tone="positive">
+<line>Yeah, everybody got a bad side, drop, let me see that shit</line>
+<line>What you say? "Cole ain't hot," what?</line>
+<line>Where you read that shit? You believe that shit?</line>
+<line>All cause some lame nigga tweet that shit?</line>
+<line>Have you seen my shows? Have you seen my hoes?</line>
+<line>If I wasn't hot, would they be so thick?</line>
+<line>Guess not, got the game in a headlock</line>
+<line>I'm blasting that, I'm laughing at you old niggas, Redd Foxx</line>
+<line>Don't mind me, boy, I'm red hot, aw, nigga, they not</line>
+<line>I'm over here, I'm over there, I'm everywhere, they not <background>I said</background></line>
+<line>You'll never play me, nice try, balling in a nice spot</line>
+<line>No more Mr. Nice Guy, hello Mr. Nice Watch</line>
+<line>You don't want no problems, put yourself in a tight spot</line>
+<line>So, you can look, but don't touch</line>
+<line>I stay on my toes like the White Sox, cause</line>
+</verse>
 
-[Chorus: J. Cole]
-It cost me a lot, my chain and my watch
-They say time is money but really it's not
-If we ever go broke girl, then time is all we got
-And you can't make that back, no you can't make that back
-So let's ball while we here, let's ball while we here
-Like ain't no tomorrow, like ain't no next year
-Drink away all our problems, make it rain with no care
-Like I'll make that back, fuck it, I'll make that back, go
-Ugh, nice watch (turn up)
-Ugh, nice watch (I know)
-Ugh, nice watch
-No more Mr. Nice Guy
-Hello, Mr. Nice Watch
-[Verse 2: J. Cole]
-Stack on black, I ain't never been a high-roller
-Now it's racks on racks, never thought that I would ride Rover
-But I'm back on track, add to the fact that I never really drive sober
-Cole World, but I'm hot as shit, do that mean that I'm bipolar?
-Young, black and gifted, I rap like it's Christmas Eve
-Coach wouldn't let a nigga off the bench
-Now wonder why I didn't quit the team, but
-I'm cut from a different sleeve
-Cole World 'til the wrist'll freeze
-Hurry up wit' your pictures please, I gotta make history
+<chorus vocals="J_Cole" mood="determined" tone="positive">
+<topic type="money"><line>It cost me a lot, my chain and my watch</line></topic>
+<topic type="money"><line>They say time is money but really it's not</line></topic>
+<topic type="poverty"><line>If we ever go broke girl, then time is all we got</line>
+<line>And you can't make that back, no you can't make that back</line></topic>
+<line>So let's ball while we here, let's ball while we here</line>
+<line>Like ain't no tomorrow, like ain't no next year</line>
+<topic type="money"><line>Drink away all our problems, make it rain with no care</line></topic>
+<line>Like I'll make that back, fuck it, I'll make that back, go</line>
+<line>Ugh, nice watch <background>turn up</background></line>
+<line>Ugh, nice watch <background>I know</background></line>
+<line>Ugh, nice watch</line>
+<line>No more Mr. Nice Guy</line>
+<line>Hello, Mr. Nice Watch</line>
+</chorus>
 
-[Chorus: J. Cole]
-It cost me a lot, my chain and my watch
-They say time is money, but really it's not
-If we ever go broke girl, then time is all we got
-And you can't make that back, no, you can't make that back
-So let's ball while we here, let's ball while we here
-Like ain't no tomorrow, like ain't no next year
-Drink away all our problems, make it rain with no care
-Like I'll make that back, fuck it, I'll make that back, go
-Ugh, nice watch (turn up)
-Ugh, nice watch (I know)
-Ugh, nice watch
-No more Mr. Nice Guy
-Hello, Mr. Nice Watch
-[Verse 3: JAY-Z]
-Yeah, I got a Hublot, I call it Tebow
-I strap that bitch with a gator band
-Y'all niggas ball half-time, y'all niggas like the Gator band
-Y'all niggas need a time out
-Who got these niggas all wound up?
-Cocksucker, I'm 730
-Y'all know where y'all niggas gonna wind up?
-No more Mr. Nice Guy, hello Mr. Nice Watch
-Only but a matter of time 'fore I hit y'all niggas with a nice shot
-Y'all niggas better not call the law
-Get no blood on my Audemar
-Meaning y'all better not waste my time
-When y'all ready I take you all to war
-Meanwhile I'm just choppin' off doors
-Put the front on the back, 'cause I'm back and forth
-Put the front on the back of the 'Bach like a boss
-So I'm frontin' on niggas when I'm backin' off
-Uh, what up, Cole? It's your time, let's these niggas know
-Adjust your Rollie on these motherfucking hoes
-Whenever you ready, go
+<verse vocals="J_Cole" mood="confident" tone="positive">
+<line>Stack on black, I ain't never been a high-roller</line>
+<topic type="wealth"><line>Now it's racks on racks, never thought that I would ride Rover</line></topic>
+<line>But I'm back on track, add to the fact that I never really drive sober</line>
+<line>Cole World, but I'm hot as shit, do that mean that I'm bipolar?</line>
+<line>Young, black and gifted, I rap like it's Christmas Eve</line>
+<line>Coach wouldn't let a nigga off the bench</line>
+<line>Now wonder why I didn't quit the team, but</line>
+<line>I'm cut from a different sleeve</line>
+<line>Cole World 'til the wrist'll freeze</line>
+<line>Hurry up wit' your pictures please, I gotta make history</line>
+</verse>
 
-[Outro: J. Cole]
-It cost me a lot, my chain and my watch (Oh yeah, oh yeah, oh yeah)
-(Ugh, nice watch)
-If we ever go broke girl, then time is all we got (Oh yeah, oh yeah, oh yeah)
-(Ugh, nice watch)
+<chorus vocals="J_Cole" mood="determined" tone="positive">
+<topic type="money"><line>It cost me a lot, my chain and my watch</line></topic>
+<topic type="money"><line>They say time is money but really it's not</line></topic>
+<topic type="poverty"><line>If we ever go broke girl, then time is all we got</line>
+<line>And you can't make that back, no you can't make that back</line></topic>
+<line>So let's ball while we here, let's ball while we here</line>
+<line>Like ain't no tomorrow, like ain't no next year</line>
+<topic type="money"><line>Drink away all our problems, make it rain with no care</line></topic>
+<line>Like I'll make that back, fuck it, I'll make that back, go</line>
+<line>Ugh, nice watch <background>turn up</background></line>
+<line>Ugh, nice watch <background>I know</background></line>
+<line>Ugh, nice watch</line>
+<line>No more Mr. Nice Guy</line>
+<line>Hello, Mr. Nice Watch</line>
+</chorus>
+
+<verse vocals="Jay_Z" mood="energetic" tone="positive">
+<line>Yeah, I got a Hublot, I call it Tebow</line>
+<line>I strap that bitch with a gator band</line>
+<line>Y'all niggas ball half-time, y'all niggas like the Gator band</line>
+<line>Y'all niggas need a time out</line>
+<line>Who got these niggas all wound up?</line>
+<line>Cocksucker, I'm 730</line>
+<line>Y'all know where y'all niggas gonna wind up?</line>
+<line>No more Mr. Nice Guy, hello Mr. Nice Watch</line>
+<line>Only but a matter of time 'fore I hit y'all niggas with a nice shot</line>
+<line>Y'all niggas better not call the law</line>
+<topic type="violence"><line>Get no blood on my Audemar</line></topic>
+<line>Meaning y'all better not waste my time</line>
+<line>When y'all ready I take you all to war</line>
+<line>Meanwhile I'm just choppin' off doors</line>
+<line>Put the front on the back, 'cause I'm back and forth</line>
+<line>Put the front on the back of the 'Bach like a boss</line>
+<line>So I'm frontin' on niggas when I'm backin' off</line>
+<line>Uh, what up, Cole? It's your time, let's these niggas know</line>
+<line>Adjust your Rollie on these motherfucking hoes</line>
+<line>Whenever you ready, go</line>
+</verse>
+    
+<outro vocals="J_Cole" mood="determined" tone="positive">
+<topic type="money"><line>It cost me a lot, my chain and my watch <background>Oh yeah, oh yeah, oh yeah</background></line></topic>
+<line><background>Ugh, nice watch</background></line>
+<topic type="poverty"><line>If we ever go broke girl, then time is all we got <background>Oh yeah, oh yeah, oh yeah</background></line></topic>
+<line><background>Ugh, nice watch</background></line>
+</outro>
+</song>

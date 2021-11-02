@@ -1,74 +1,91 @@
-[Chorus: J. Cole]
-Soldier's song, marching on, on
-Hoping to see home
-If I die before I
-See your smile just one more time
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>J.Cole</artist>
+        <year>2021</year>
+        <title>let.go.my.hand</title>
+        <featuredArtist>Bas &amp; 6LACK</featuredArtist>
+        <album>The Off-Season</album>
+    </metadata>
 
-[Verse: J. Cole]
-Sometimes I question whether this shit matters
-Puttin' substance into something in a world so used to instant gratification
-I found this instrumental on my phone while on vacation
-Ib sent it a year ago or so
-I probably heard it before, but slept on it, you know?
-Shit don't always connect as soon as you press play
-At times you gotta step away, do some livin'
-Let time provide a new prescription, givin' truer vision
-I dibble-dabble in a few religions
-My homie constantly telling me 'bout Quran, puttin' me on
-I read a few pages and recognize the wisdom in it
-But I ain't got the discipline for stickin' with it
-Now I'm on the way to London, got a show for seven digits
-I'm wonderin' just when did I become my biggest critic?
-I wanna be my biggest fan, like how I was when didn't nobody know my jams
-Today my son said, "Dad, let go my hand"
-Reminded me one day he's gonna be his own man
-And my job is to make sure he's equipped
-I gotta make sure he not no bitch 'cause niggas bound to try him
-If I said I was the toughest growin' up, I would be lyin'
-I had a fear of gettin' punched while everybody eyein'
-Add to that a constant fear of dyin'
-By gunshot wound, the other violent type of endings
-I kept a tough demeanor on the surface but was mostly just pretendin'
-Luckily my bluff was workin' way more often than not
-But sometimes a nigga pulled my card, tryna expose me for a fraud
-And with my reputation at stake
-I was scufflin' just to save face
-Couple wins, couple losses, some broken up too quick to call it
-My last scrap was with Puff Daddy, who would've thought it?
-I bought that nigga album in seventh grade and played it so much
-You would've thought my favorite rapper was Puff
-Back then I ain't know shit, now I know too much
-Ignorance is bliss and innocence is just ignorance before it's introduced to currency and clips
-Or bad licks that have a nigga servin' three to six, shit
-[Chorus: J. Cole, Bas & 6LACK]
-Soldier's song, marching on, on
-Hoping to see home
-If I die before I
-See your smile just one more time
+<chorus vocals="J-Cole" mood="confident" tone="positive">
+<line>Soldier's song, marching on, on</line>
+<line>Hoping to see home</line>
+<topic type="death"><line>If I die before I</line></topic>
+<line>See your smile just one more time</line>
+</chorus>
 
-[Bridge: Bas]
-Soldier's song
-I could be one to lean on
-Time will right the wrongs
-Won't be long
-How can we grow any closer?
-How can we grow any closer?
-How can we grow any closer?
-How can we grow any closer?
-Something inside of me's tryna crawl up to the surface
-Something is suddenly smothering, stopping me
-Stubbornly getting its way (Way), way (Way)
-Drowning out the wave (Drowning out)
-I've got a reason to believe that I'll turn out just fine
-Soldier's song
+<verse vocals="J_Cole" mood="anxious" tone="negative">
+<line>Sometimes I question whether this shit matters</line>
+<line>Puttin' substance into something in a world so used to instant gratification</line>
+<line>I found this instrumental on my phone while on vacation</line>
+<line>Ib sent it a year ago or so</line>
+<line>I probably heard it before, but slept on it, you know?</line>
+<line>Shit don't always connect as soon as you press play</line>
+<line>At times you gotta step away, do some livin'</line>
+<line>Let time provide a new prescription, givin' truer vision</line>
+<topic type="religion"><line>I dibble-dabble in a few religions</line></topic>
+<topic type="religion"><line>My homie constantly telling me 'bout Quran, puttin' me on</line></topic>
+<line>I read a few pages and recognize the wisdom in it</line>
+<line>But I ain't got the discipline for stickin' with it</line>
+<line>Now I'm on the way to London, got a show for seven digits</line>
+<line>I'm wonderin' just when did I become my biggest critic?</line>
+<line>I wanna be my biggest fan, like how I was when didn't nobody know my jams</line>
+<topic type="family"><line>Today my son said, "Dad, let go my hand"</line></topic>
+<line>Reminded me one day he's gonna be his own man</line>
+<line>And my job is to make sure he's equipped</line>
+<line>I gotta make sure he not no bitch 'cause niggas bound to try him</line>
+<line>If I said I was the toughest growin' up, I would be lyin'</line>
+<line>I had a fear of gettin' punched while everybody eyein'</line>
+<line>Add to that a constant fear of dyin'</line>
+<topic type="violence"><line>By gunshot wound, the other violent type of endings</line></topic>
+<line>I kept a tough demeanor on the surface but was mostly just pretendin'</line>
+<line>Luckily my bluff was workin' way more often than not</line>
+<line>But sometimes a nigga pulled my card, tryna expose me for a fraud</line>
+<line>And with my reputation at stake</line>
+<line>I was scufflin' just to save face</line>
+<line>Couple wins, couple losses, some broken up too quick to call it</line>
+<line>My last scrap was with Puff Daddy, who would've thought it?</line>
+<line>I bought that nigga album in seventh grade and played it so much</line>
+<line>You would've thought my favorite rapper was Puff</line>
+<line>Back then I ain't know shit, now I know too much</line>
+<line>Ignorance is bliss and innocence is just ignorance before it's introduced to currency and clips</line>
+<line>Or bad licks that have a nigga servin' three to six, shit</line>
+</verse>
 
-[Outro: Diddy]
-Lord, please guide our steps
-Watch us, cover us
-So that every move we make is in alignment with Your will
-Your purpose
-Please fill us with Your spirit
-Keep us forever in the present
-For presence makes the strongest fathers
-Teach us how to lead
-Show us how to love
+<chorus vocals="J_Cole Bas 6LACK" mood="confident" tone="positive">
+<line>Soldier's song, marching on, on</line>
+<line>Hoping to see home</line>
+<topic type="death"><line>If I die before I</line></topic>
+<line>See your smile just one more time</line>
+</chorus>
+
+<bridge vocals="Bas" mood="sad" tone="negative">
+<line>Soldier's song</line>
+<line>I could be one to lean on</line>
+<line>Time will right the wrongs</line>
+<line>Won't be long</line>
+<line>How can we grow any closer?</line>
+<line>How can we grow any closer?</line>
+<line>How can we grow any closer?</line>
+<line>How can we grow any closer?</line>
+<line>Something inside of me's tryna crawl up to the surface</line>
+<line>Something is suddenly smothering, stopping me</line>
+<line>Stubbornly getting its way <background>Way</background>, way <background>Way</background></line>
+<line>Drowning out the wave <background>Drowning out</background></line>
+<line>I've got a reason to believe that I'll turn out just fine</line>
+<line>Soldier's song</line>
+</bridge>
+
+<outro vocals="Diddy" mood="hopeful" tone="positive">
+<topic type="religion"><line>Lord, please guide our steps</line></topic>
+<line>Watch us, cover us</line>
+<line>So that every move we make is in alignment with Your will</line>
+<line>Your purpose</line>
+<line>Please fill us with Your spirit</line>
+<line>Keep us forever in the present</line>
+<line>For presence makes the strongest fathers</line>
+<line>Teach us how to lead</line>
+<line>Show us how to love</line>
+</outro>
+</song>

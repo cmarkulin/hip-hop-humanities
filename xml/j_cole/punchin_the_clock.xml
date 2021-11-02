@@ -1,47 +1,62 @@
-[Intro: J. Cole & Damian Lillard]
-It ain't nothing I want more
-Ain't nothing I want more
-I ain't c–
-I told you, when I first came here, I said, "I ain't come here to waste my time"
-I came here
-They gave us a chance to get in, like we asked for
-And that's, that's what we here to do
-Yeah, nigga, 26
-The job still ain't done
-Straight up
-But I, I said, "You, you know what I'm here for"
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>J.Cole</artist>
+        <year>2021</year>
+        <title>Punchin the Clock</title>
+        <featuredArtist>Damian Lillard</featuredArtist>
+        <album>The Off-Season</album>
+    </metadata>
+    
+<intro vocals="J_Cole Damian_Lillard" mood="determined" tone="negative">
+<line>It ain't nothing I want more</line>
+<line>Ain't nothing I want more</line>
+<line>I ain't c–</line>
+<line>I told you, when I first came here, I said, "I ain't come here to waste my time"</line>
+<line>I came here</line>
+<line>They gave us a chance to get in, like we asked for</line>
+<line>And that's, that's what we here to do</line>
+<line>Yeah, nigga, 26</line>
+<line>The job still ain't done</line>
+<line>Straight up</line>
+<line>But I, I said, "You, you know what I'm here for"</line>
+</intro>
 
-[Verse: J. Cole]
-Back on top, punchin' the clock, clutchin' sanity
-I got more cribs than Habitat for Humanity
-Shit profound, we propagating more profanity
-Paid off collections from recollections of calamity (Oh shit, look, that nigga gonna shoot)
-The shit pop off, I learned to duck under the canopy (Oh shit, run, nigga, run)
-'Til it cool off, they murked a nigga right in front of me
-Told him to come off his chain for tryna floss
-Died over a cross just like the start of Christianity
-When I was a boy, the teacher often reprimanded me (Jermaine)
-Thought it was toys, it was a Glock this nigga handed me
-I busted the trees, was barely strong enough to squeeze
-Bullets traveled through leaves, it probably killed somebody randomly
-Ran in the crib and played it off amongst the family
-Nightmare scenes, the police finally apprehended me
-Woke up screamin', seen a demon had his hand on me
-Still sport the scar on my arm from where he branded me
-Like a Que Dog, my niggas burnin' with the mute off
-Loud pack smoke through the cracks, I catch a contact
-Triggerin' a paranoid mindset, now I'm back
-Teeterin' between enlightened and insanity
-Now that I'm rich, I feel nobody understandin' me
-All I can do is cut the mic on, holler at you
-Can't let the fame scare me off from speaking candidly
-All them niggas is so Kane, they started singin' like Danity
-Now I'm left here, paid like I planned to be, damn
-[Outro: Damian Lillard]
-A lot of times, those situations are, um, are handled way before the time comes
-In the summer, I think when you truly prepare yourself, and
-With training and conditioning, and things like that
-When you cheat yourself, you fail in those moments
-You know, you crash, and when you really put the time in and
-Whether people see it, or whether people know it or not
-You know, it always come to light
+<verse vocals="J_Cole" mood="cynical" tone="negative">
+<line>Back on top, punchin' the clock, clutchin' sanity</line>
+<line>I got more cribs than Habitat for Humanity</line>
+<line>Shit profound, we propagating more profanity</line>
+<line>Paid off collections from recollections of calamity <background>Oh shit, look, that nigga gonna shoot</background></line>
+<line>The shit pop off, I learned to duck under the canopy <background>Oh shit, run, nigga, run</background></line>
+<topic type="violence"><line>'Til it cool off, they murked a nigga right in front of me</line></topic>
+<line>Told him to come off his chain for tryna floss</line>
+<topic type="religion"><line>Died over a cross just like the start of Christianity</line></topic>
+<line>When I was a boy, the teacher often reprimanded me <background>Jermaine</background></line>
+<line>Thought it was toys, it was a Glock this nigga handed me</line>
+<line>I busted the trees, was barely strong enough to squeeze</line>
+<topic type="violence"><line>Bullets traveled through leaves, it probably killed somebody randomly</line></topic>
+<line>Ran in the crib and played it off amongst the family</line>
+<line>Nightmare scenes, the police finally apprehended me</line>
+<line>Woke up screamin', seen a demon had his hand on me</line>
+<line>Still sport the scar on my arm from where he branded me</line>
+<line>Like a Que Dog, my niggas burnin' with the mute off</line>
+<line>Loud pack smoke through the cracks, I catch a contact</line>
+<line>Triggerin' a paranoid mindset, now I'm back</line>
+<line>Teeterin' between enlightened and insanity</line>
+<line>Now that I'm rich, I feel nobody understandin' me</line>
+<line>All I can do is cut the mic on, holler at you</line>
+<line>Can't let the fame scare me off from speaking candidly</line>
+<line>All them niggas is so Kane, they started singin' like Danity</line>
+<line>Now I'm left here, paid like I planned to be, damn</line>
+</verse>
+    
+<outro vocals="Damian_Lillard" mood="ambiguous" tone="neutral">
+<line>A lot of times, those situations are, um, are handled way before the time comes</line>
+<line>In the summer, I think when you truly prepare yourself, and</line>
+<line>With training and conditioning, and things like that</line>
+<line>When you cheat yourself, you fail in those moments</line>
+<line>You know, you crash, and when you really put the time in and</line>
+<line>Whether people see it, or whether people know it or not</line>
+<line>You know, it always come to light</line>
+</outro>
+</song>
