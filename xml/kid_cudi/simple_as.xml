@@ -1,61 +1,76 @@
-[Intro]
-A-B-C, A-B-C, A-B-C, A-B-C
-1-2-3, A-B-C, A-B-C, 1-2-3, A-B-C, A-B-C
-1-2-3, A-B-C (Robotics tried in some)
-Yeah, yeah
-Yeah, yeah
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2009</year>
+        <title>Simple As</title>
+        <featuredArtist></featuredArtist>
+        <album>Man on the Moon III: The End of Day</album>
+    </metadata>
+    <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>A-B-C, A-B-C, A-B-C, A-B-C</line>
+        <line>1-2-3, A-B-C, A-B-C, 1-2-3, A-B-C, A-B-C</line>
+        <line>1-2-3, A-B-C (Robotics tried in some)</line>
+        <line>Yeah, yeah</line>
+        <line>Yeah, yeah</line>
+    </intro>
 
-[Verse 1]
-Simple as that for your simple ass
-Ask about that, pretty simple man
-I'm dreaming on good for a sicker plan
-Sicker than any other nigga could be thinking, and
-I can't be a loser, could've figured that
-I can't be a lame, I'm cooler than that
-I feel I love the fame, then I hate it back, hmm
-Thinking now what I should be twitterin' (1-2-3)
-Why'd big bro take all the hot bitches?
-Dear God, me too, I like the hot bitches
-I'll be the underdog, all along, 'til I'm gone
-I will live through a song, I'll be strong through the haters
+    <verse vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Simple as that for your simple ass</line>
+        <line>Ask about that, pretty simple man</line>
+        <line>I'm dreaming on good for a sicker plan</line>
+        <line>Sicker than any other nigga could be thinking, and</line>
+        <line>I can't be a loser, could've figured that</line>
+        <line>I can't be a lame, I'm cooler than that</line>
+        <line>I feel I love the fame, then I hate it back, hmm</line>
+        <line>Thinking now what I should be twitterin' (1-2-3)</line>
+        <line>Why'd big bro take all the hot bitches?</line>
+        <line>Dear God, me too, I like the hot bitches</line>
+        <line>I'll be the underdog, all along, 'til I'm gone</line>
+        <line>I will live through a song, I'll be strong through the haters</line>
+    </verse>
 
-[Chorus]
-As simple as that, as simple as that
-As simple as that for your simple ass
-As simple as that, as simple as that (Robotic)
-As simple as that for your simple ass (Tried in some)
-As simple as that, as simple as that (Robotic)
-As simple as that for your simple ass (Tried in some)
-As simple as that (Robotic)
-As simple as (1-2-3)
-[Verse 2]
-Uh, simple as that for your simple ass
-Simple way I wish you would've called it how it should've been
-They try to tell me they don't get it, they don't underdig
-Now I'll be damned I came this far to let a fool live
-I gotta terminate the hate, spread the positive
-Without it being wack and cheesy to the little kids
-So I curse like a sailor and I smoke weed
-I am exactly who an older rapper's kids be
-And who they love, hands to the universe
-Probably think they drug addicts if they spit a Cudi verse
-Mad lil' mama switch to Converse without a purse
-Long as the booty lookin' juicy and he stylin' on 'em
+    <chorus vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>As simple as that, as simple as that</line>
+        <line>As simple as that for your simple ass</line>
+        <line>As simple as that, as simple as that (Robotic)</line>
+        <line>As simple as that for your simple ass (Tried in some)</line>
+        <line>As simple as that, as simple as that (Robotic)</line>
+        <line>As simple as that for your simple ass (Tried in some)</line>
+        <line>As simple as that (Robotic)</line>
+        <line>As simple as (1-2-3)</line>
+    </chorus>
+    <verse vocals="kid_cudi" mood="determined" tone="positive">
+        <line>Uh, simple as that for your simple ass</line>
+        <line>Simple way I wish you would've called it how it should've been</line>
+        <line>They try to tell me they don't get it, they don't underdig</line>
+        <line>Now I'll be damned I came this far to let a fool live</line>
+        <line>I gotta terminate the hate, spread the positive</line>
+        <line>Without it being wack and cheesy to the little kids</line>
+        <topic type="drugs"><line>So I curse like a sailor and I smoke weed</line></topic>
+        <line>I am exactly who an older rapper's kids be</line>
+        <line>And who they love, hands to the universe</line>
+        <topic type="drugs"><line>Probably think they drug addicts if they spit a Cudi verse</line></topic>
+        <line>Mad lil' mama switch to Converse without a purse</line>
+        <line>Long as the booty lookin' juicy and he stylin' on 'em</line>
+    </verse>
+    <chorus vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>As simple as that, as simple as that</line>
+        <line>As simple as that for your simple ass</line>
+        <line>As simple as that, as simple as that (Robotic) (1-2-3)</line>
+        <line>As simple as that for your simple ass</line>
+        <line>As simple as that, as simple as that</line>
+        <line>As simple as that for your simple ass (Tried in some) (1-2-3)</line>
+        <line>As simple as that (Robotic)</line>
+        <line>As simple as (1-2-3)</line>
+    </chorus>
 
-[Chorus]
-As simple as that, as simple as that
-As simple as that for your simple ass
-As simple as that, as simple as that (Robotic) (1-2-3)
-As simple as that for your simple ass
-As simple as that, as simple as that
-As simple as that for your simple ass (Tried in some) (1-2-3)
-As simple as that (Robotic)
-As simple as (1-2-3)
-
-[Narration: Common]
-As our hero seems to be dreaming in peace
-A dark chapter unfolds
-Throwing Scott into the most eerie
-And unstable part of his imagination
-So intense he cannot tell his dreams from reality
-This is the Rise of the Night Terrors
+    <outro vocals="common" mood="ambiguous" tone="neutral">
+        <line>As our hero seems to be dreaming in peace</line>
+        <line>A dark chapter unfolds</line>
+        <line>Throwing Scott into the most eerie</line>
+        <line>And unstable part of his imagination</line>
+        <line>So intense he cannot tell his dreams from reality</line>
+        <line>This is the Rise of the Night Terrors</line>
+    </outro>
+</song>

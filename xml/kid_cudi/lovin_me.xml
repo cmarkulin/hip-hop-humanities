@@ -1,46 +1,62 @@
-[Intro: Kid Cudi]
-Yo
-Yo
-Mmm
-Ooh
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2020</year>
+        <title>Lovin Me</title>
+        <featuredArtist>Phoebe Bridgers</featuredArtist>
+        <album>Man on the Moon III: The Chosen</album>
+    </metadata>
+    <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>Yo</line>
+        <line>Yo</line>
+        <line>Mmm</line>
+        <line>Ooh</line>
+    </intro>
 
-[Verse 1: Kid Cudi]
-Please, Lord, hear me now, hope you're listening
-It's been centuries, least what it seems to me
-I've been on this road, my eyes glistenin'
-As I stare at Scott, I know he's all I got
-Our pasts don't matter, babe, I'm much stronger
-And fly much farther, soar overseas
-Finally see, I'll keep on climbing
-Ridin' the lightning and I am sure
+    <verse vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Please, Lord, hear me now, hope you're listening</line>
+        <line>It's been centuries, least what it seems to me</line>
+        <line>I've been on this road, my eyes glistenin'</line>
+        <line>As I stare at Scott, I know he's all I got</line>
+        <line>Our pasts don't matter, babe, I'm much stronger</line>
+        <line>And fly much farther, soar overseas</line>
+        <line>Finally see, I'll keep on climbing</line>
+        <line>Ridin' the lightning and I am sure</line>
+    </verse>
 
-[Chorus: Kid Cudi]
-At times I really didn't show
-What was wrong with me, wrong with me
-I told myself I cannot grow
-Without lovin' me, lovin' me
-But this is just the hell that lives inside, hmm
-Tell me now, where to? Please be my guide
+    <chorus vocals="kid_cudi phoebe_bridgers" mood="hopeful" tone="neutral">
+        <line>At times I really didn't show</line>
+        <line>What was wrong with me, wrong with me</line>
+        <line>I told myself I cannot grow</line>
+        <line>Without lovin' me, lovin' me</line>
+        <line>But this is just the hell that lives inside, hmm</line>
+        <line>Tell me now, where to? Please be my guide</line>
+    </chorus>
 
-[Verse 2: Phoebe Bridgers]
-I've been goin', goin' in circles
-Reoccurring dreams, talkin' in my sleep
-Then I'm floatin' up to the surface
-I can finally breathe, I could do anything
-And I don't know why it's alright
-And it's not at the same time
-Then I look up at a blue sky
-And I know
-[Chorus: Kid Cudi & Phoebe Bridgers]
-At times I really didn't show
-What was wrong with me, wrong with me
-I told myself I cannot grow
-Without lovin' me, lovin' me
-This is just the hell that lives inside, hmm
-Tell me now, where to? Please be my guide
+    <verse vocals="phoebe_bridgers" mood="ambiguous" tone="neutral">
+        <line>I've been goin', goin' in circles</line>
+        <line>Reoccurring dreams, talkin' in my sleep</line>
+        <line>Then I'm floatin' up to the surface</line>
+        <line>I can finally breathe, I could do anything</line>
+        <line>And I don't know why it's alright</line>
+        <line>And it's not at the same time</line>
+        <line>Then I look up at a blue sky</line>
+        <line>And I know</line>
+    </verse>
+    <chorus vocals="kid_cudi phoebe_bridgers" mood="hopeful" tone="neutral">
+        <line>At times I really didn't show</line>
+        <line>What was wrong with me, wrong with me</line>
+        <line>I told myself I cannot grow</line>
+        <line>Without lovin' me, lovin' me</line>
+        <line>This is just the hell that lives inside, hmm</line>
+        <line>Tell me now, where to? Please be my guide</line>
+    </chorus>
 
-[Outro: Kid Cudi & Phoebe Bridgers]
-Yo (Ah)
-Yo (La-la-la, la-la-la, la-la-la, hmm)
-Yo (Ah, ah, ah-ah)
-Mmm (Mmm)
+    <outro vocals="kid_cudi phoebe_bridgers" mood="ambiguous" tone="neutral">
+        <line>Yo (Ah)</line>
+        <line>Yo (La-la-la, la-la-la, la-la-la, hmm)</line>
+        <line>Yo (Ah, ah, ah-ah)</line>
+        <line>Mmm (Mmm)</line>
+    </outro>
+</song>

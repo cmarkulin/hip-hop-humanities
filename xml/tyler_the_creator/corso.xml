@@ -1,73 +1,85 @@
-[Intro: DJ Drama & Tyler, The Creator]
-You see (Uh)
-On this here stage tonight is something legendary (Yo)
-He goes by the name of The Creator (Crazy, ayo)
-But you, you call him Tyler Baudelaire (Look)
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2021</year>
+        <title>Corso</title>
+        <featuredArtist>DJ Drama</featuredArtist>
+        <album>Call Me If You Get Lost</album>
+    </metadata>
+    <intro vocals="Tyler_the_Creator DJ_Drama" mood="confident" tone="positive">
+<line>You see (Uh)</line>
+<line>On this here stage tonight is something legendary (Yo)</line>
+<line>He goes by the name of The Creator (Crazy, ayo)</line>
+<line>But you, you call him Tyler Baudelaire (Look)</line>
+    </intro>
 
-[Verse 1: Tyler, The Creator & DJ Drama]
-I be talkin' that fresh shit, I don't need gum (Nah)
-Cookie crumbs in the Rolls, never no weed crumbs (No)
-He ain't talk to his bitch in three days
-It ain't gotta be this way, I'm down for the threesome (Woo)
-I might buy a boat (Nigga, yeah)
-Depends if Capri got space, don't really need one
-I can go in the wintertime, baby, I bleed sun
-Find another nigga like me 'cause I ain't seen one (Tell 'em, no)
-Pull up in that, uh, whatchamacallit? (Nyoom)
-Played a couple demos at Madison Square Garden
-And tell them motherfuckers at Sony I'm not callin'
-I'm plottin' on a billi', chilly in my garden, yuh
+    <verse vocals="Tyler_the_Creator DJ_Drama" mood="confident" tone="positive">
+<line>I be talkin' that fresh shit, I don't need gum (Nah)</line>
+        <topic type="wealth"><line>Cookie crumbs in the Rolls, never no weed crumbs (No)</line></topic>
+<line>He ain't talk to his bitch in three days</line>
+<line>It ain't gotta be this way, I'm down for the threesome (Woo)</line>
+        <topic type="wealth"><line>I might buy a boat (Nigga, yeah)</line></topic>
+<line>Depends if Capri got space, don't really need one</line>
+<line>I can go in the wintertime, baby, I bleed sun</line>
+<line>Find another nigga like me 'cause I ain't seen one (Tell 'em, no)</line>
+<line>Pull up in that, uh, whatchamacallit? (Nyoom)</line>
+<line>Played a couple demos at Madison Square Garden</line>
+<line>And tell them motherfuckers at Sony I'm not callin'</line>
+        <topic type="wealth"><line>I'm plottin' on a billi', chilly in my garden, yuh</line></topic>
+    </verse>
 
-[Break: DJ Drama]
-Alright
-I admit it
-We just been playin' with you niggas, man
-T, I think you need to load that second clip
-[Verse 2: Tyler, The Creator & DJ Drama]
-B-Hop, uh, French Waltz, uh
-She say she like the Royce and I'm like "Which one?"
-I got two, hun, look (Let's go)
-Catch me in my other-other-other-other crib, that's my AKA
-Hurricane-proof all the views, shit like "A Bay Bay" (Damn)
-The fuzzy hat, ascot, passport got tattoos
-Slim nigga, big dick, with a fuckin' gap tooth
-The way he beam (Bunny)
-Call me Mr. Always On Some Shit You Never Seen (Hop)
-In that mansion, livin' single, bitch, I'm Maxine
-"Niggas of your standard shouldn't talk"
-Give a fuck about your thoughts, call me if you get lost, bitch
+    <verse vocals="Tyler_the_Creator DJ_Drama" mood="confident" tone="positive">
+<line>Alright</line>
+<line>I admit it</line>
+<line>We just been playin' with you niggas, man</line>
+<line>T, I think you need to load that second clip</line>
+<line>B-Hop, uh, French Waltz, uh</line>
+        <topic type="wealth"><line>She say she like the Royce and I'm like "Which one?"</line>
+<line>I got two, hun, look (Let's go)</line></topic>
+<line>Catch me in my other-other-other-other crib, that's my AKA</line>
+<line>Hurricane-proof all the views, shit like "A Bay Bay" (Damn)</line>
+<line>The fuzzy hat, ascot, passport got tattoos</line>
+<line>Slim nigga, big dick, with a fuckin' gap tooth</line>
+<line>The way he beam (Bunny)</line>
+<line>Call me Mr. Always On Some Shit You Never Seen (Hop)</line>
+        <topic type="wealth"><line>In that mansion, livin' single, bitch, I'm Maxine</line></topic>
+<line>"Niggas of your standard shouldn't talk"</line>
+<line>Give a fuck about your thoughts, call me if you get lost, bitch</line>
+    </verse>
 
-[Break: DJ Drama]
-Okay, now you understand what we came here to do, right?
-Oh yeah, me, I go by the name of DJ Drama
-And on my side, that's Tyler Baudelaire
-AKA Bunnyhop
-AKA The Creator
-Call me if you get lost, suckers (Hahaha)
-We didn't come to play wit' you niggas
+    <verse vocals="Tyler_the_Creator DJ_Drama" mood="sad" tone="negative">
+<line>Okay, now you understand what we came here to do, right?</line>
+<line>Oh yeah, me, I go by the name of DJ Drama</line>
+<line>And on my side, that's Tyler Baudelaire</line>
+<line>AKA Bunnyhop</line>
+<line>AKA The Creator</line>
+<line>Call me if you get lost, suckers (Hahaha)</line>
+<line>We didn't come to play wit' you niggas</line>
 
-[Verse 3: Tyler, The Creator & DJ Drama]
-Look, tried to take somebody bitch 'cause I'm a bad person
-I don't regret shit because that **** worth it
-In the end, she picked him, I hope when they fuckin'
-She still thinkin' of me 'cause I'm that perfect
-I'ma get that deep text when this verse surface
-Better send it to my ego 'cause that shit hurtin'
-Hope y'all shit workin' (True story), I'm a psycho, huh?
-Don't give a fuck, you left my heart twerkin'
-Movin', losin', grip on my doings (Yeah)
-Eyes is cryin' on the jet cruisin' (Phew-phew-phew)
-'Bout to spend millions just to fill voids up
-Drama, I need you (Yessir), can you turn the noise up?
-Can you turn the noise up? Can you turn the noise up? (Go, go, go, go)
-Turn the fuckin' noise up, ah, nigga, my heart broken
-Remembered I was rich, so I bought me some new emotions
-And a new boat 'cause I'd rather cry in the ocean
-It's T, baby, uh
-[Outro: Tyler, The Creator & DJ Drama]
-Hahahaha, I tried to tell y'all
-I don't even like using the word "bitch"
-It just sounded cool
-
+<line>Look, tried to take somebody bitch 'cause I'm a bad person</line>
+<line>I don't regret shit because that **** worth it</line>
+<line>In the end, she picked him, I hope when they fuckin'</line>
+<line>She still thinkin' of me 'cause I'm that perfect</line>
+<line>I'ma get that deep text when this verse surface</line>
+<line>Better send it to my ego 'cause that shit hurtin'</line>
+<line>Hope y'all shit workin' (True story), I'm a psycho, huh?</line>
+<line>Don't give a fuck, you left my heart twerkin'</line>
+<line>Movin', losin', grip on my doings (Yeah)</line>
+        <topic type="wealth"><line>Eyes is cryin' on the jet cruisin' (Phew-phew-phew)</line></topic>
+        <topic type="wealth"><line>'Bout to spend millions just to fill voids up</line></topic>
+<line>Drama, I need you (Yessir), can you turn the noise up?</line>
+<line>Can you turn the noise up? Can you turn the noise up? (Go, go, go, go)</line>
+<line>Turn the fuckin' noise up, ah, nigga, my heart broken</line>
+        <topic type="wealth"><line>Remembered I was rich, so I bought me some new emotions</line>
+<line>And a new boat 'cause I'd rather cry in the ocean</line></topic>
+<line>It's T, baby, uh</line>
+    </verse>
+    <outro vocals="Tyler_the_Creator DJ_Drama" mood="ambiguous" tone="neutral">
+<line>Hahahaha, I tried to tell y'all</line>
+<line>I don't even like using the word "bitch"</line>
+<line>It just sounded cool</line>
+    </outro>
+</song>
 
 

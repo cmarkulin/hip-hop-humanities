@@ -1,88 +1,105 @@
-[Intro: Kid Cudi & Trippie Redd]
-I've been tellin' these niggas
-Yeah, haha
-Yee
-Rock star life, dim the lights, baby, I don't wanna do this (Rock star life)
-I'm all alone, fuck a song, I ain't worried 'bout nobody, I'm ruthless, yeah
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2020</year>
+        <title>Rockstar Knights</title>
+        <featuredArtist>Trippie Redd</featuredArtist>
+        <album>Man on the Moon III: The Chosen</album>
+    </metadata>
+    <intro vocals="kid_cudi trippie_redd" mood="confident" tone="neutral">
+        <line>I've been tellin' these niggas</line>
+        <line>Yeah, haha</line>
+        <line>Yee</line>
+        <line>Rock star life, dim the lights, baby, I don't wanna do this (Rock star life)</line>
+        <line>I'm all alone, fuck a song, I ain't worried 'bout nobody, I'm ruthless, yeah</line>
+    </intro>
 
-[Verse 1: Trippie Redd]
-'Til the end, in the end, I'ma be who I am
-I ain't worried 'bout shit, goddamn
-Built a whole empire in the city of the damned
-I'm in a Bentley, seat reclined and they gon' see who I am
-Seashore with a bad bitch, pretty feet in sand
-Might eat her in the Aventador, The Silence of the Lambs
-I remember payin' twenty for a damn gram
-Now I can't leave the plug without a pound in my hand
-Boy, we know you not a thug, without a doubt in my head
-It be niggas that you love that'll run their mouth to the feds
-Bro and them was trippin', they different off of the meds
-From the trenches, catch you slippin', lil' nigga, poppin' your head
+    <verse vocals="trippie_redd" mood="ambiguous" tone="neutral">
+        <line>'Til the end, in the end, I'ma be who I am</line>
+        <line>I ain't worried 'bout shit, goddamn</line>
+        <line>Built a whole empire in the city of the damned</line>
+        <line>I'm in a Bentley, seat reclined and they gon' see who I am</line>
+        <line>Seashore with a bad bitch, pretty feet in sand</line>
+        <line>Might eat her in the Aventador, The Silence of the Lambs</line>
+        <line>I remember payin' twenty for a damn gram</line>
+        <line>Now I can't leave the plug without a pound in my hand</line>
+        <line>Boy, we know you not a thug, without a doubt in my head</line>
+        <line>It be niggas that you love that'll run their mouth to the feds</line>
+        <line>Bro and them was trippin', they different off of the meds</line>
+        <line>From the trenches, catch you slippin', lil' nigga, poppin' your head</line>
+    </verse>
 
-[Chorus: Trippie Redd]
-This is my life, so I gotta think ahead
-Rock star life, thinkin' back, I could be dead
-Demon in the night, baby, I'll be in your head
-You'll be thinking 'bout me while you're layin' in your bed
-This is my life, so I gotta think ahead
-Rock star life, thinkin' back, I could be dead
-Demon in the night, baby, I'll be in your head
-You'll be thinking 'bout me while you're layin' in your bed
-[Verse 2: Kid Cudi]
-Two warriors, some soldiers (Uh-huh)
-Trippie alley-oop, pull up, landed in the coupe (Oh yeah)
-Niggas know the truth, far as you? Can't call it (Yeah)
-Got a bunch of niggas say you fake, maskin' and ballin'
-Realest motherfuckas, never cared about you suckas
-Wish you'd get the bigger picture, legends out here never frontin', can't for'—
-Can't forget me, baby, never
-She say I'm too damn clever, how I handle, none better (None better)
-The sheets gon' get wetter, coolin' out, a jet setter
-Fuck the clout, see what I'm 'bout, all the real shit out my mouth
-Can't have that fake shit around my area, none of that
-Someone get these niggas, tell 'em it's over, I told ya
-Life is 'bout survival, and no, see, you cannot fold, bruh
-See, I don't really care, Backwood in the air
-Catch me, baby, technicolor hair, how you do that there?
-While these lames like to stop and stare, it's easy, man, I swear (Gone)
+    <chorus vocals="trippie_redd" mood="ambiguous" tone="neutral">
+        <line>This is my life, so I gotta think ahead</line>
+        <line>Rock star life, thinkin' back, I could be dead</line>
+        <line>Demon in the night, baby, I'll be in your head</line>
+        <line>You'll be thinking 'bout me while you're layin' in your bed</line>
+        <line>This is my life, so I gotta think ahead</line>
+        <line>Rock star life, thinkin' back, I could be dead</line>
+        <line>Demon in the night, baby, I'll be in your head</line>
+        <line>You'll be thinking 'bout me while you're layin' in your bed</line>
+    </chorus>
+    <verse vocals="kid_cudi" mood="confident" tone="neutral">
+        <line>Two warriors, some soldiers (Uh-huh)</line>
+        <line>Trippie alley-oop, pull up, landed in the coupe (Oh yeah)</line>
+        <line>Niggas know the truth, far as you? Can't call it (Yeah)</line>
+        <line>Got a bunch of niggas say you fake, maskin' and ballin'</line>
+        <line>Realest motherfuckas, never cared about you suckas</line>
+        <line>Wish you'd get the bigger picture, legends out here never frontin', can't for'—</line>
+        <line>Can't forget me, baby, never</line>
+        <line>She say I'm too damn clever, how I handle, none better (None better)</line>
+        <line>The sheets gon' get wetter, coolin' out, a jet setter</line>
+        <line>Fuck the clout, see what I'm 'bout, all the real shit out my mouth</line>
+        <line>Can't have that fake shit around my area, none of that</line>
+        <line>Someone get these niggas, tell 'em it's over, I told ya</line>
+        <line>Life is 'bout survival, and no, see, you cannot fold, bruh</line>
+        <topic type="drugs"><line>See, I don't really care, Backwood in the air</line></topic>
+        <line>Catch me, baby, technicolor hair, how you do that there?</line>
+        <line>While these lames like to stop and stare, it's easy, man, I swear (Gone)</line>
+    </verse>
 
-[Chorus: Trippie Redd]
-This is my life, so I gotta think ahead
-Rock star life, thinkin' back, I could be dead
-Demon in the night, baby, I'll be in your head
-You'll be thinking 'bout me while you're layin' in your bed
-This is my life, so I gotta think ahead
-Rock star life, thinkin' back, I could be dead
-Demon in the night, baby, I'll be in your head
-You'll be thinking 'bout me while you're layin' in your bed
-[Bridge: Kid Cudi]
-Yeah
-Ooh-ooh
-Ooh-ooh
-Yeah
+    <chorus vocals="trippe_redd" mood="ambiguous" tone="neutral">
+        <line>This is my life, so I gotta think ahead</line>
+        <line>Rock star life, thinkin' back, I could be dead</line>
+        <line>Demon in the night, baby, I'll be in your head</line>
+        <line>You'll be thinking 'bout me while you're layin' in your bed</line>
+        <line>This is my life, so I gotta think ahead</line>
+        <line>Rock star life, thinkin' back, I could be dead</line>
+        <line>Demon in the night, baby, I'll be in your head</line>
+        <line>You'll be thinking 'bout me while you're layin' in your bed</line>
 
-[Verse 3: Kid Cudi]
-Handle in the whippa, hyper overdrive (Uh-huh)
-Hands are out the roof, try and touch the sky (Woah)
-And I'm yellin', "Do it," doin' how you like now
-Say I'm cute and you ain't tellin' lies, nah
-Tell 'em this the sequel to (Yeah)
-All them days that I was faded, figured I was through
-Hmm, seem the days ain't the same now
-Hmm, catch a nigga dippin', baby, on a flight
-Say he runnin', flippin' millions, servin' feelings
-Watchin' for these fuckers, never see me slackin', slippin' (Yeah)
-I'm on a trip, it's never endin' more than I realize (Yeah)
-I cannot trip kissin' your lips, kissin' between your thighs
-Ooh, run it back, I'm needin' all your energy (Damn)
-It's the life, you see, it's really got a hold of me
-Burn this smoke while I'm thinking, "Man, will I survive?"
-Just a nigga livin' in hell, my mama know I tried
+        <line>Yeah</line>
+        <line>Ooh-ooh</line>
+        <line>Ooh-ooh</line>
+        <line>Yeah</line>
+    </chorus>
 
-[Outro: Kid Cudi & Trippie Redd]
-But we free, the lonely, lonely (Yeah, oh)
-As we watch the sunset
-My mind is meltin' (Oh)
-A thousand blunts, can't OD, ooh, but I'm hoping
-This my paradise, I fly (Oh)
-Hmm-hmm, hmm-hmm
+    <verse vocals="kid_cudi" mood="confident" tone="positive">
+        <line>Handle in the whippa, hyper overdrive (Uh-huh)</line>
+        <line>Hands are out the roof, try and touch the sky (Woah)</line>
+        <line>And I'm yellin', "Do it," doin' how you like now</line>
+        <line>Say I'm cute and you ain't tellin' lies, nah</line>
+        <line>Tell 'em this the sequel to (Yeah)</line>
+        <line>All them days that I was faded, figured I was through</line>
+        <line>Hmm, seem the days ain't the same now</line>
+        <line>Hmm, catch a nigga dippin', baby, on a flight</line>
+        <topic type="wealth"><line>Say he runnin', flippin' millions, servin' feelings</line></topic>
+        <line>Watchin' for these fuckers, never see me slackin', slippin' (Yeah)</line>
+        <line>I'm on a trip, it's never endin' more than I realize (Yeah)</line>
+        <line>I cannot trip kissin' your lips, kissin' between your thighs</line>
+        <line>Ooh, run it back, I'm needin' all your energy (Damn)</line>
+        <line>It's the life, you see, it's really got a hold of me</line>
+        <topic type="drugs"><line>Burn this smoke while I'm thinking, "Man, will I survive?"</line></topic>
+        <line>Just a nigga livin' in hell, my mama know I tried</line>
+    </verse>
+
+    <outro vocals="kid_cudi trippie_redd" mood="happy" tone="positive">
+        <line>But we free, the lonely, lonely (Yeah, oh)</line>
+        <line>As we watch the sunset</line>
+        <line>My mind is meltin' (Oh)</line>
+        <line>A thousand blunts, can't OD, ooh, but I'm hoping</line>
+        <line>This my paradise, I fly (Oh)</line>
+        <line>Hmm-hmm, hmm-hmm</line>
+    </outro>
+</song>

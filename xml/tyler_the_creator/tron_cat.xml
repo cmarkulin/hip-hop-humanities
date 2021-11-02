@@ -1,82 +1,95 @@
-[Intro]
-La, la, la, la, la, la, la
-AAAAHHH!
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2011</year>
+        <title>Tron Cat</title>
+        <featuredArtist/>
+        <album>Goblin</album>
+    </metadata>
+    <intro vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
+        <line>La, la, la, la, la, la, la</line>
+        <line>AAAAHHH!</line>
+    </intro>
 
-[Verse]
-Satan's getting jealous of the wolves, the demons say they preferring us
-Books on not giving a fuck is what they're referring us (Wolf Gang!)
-Wolves, I know you heard of us, we're murderers
-And young enough to get the fucking priest to come and flirt with us (Bitch!)
-You niggas rap about fucking bitches and getting head
-Instead, I rap about fucking bitches and getting heads
-While you niggas stacking bread, I can stack a couple dead
-Bodies, making red look less of a color, more of a hobby
-I'm not a rapper, nor a rapist, nor a racist
-I fuck bitches with no permission and tend to hate shit
-Brag about the actions in a rhyming pattern matter
-Then proceed to sat her down when I go splatter in her chatterbox
-Atta boy, Odd Future, you're not in our categore
-Torture with the super soaker at the Asian liquor store
-This the type of shit that make a Chris Brown want to kick a whore
-That make songs about the wet blockers when it rains and pours (Umbrella)
-I hate this, screaming, "Fuck patience!"
-Got a nigga shaking like the calmest, fucking Haitian
-After chronic masturbation, asking where Mary Kate went
-I want to be the reasons why all lesbians hate dick
-I make this damn Bullwinkle the red moose
-Game of duck-duck-duct tape with a dead goose
-She running 'round this motherfucking dungeon, her legs loose
-Until I accidentally get the saw to her head, oops
-Victim, victim, honey, you're my fifth one
-Honey on that topping when I stuff you in my system
-Rape a pregnant bitch and tell my friends I had a threesome
-You got a fucking death wish? I'm a genie, it'll get done
-Nice to meet you, but it's more pleasant to eat you
-With a leaf of salad and some dressing pouring out a teacup
-Bitch, I'm Tyler, The Creature, suck your feet up like a beach of leeches
-Rubber more than the fucking bottom of a sneaker
-Jeeper the fucking creeper, get your daughter and keep her
-In the jeeps where the Wolf Gang rides around deeper
-Take her to Ladera, now she's scared and you're embarrassed
-Filled with terror, chop her legs off and tell her to run some errands
-Put her eyes in a canteen, take her to the Berrics
-Stare at Steve, say it costs ten to fuck Eric
-Put her in the lake, her body sinks great, now it's time to fish her like Derek
-Satan says we're dangerous, we're trading kids for angel dust
-And snuff and sniff, and now that Michael Jackson's trying to suck our dick
-Hippopot the fucking llamas, dead bodies, cheerleading squaders
-Gave the team a bunch of fucking bees and the Keke Palmer
-They will never catch him or catch up
-They asked me what it was, I told them fuckers it was ketchup
-Nutty like my Chex mix, she bleeding from her rectum
-Odd Future wolves stirring ruckus, throwing sets up, yeah (Wolf Gang)
-This the type of shit that make children break in apartments
-When you tell a fucking orphan you don't love them 'til they heart thin
-(I hate you!) Starve her 'til I carve her then I shove her in the Rover
-Where I cut her like a barber with a Parkinson's disorder
-Store her in a portable freezer with me to Portland
-Catch me with a bunch of fucking Mexicans crossing the border (arriba!)
-I'll be the only wetback who ain't really touched the water
-Cause I'll be too fucking busy tryna flirt with Jesus' daughter
-(Fuck Mary) I'm awesome, and I fuck dolphins
-Sicker than the starving Nigerian kids barfing
-Odd Future Wolf Gang Nazi bar mitzvah
-With your sister at the bar playing leg and arm twister
-Evident that I'm the shit, I'm the Pooh like Tigger dick
-I got these cracker doctors saying, "yeah Bob, this nigga’s sick"
-Animal safari, if I offend you I'm sorry
-Because I'm the blackest skinhead since India Arie
-I don't smoke weed, so no need for the matches
-I said fuck coke and now I'm snorting Hitler's ashes
-I plan on either dying for suicide or my asthma
-Being the only bastard in a box logo casket
-Rashes on my dick from licks of shishkabob Sagets
-In some Kanye West glasses screaming out "fuck faggots"
-Catch me in my attic taking photos of my dad's dick
-Drop the beat here to make it extra climactic
-[Outro: Dr. TC]
-What the fuck?
-I... I'm speechless, that was... fuck
-Shit, Tyler, you're gonna need some help
-I'm not a... fuck it, different subject
-How's that girl you were telling me about?
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
+        <line>Satan's getting jealous of the wolves, the demons say they preferring us</line>
+        <line>Books on not giving a fuck is what they're referring us (Wolf Gang!)</line>
+        <topic type="violence"><line>Wolves, I know you heard of us, we're murderers</line></topic>
+        <line>And young enough to get the fucking priest to come and flirt with us (Bitch!)</line>
+        <line>You niggas rap about fucking bitches and getting head</line>
+        <topic type="violence"><line>Instead, I rap about fucking bitches and getting heads</line></topic>
+        <topic type="violence"><line>While you niggas stacking bread, I can stack a couple dead</line></topic>
+        <topic type="violence"><line>Bodies, making red look less of a color, more of a hobby</line></topic>
+        <line>I'm not a rapper, nor a rapist, nor a racist</line>
+        <topic type="violence"><line>I fuck bitches with no permission and tend to hate shit</line></topic>
+        <line>Brag about the actions in a rhyming pattern matter</line>
+        <line>Then proceed to sat her down when I go splatter in her chatterbox</line>
+        <line>Atta boy, Odd Future, you're not in our categore</line>
+        <topic type="violence"><line>Torture with the super soaker at the Asian liquor store</line></topic>
+        <topic type="violence"><line>This the type of shit that make a Chris Brown want to kick a whore</line></topic>
+        <line>That make songs about the wet blockers when it rains and pours (Umbrella)</line>
+        <line>I hate this, screaming, "Fuck patience!"</line>
+        <line>Got a nigga shaking like the calmest, fucking Haitian</line>
+        <line>After chronic masturbation, asking where Mary Kate went</line>
+        <line>I want to be the reasons why all lesbians hate dick</line>
+        <line>I make this damn Bullwinkle the red moose</line>
+        <line>Game of duck-duck-duct tape with a dead goose</line>
+        <line>She running 'round this motherfucking dungeon, her legs loose</line>
+        <topic type="violence"><line>Until I accidentally get the saw to her head, oops</line></topic>
+        <topic type="violence"><line>Victim, victim, honey, you're my fifth one</line></topic>
+        <line>Honey on that topping when I stuff you in my system</line>
+        <topic type="violence"><line>Rape a pregnant bitch and tell my friends I had a threesome</line></topic>
+        <topic type="violence"><line>You got a fucking death wish? I'm a genie, it'll get done</line></topic>
+        <line>Nice to meet you, but it's more pleasant to eat you</line>
+        <line>With a leaf of salad and some dressing pouring out a teacup</line>
+        <line>Bitch, I'm Tyler, The Creature, suck your feet up like a beach of leeches</line>
+        <line>Rubber more than the fucking bottom of a sneaker</line>
+        <line>Jeeper the fucking creeper, get your daughter and keep her</line>
+        <line>In the jeeps where the Wolf Gang rides around deeper</line>
+        <line>Take her to Ladera, now she's scared and you're embarrassed</line>
+        <topic type="violence"><line>Filled with terror, chop her legs off and tell her to run some errands</line></topic>
+        <topic type="violence"><line>Put her eyes in a canteen, take her to the Berrics</line>
+        <line>Stare at Steve, say it costs ten to fuck Eric</line>
+        <line>Put her in the lake, her body sinks great, now it's time to fish her like Derek</line></topic>
+        <line>Satan says we're dangerous, we're trading kids for angel dust</line>
+        <line>And snuff and sniff, and now that Michael Jackson's trying to suck our dick</line>
+        <topic type="violence"><line>Hippopot the fucking llamas, dead bodies, cheerleading squaders</line></topic>
+        <line>Gave the team a bunch of fucking bees and the Keke Palmer</line>
+        <line>They will never catch him or catch up</line>
+        <line>They asked me what it was, I told them fuckers it was ketchup</line>
+        <line>Nutty like my Chex mix, she bleeding from her rectum</line>
+        <line>Odd Future wolves stirring ruckus, throwing sets up, yeah (Wolf Gang)</line>
+        <line>This the type of shit that make children break in apartments</line>
+        <line>When you tell a fucking orphan you don't love them 'til they heart thin</line>
+        <topic type="violence"><line>(I hate you!) Starve her 'til I carve her then I shove her in the Rover</line></topic>
+        <topic type="violence"><line>Where I cut her like a barber with a Parkinson's disorder</line></topic>
+        <line>Store her in a portable freezer with me to Portland</line>
+        <line>Catch me with a bunch of fucking Mexicans crossing the border (arriba!)</line>
+        <line>I'll be the only wetback who ain't really touched the water</line>
+        <line>Cause I'll be too fucking busy tryna flirt with Jesus' daughter</line>
+        <line>(Fuck Mary) I'm awesome, and I fuck dolphins</line>
+        <line>Sicker than the starving Nigerian kids barfing</line>
+        <line>Odd Future Wolf Gang Nazi bar mitzvah</line>
+        <line>With your sister at the bar playing leg and arm twister</line>
+        <line>Evident that I'm the shit, I'm the Pooh like Tigger dick</line>
+        <line>I got these cracker doctors saying, "yeah Bob, this nigga’s sick"</line>
+        <line>Animal safari, if I offend you I'm sorry</line>
+        <line>Because I'm the blackest skinhead since India Arie</line>
+        <line>I don't smoke weed, so no need for the matches</line>
+        <line>I said fuck coke and now I'm snorting Hitler's ashes</line>
+        <topic type="death"><line>I plan on either dying for suicide or my asthma</line></topic>
+        <line>Being the only bastard in a box logo casket</line>
+        <line>Rashes on my dick from licks of shishkabob Sagets</line>
+        <line>In some Kanye West glasses screaming out "fuck faggots"</line>
+        <line>Catch me in my attic taking photos of my dad's dick</line>
+        <line>Drop the beat here to make it extra climactic</line>
+    </verse>
+    <outro vocals="Tyler_the_Creator" mood="anxious" tone="negative">
+        <line>What the fuck?</line>
+        <line>I... I'm speechless, that was... fuck</line>
+        <line>Shit, Tyler, you're gonna need some help</line>
+        <line>I'm not a... fuck it, different subject</line>
+        <line>How's that girl you were telling me about?</line>
+    </outro>
+</song>

@@ -1,66 +1,84 @@
-[Intro: Tyler, The Creator, Ty Dolla $ign & DJ Drama]
-Something real, yeah
-Baby
-Oh nah, we don't do backpack
-Haha, my pick up line and shit
-Yeah, yeah, yeah, yeah, yeah
-I got your bitch movin'
-Call me when you get lost
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2021</year>
+        <title>Wusyaname</title>
+        <featuredArtist/>
+        <album>Call Me If You Get Lost</album>
+    </metadata>
+    <intro vocals="Tyler_the_Creator Ty_Dolla_$ign DJ_Drama" mood="ambiguous" tone="neutral">
+        <line>Something real, yeah</line>
+        <line>Baby</line>
+        <line>Oh nah, we don't do backpack</line>
+        <line>Haha, my pick up line and shit</line>
+        <line>Yeah, yeah, yeah, yeah, yeah</line>
+        <line>I got your bitch movin'</line>
+        <line>Call me when you get lost</line>
+    </intro>
 
-[Verse 1: Tyler, The Creator & Ty Dolla $ign]
-Aw, you look malnourished (Malnourished)
-Let's get some bread, fry it in egg yolk and drown it in syrup (Drown it in syrup)
-You pick a spot, I pick a tail number and we could be tourists (Ooh, yeah)
-Let's go to Cannes and watch a couple indie movies that you never heard of (Baby)
-Listen to bands, groove and we dance
-Disco in France, smell some perfume, head in the wind (In the wind)
-We can switch off
-I can show you how you can really exfoliate skin
-If you got a man, you should cut it off
-Get your passport 'cause we runnin' off (Run off)
-We can sit and talk
-You can tell me everything that's on your chest, baby, get it off
-You are my type, you a bright light
-I'm like a moth, this is not a game (This is not a game)
-But before we start (Before I say)
-[Chorus: Tyler, The Creator, both & Ty Dolla $ign]
-What's your name, girlfriend, what's your name? (Check it out)
-(What's your name?)
-What's your name, girlfriend, what's your name? (Tell me)
-What's your name, girlfriend, what's your name? (Check it out)
-(Oh, what's your name?)
-What's your name, girlfriend, what's your name? (Oh, girl)
-Yeah
+    <verse vocals="Tyler_the_Creator Ty_Dolla_$ign" mood="hopeful" tone="positive">
+        <line>Aw, you look malnourished (Malnourished)</line>
+        <topic type="money"><line>Let's get some bread, fry it in egg yolk and drown it in syrup (Drown it in
+            syrup)</line></topic>
+        <line>You pick a spot, I pick a tail number and we could be tourists (Ooh, yeah)</line>
+        <line>Let's go to Cannes and watch a couple indie movies that you never heard of
+            (Baby)</line>
+        <line>Listen to bands, groove and we dance</line>
+        <line>Disco in France, smell some perfume, head in the wind (In the wind)</line>
+        <line>We can switch off</line>
+        <line>I can show you how you can really exfoliate skin</line>
+        <line>If you got a man, you should cut it off</line>
+        <line>Get your passport 'cause we runnin' off (Run off)</line>
+        <line>We can sit and talk</line>
+        <line>You can tell me everything that's on your chest, baby, get it off</line>
+        <line>You are my type, you a bright light</line>
+        <line>I'm like a moth, this is not a game (This is not a game)</line>
+        <line>But before we start (Before I say)</line>
+    </verse>
+    <chorus vocals="Tyler_the_Creator Ty_Dolla_$ign" mood="hopeful" tone="neutral">
+        <line>What's your name, girlfriend, what's your name? (Check it out)</line>
+        <line>(What's your name?)</line>
+        <line>What's your name, girlfriend, what's your name? (Tell me)</line>
+        <line>What's your name, girlfriend, what's your name? (Check it out)</line>
+        <line>(Oh, what's your name?)</line>
+        <line>What's your name, girlfriend, what's your name? (Oh, girl)</line>
+        <line>Yeah</line>
+    </chorus>
 
-[Verse 2: YoungBoy Never Broke Again, Tyler, The Creator & Ty Dolla $ign]
-What is your name, what do you bring? (Yeah)
-I think that I got what you need
-And I'm willin' to do anything that you please (Baby)
-I'm tryna get down to the root of the apple
-The deepest I could in them jeans
-McLaren like Sonic, can't speak, no
-No, you can't hit my lean, no (Baby)
-Baby, tell me where the piece go, 'cause I'm lost
-Your body compared to the fashion
-I hope you ain't proud of the shit that I bought (Baby)
-'Cause money, it don't mean a thing
-I value the times that I take you out
-One minute, it's a beautiful scene
-Then it probably end with me bein' took out, woah-oh
-Think slow, 'cause I move fast (Oh, me)
-[Chorus: Tyler, The Creator, both & Ty Dolla $ign]
-What's your name, girlfriend, what's your name? (Check it out)
-(Oh, what's your name?)
-What's your name, girlfriend, what's your name? (Tell me)
-What's your name, girlfriend, what's your name? (Tell me)
-(Oh, what's your name?)
-What's your name, girlfriend, what's your name? (Yeah)
-(Oh-oh)
-Yeah
+    <verse vocals="Youngboy_NBA Ty_Dolla_$ign" mood="ambiguous" tone="neutral">
+        <line>What is your name, what do you bring? (Yeah)</line>
+        <line>I think that I got what you need</line>
+        <line>And I'm willin' to do anything that you please (Baby)</line>
+        <line>I'm tryna get down to the root of the apple</line>
+        <line>The deepest I could in them jeans</line>
+        <line>McLaren like Sonic, can't speak, no</line>
+        <line>No, you can't hit my lean, no (Baby)</line>
+        <line>Baby, tell me where the piece go, 'cause I'm lost</line>
+        <line>Your body compared to the fashion</line>
+        <line>I hope you ain't proud of the shit that I bought (Baby)</line>
+        <line>'Cause money, it don't mean a thing</line>
+        <line>I value the times that I take you out</line>
+        <line>One minute, it's a beautiful scene</line>
+        <line>Then it probably end with me bein' took out, woah-oh</line>
+        <line>Think slow, 'cause I move fast (Oh, me)</line>
+    </verse>
+    <chorus vocals="Tyler_the_Creator Ty_Dolla_$ign" mood="ambiguous" tone="neutral">
+        <line>What's your name, girlfriend, what's your name? (Check it out)</line>
+        <line>(Oh, what's your name?)</line>
+        <line>What's your name, girlfriend, what's your name? (Tell me)</line>
+        <line>What's your name, girlfriend, what's your name? (Tell me)</line>
+        <line>(Oh, what's your name?)</line>
+        <line>What's your name, girlfriend, what's your name? (Yeah)</line>
+        <line>(Oh-oh)</line>
+        <line>Yeah</line>
+    </chorus>
 
-[Outro: Tyler, The Creator, Ty Dolla $ign & DJ Drama]
-Since when did I bring a C5?
-I wanna know your name
-I feel like I had your name
-Oh-oh, oh, oh, ooh, ooh
-Stop playin' and let me pay your momma debt off, haha
+    <outro vocals="Tyler_the_Creator Ty_Dolla_$ign DJ_Drama" mood="ambiguous" tone="neutral">
+        <line>Since when did I bring a C5?</line>
+        <line>I wanna know your name</line>
+        <line>I feel like I had your name</line>
+        <line>Oh-oh, oh, oh, ooh, ooh</line>
+        <line>Stop playin' and let me pay your momma debt off, haha</line>
+    </outro>
+</song>

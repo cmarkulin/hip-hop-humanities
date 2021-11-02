@@ -1,74 +1,87 @@
-[Intro]
-So mean
-So mean
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2009</year>
+        <title>Alive</title>
+        <featuredArtist></featuredArtist>
+        <album>Man on the Moon III: The End of Day</album>
+    </metadata>
+    <intro vocals="kid_cudi" mood="sad" tone="negative">
+        <line>So mean</line>
+        <line>So mean</line>
+    </intro>
 
-[Chorus]
-Every time, the moon shines
-I become alive, yeah
-And every time, the moon shines
-I become alive, yeah
+    <chorus vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+        <line>And every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+    </chorus>
+    <verse vocals="kid_cudi" mood="anxious" tone="negative">
+        <line>I'm feeling strange in the night</line>
+        <line>I'm not myself, I feel I'm thrown into a fight</line>
+        <line>Ah, nowhere to run, nowhere to hide, nothing's right</line>
+        <line>My skin is burning and my heart begins to speed</line>
+        <line>There's something going wrong with me</line>
+        <line>I am changing rapidly, ay</line>
+        <line>I'm feeling stronger, more alert, I'm on the move, mm</line>
+        <line>I smell her scent, and I know I will find her soon, soon, soon</line>
+        <line>The one to come and free me from this fate</line>
+        <line>I'll find her, it's not too late, hey, hey</line>
+    </verse>
 
-[Verse 1]
-I'm feeling strange in the night
-I'm not myself, I feel I'm thrown into a fight
-Ah, nowhere to run, nowhere to hide, nothing's right
-My skin is burning and my heart begins to speed
-There's something going wrong with me
-I am changing rapidly, ay
-I'm feeling stronger, more alert, I'm on the move, mm
-I smell her scent, and I know I will find her soon, soon, soon
-The one to come and free me from this fate
-I'll find her, it's not too late, hey, hey
+    <chorus vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+        <line>And every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+    </chorus>
+    <verse vocals="kid_cudi" mood="hopeful" tone="neutral">
+        <line>I'm a beast in the night</line>
+        <line>I'm on the prowl while I'm hoping to find some light</line>
+        <line>You call it Heaven, I do too, we feel the same</line>
+        <line>Ain't nothing wrong, I'll be feasting on something brave, ay</line>
+        <line>A sexy lady who's pure, she has the cure, ah</line>
+        <line>I hope she can find the man within the beast, and</line>
+        <line>I hope she saves me from the curse I have to beat, hey</line>
+        <line>I hope she figures out a way to save my soul</line>
+        <line>Yeah, to save my heart, hey</line>
+    </verse>
+    <chorus vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+        <line>And every time, the moon shines</line>
+        <line>I become alive, yeah</line>
 
-[Chorus]
-Every time, the moon shines
-I become alive, yeah
-And every time, the moon shines
-I become alive, yeah
-[Verse 2]
-I'm a beast in the night
-I'm on the prowl while I'm hoping to find some light
-You call it Heaven, I do too, we feel the same
-Ain't nothing wrong, I'll be feasting on something brave, ay
-A sexy lady who's pure, she has the cure, ah
-I hope she can find the man within the beast, and
-I hope she saves me from the curse I have to beat, hey
-I hope she figures out a way to save my soul
-Yeah, to save my heart, hey
+        <line>Na-na-na-na-na-na-na-na na</line>
+        <line>Whoa, na-na-na-na-na-na-na na</line>
+        <line>Na-na-na-na-na-na-na-na na</line>
+        <line>Whoa, na-na-na-na-na-na-na na</line>
+    </chorus>
 
-[Chorus]
-Every time, the moon shines
-I become alive, yeah
-And every time, the moon shines
-I become alive, yeah
+    <verse vocals="kid_cudi" mood="hopeful" tone="neutral">
+        <line>I watch the sun collapse and took up in the clizzoud</line>
+        <line>I am the lone wolf, go where I wanna</line>
+        <line>Let the moon shine, be the guide to the lizzight</line>
+        <line>Even when I stray away, the light never left me</line>
+        <line>Uh, I learn to follow my instinct</line>
+        <line>Blinded by the light, rather that than the evil</line>
+        <line>Feelin' out of place in a room full of people</line>
+        <line>Try and be the same, but you know you're not a sequel</line>
+        <line>Your fate will be</line>
+        <line>Whatever it shall be, be, be, be, be</line>
+        <line>Won't fight no more</line>
+        <line>I let these things just be, be, be, be</line>
+    </verse>
+    <chorus vocals="kid_cudi" mood="hopeful" tone="positive">
+        <line>Every time, the moon shines</line>
+        <line>I become alive, yeah</line>
+        <line>And every time, the moon shines</line>
+        <line>I become alive, yeah</line>
 
-[Post-Chorus]
-Na-na-na-na-na-na-na-na na
-Whoa, na-na-na-na-na-na-na na
-Na-na-na-na-na-na-na-na na
-Whoa, na-na-na-na-na-na-na na
-
-[Verse 3]
-I watch the sun collapse and took up in the clizzoud
-I am the lone wolf, go where I wanna
-Let the moon shine, be the guide to the lizzight
-Even when I stray away, the light never left me
-Uh, I learn to follow my instinct
-Blinded by the light, rather that than the evil
-Feelin' out of place in a room full of people
-Try and be the same, but you know you're not a sequel
-Your fate will be
-Whatever it shall be, be, be, be, be
-Won't fight no more
-I let these things just be, be, be, be
-[Chorus]
-Every time, the moon shines
-I become alive, yeah
-And every time, the moon shines
-I become alive, yeah
-
-[Post-Chorus]
-Na-na-na-na-na-na-na-na na
-Whoa, na-na-na-na-na-na-na na
-Na-na-na-na-na-na-na-na na
-Whoa, na-na-na-na-na-na-na na
+        <line>Na-na-na-na-na-na-na-na na</line>
+        <line>Whoa, na-na-na-na-na-na-na na</line>
+        <line>Na-na-na-na-na-na-na-na na</line>
+    </chorus>
+</song>

@@ -1,79 +1,96 @@
-[Intro]
-Hello, yeah
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2009</year>
+        <title>My World</title>
+        <featuredArtist>Billy Craven</featuredArtist>
+        <album>Man on the Moon III: The End of Day</album>
+    </metadata>
+    <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>Hello, yeah</line>
+    </intro>
 
-[Verse 1: Kid Cudi]
-Uh, little homie, in the room
-In-in the room, boy on the moon
-(Had-had no-no one) No one to hang out with
-Talk that shit to just my little homies
-One year younger, they ain't get where I was going
-Took a turn to the worse when my father left me lonely (Hmm)
-Lonely in my room
-I-I mean me, up on the moon
-Entertained myself, laughed at myself
-As I grew to be a teen, I disguised myself
-Had the lowest self-esteem, especially with the girls
-Tried every sport just to impress all the girls
-Instead of all the ladies, 'cause they talked down
-I was too artsy, known to be a clown (Hmm)
-(Ah-huh) And now my Facebook poppin'
-'Cause I told the same girls I would be the hot shit
-One day
+    <verse vocals="kid_cudi" mood="sad" tone="negative">
+        <line>Uh, little homie, in the room</line>
+        <line>In-in the room, boy on the moon</line>
+        <line>(Had-had no-no one) No one to hang out with</line>
+        <line>Talk that shit to just my little homies</line>
+        <line>One year younger, they ain't get where I was going</line>
+        <topic type="family"><line>Took a turn to the worse when my father left me lonely (Hmm)</line></topic>
+        <line>Lonely in my room</line>
+        <line>I-I mean me, up on the moon</line>
+        <line>Entertained myself, laughed at myself</line>
+        <line>As I grew to be a teen, I disguised myself</line>
+        <line>Had the lowest self-esteem, especially with the girls</line>
+        <line>Tried every sport just to impress all the girls</line>
+        <line>Instead of all the ladies, 'cause they talked down</line>
+        <line>I was too artsy, known to be a clown (Hmm)</line>
+        <line>(Ah-huh) And now my Facebook poppin'</line>
+        <line>'Cause I told the same girls I would be the hot shit</line>
+        <line>One day</line>
+    </verse>
 
-[Chorus: Kid Cudi & Billy Craven]
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-[Verse 2: Kid Cudi]
-Yeah, yeah, uh, big homie, made the move
-Made-made the move, flew off the moon
-Still (Had no-no one) no one to hang out with
-Talk that shit to just my Brooklyn niggas
-All I would wonder is when will my time come
-Had mad jobs and I lost damn near all of them
-Thinkin' 'bout my bosses, yep I hated all of them
-Studio at night had me hustlin' to most of them
-Nigga, I was late damn near every day
-But I'ma be on time when my stars align
-When my soul was happy on my Ramen diet
-Followed by a loosey, was the meal of grinders
-If you knowin' the truth, all you think about is that thing
-Always be a hater tryna shoot down any dream
-Until you meet a kid like K-I
-Niggas thought I was crazy, my mama know I stay high
-We getting money, mom
+    <chorus vocals="kid_cudi billy_craven" mood="hopeful" tone="positive">
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+    </chorus>
+    <verse vocals="kid_cudi" mood="sad" tone="negative">
+        <line>Yeah, yeah, uh, big homie, made the move</line>
+        <line>Made-made the move, flew off the moon</line>
+        <line>Still (Had no-no one) no one to hang out with</line>
+        <line>Talk that shit to just my Brooklyn niggas</line>
+        <line>All I would wonder is when will my time come</line>
+        <line>Had mad jobs and I lost damn near all of them</line>
+        <line>Thinkin' 'bout my bosses, yep I hated all of them</line>
+        <line>Studio at night had me hustlin' to most of them</line>
+        <line>Nigga, I was late damn near every day</line>
+        <line>But I'ma be on time when my stars align</line>
+        <line>When my soul was happy on my Ramen diet</line>
+        <line>Followed by a loosey, was the meal of grinders</line>
+        <line>If you knowin' the truth, all you think about is that thing</line>
+        <line>Always be a hater tryna shoot down any dream</line>
+        <line>Until you meet a kid like K-I</line>
+        <line>Niggas thought I was crazy, my mama know I stay high</line>
+        <line>We getting money, mom</line>
+    </verse>
+    <chorus vocals="kid_cudi billy_craven" mood="hopeful" tone="positive">
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+    </chorus>
+    <bridge vocals="kid_cudi" mood="confident" tone="neutral">
+        <line>I was heavy-heavy-heavy on my grizzle</line>
+        <line>And none of y'all had a clue about me</line>
+        <line>And none of y'all had a clue about me</line>
+        <line>And none of y'all really knew about me</line>
+        <line>I was heavy-heavy-heavy on my grizzle</line>
+        <line>And none of y'all really cared about me</line>
+        <line>And none of y'all really cared about me</line>
+        <line>Now, guess what? I'm all you see, I'm all you see</line>
+    </bridge>
 
-[Chorus: Kid Cudi & Billy Craven]
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-[Bridge: Kid Cudi]
-I was heavy-heavy-heavy on my grizzle
-And none of y'all had a clue about me
-And none of y'all had a clue about me
-And none of y'all really knew about me
-I was heavy-heavy-heavy on my grizzle
-And none of y'all really cared about me
-And none of y'all really cared about me
-Now, guess what? I'm all you see, I'm all you see
+    <chorus vocals="kid_cudi billy_craven" mood="hopeful" tone="positive">
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+        <line>I told you so</line>
+        <line>This will be my world</line>
+    </chorus>
 
-[Chorus: Kid Cudi & Billy Craven]
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-I told you so
-This will be my world
-
-[Outro]
-Yeah-ay-ohh-ohh
-Yeah-ay-ohh-ohh
+    <outro vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>Yeah-ay-ohh-ohh</line>
+        <line>Yeah-ay-ohh-ohh</line>
+    </outro>
+</song>

@@ -1,78 +1,95 @@
-[Intro: Jasper Dolphin]
-Oh, shit (Swag)
-Three icy ass niggas from Odd Future doin' some crazy shit (Bitch)
-By the way, we do punch bitches, huh
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2011</year>
+        <title>BSD</title>
+        <featuredArtist>Jasper Taco</featuredArtist>
+        <album>Goblin</album>
+    </metadata>
+    <intro vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>Oh, shit (Swag)</line>
+<line>Three icy ass niggas from Odd Future doin' some crazy shit (Bitch)</line>
+<line>By the way, we do punch bitches, huh</line>
+</intro>
+    <verse vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>I'm a swagging, bitch (Swag), I'm iced out (Iced out)</line>
+<line>Oh, you mad, bitch? (Bitch) 'Cause I'm laying on the couch (Woo)</line>
+<line>Smoke a blunt, fuck a bitch in the butt, I'm bossing (Bow, bow)</line>
+<line>Don't give a fuck, I never roll Slauson</line>
+<line>I'm fly, bitch, I should poke you in your eye, bitch</line>
+<line>Got the burner, bitch, bow, bow (Bow)</line>
+<line>You dead, bitch, I'm hot as fuck</line>
+<line>I ain't never cold, but I'm icy, bitch (Woo)</line>
+    </verse>
 
-[Verse 1: Jasper Dolphin]
-I'm a swagging, bitch (Swag), I'm iced out (Iced out)
-Oh, you mad, bitch? (Bitch) 'Cause I'm laying on the couch (Woo)
-Smoke a blunt, fuck a bitch in the butt, I'm bossing (Bow, bow)
-Don't give a fuck, I never roll Slauson
-I'm fly, bitch, I should poke you in your eye, bitch
-Got the burner, bitch, bow, bow (Bow)
-You dead, bitch, I'm hot as fuck
-I ain't never cold, but I'm icy, bitch (Woo)
+    <chorus vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>My bitch suck dick like she suck dick</line>
+<line>My bitch suck dick like she suck dick (Bow, bow, bow)</line>
+<line>My bitch suck dick like (What) she suck dick</line>
+<line>My bitch suck dick like she suck dick (Bow, bow)</line>
+    </chorus>
 
-[Chorus: Jasper Dolphin]
-My bitch suck dick like she suck dick
-My bitch suck dick like she suck dick (Bow, bow, bow)
-My bitch suck dick like (What) she suck dick
-My bitch suck dick like she suck dick (Bow, bow)
+    <verse vocals="Tyler_the_Creator" mood="confident" tone="neutral">
+        <topic type="violence"><line>Got the bops in the house, socking bitches in they mouth (Bitch)</line></topic>
+        <topic type="wealth"><line>See my neck? Iced the fuck out (I'm getting money, nigga)</line></topic>
+<line>She at the fucking mall, forty bitches on my nutsack</line>
+<line>I pulled up on a mothafuckin' unicorn (I'm getting ponies, nigga)</line>
+<line>Wolf Gang, nigga</line>
+        <topic type="violence"><line>Scream that 'til they motherfucking show me death</line></topic>
+<line>Golf Wang, nigga</line>
+<line>Free Earl, better show some motherfucking respect</line>
+<line>All this ice around my neck, all this ice around my dick</line>
+        <topic type="violence"><line>Gun to her head, make your bitch massage my shoulders</line></topic>
+    </verse>
+    <chorus vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>My bitch suck dick like she suck dick</line>
+<line>My bitch suck dick like she suck dick (Bow, bow, bow)</line>
+<line>My bitch suck dick like (What) she suck dick</line>
+<line>My bitch suck dick like she suck dick (Bow, bow)</line>
+    </chorus>
 
-[Verse 2: Tyler, The Creator]
-Got the bops in the house, socking bitches in they mouth (Bitch)
-See my neck? Iced the fuck out (I'm getting money, nigga)
-She at the fucking mall, forty bitches on my nutsack
-I pulled up on a mothafuckin' unicorn (I'm getting ponies, nigga)
-Wolf Gang, nigga
-Scream that 'til they motherfucking show me death
-Golf Wang, nigga
-Free Earl, better show some motherfucking respect
-All this ice around my neck, all this ice around my dick
-Gun to her head, make your bitch massage my shoulders
-[Chorus: Jasper Dolphin]
-My bitch suck dick like she suck dick
-My bitch suck dick like she suck dick (Bow, bow, bow)
-My bitch suck dick like (What) she suck dick
-My bitch suck dick like she suck dick (Bow, bow)
+    <verse vocals="Taco" mood="ambiguous" tone="neutral">
+<line>Shut up, bitch (Shut up, bitch), suck my dick (Suck my nuts)</line>
+<line>You fucking bop (Bitch), you better swallow it</line>
+<line>I got a chain with a fuckin' platinum plaque on it</line>
+<line>Is that a hundred dollar bill? I'll shit on it</line>
+<line>I bought a fucking whale, 'cause I'm ballin' (Ow)</line>
+<line>Your bitch work for me, she my dick washer</line>
+<line>Swag on my dick, 30 thousand million, nigga</line>
+    </verse>
+    <chorus vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>My bitch suck dick like she suck dick</line>
+<line>My bitch suck dick like she suck dick</line>
+<line>My bitch suck dick like she suck dick (Goddamn)</line>
+    </chorus>
 
-[Verse 3: Travis Taco]
-Shut up, bitch (Shut up, bitch), suck my dick (Suck my nuts)
-You fucking bop (Bitch), you better swallow it
-I got a chain with a fuckin' platinum plaque on it
-Is that a hundred dollar bill? I'll shit on it
-I bought a fucking whale, 'cause I'm ballin' (Ow)
-Your bitch work for me, she my dick washer
-Swag on my dick, 30 thousand million, nigga
-
-[Chorus: Jasper Dolphin]
-My bitch suck dick like she suck dick
-My bitch suck dick like she suck dick
-My bitch suck dick like she suck dick (Goddamn)
-
-[Verse 4: Jasper Dolphin]
-You bopping, bitch, (Question mark) you like this dick?
-We all know why, 'cause you's a boppin' bitch (Bow, bow, bow)
-I got the burner, I pop you in your lip (Bow, bow)
-Zoom-zoom, yeah, I'm going fast, bitch
-I'm loud as fuck (I'm loud as fuck), I'm ignorant (Ignorant)
-Punch a bitch in her mouth just for talkin' shit
-You lurking, bitch? Well, I see that shit
-Once again, I gotta punch a bitch in her shit
-I'm icy, bitch, don't look at my wrist (At my wrist)
-Because if you do (If you do), I might blind you bitch (Bitch)
-Mount Everest ain't fucking with my fucking wrist
-Fuck global warming, this the Ice Age, bitch (Bitch suck dick)
-[Outro: Tyler, the Creator and Jasper Dolphin, Tyler, the Creator, Jasper Dolphin]
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Swag, swag, punch a bitch
-Yo, yo, Jasper, Taco, y'all my niggas, man
-I love y'all niggas, I'm sorry
-[Gunshot]
-Ow! What the fuck?!
+    <verse vocals="Jasper" mood="ambiguous" tone="neutral">
+<line>You bopping, bitch, (Question mark) you like this dick?</line>
+<line>We all know why, 'cause you's a boppin' bitch (Bow, bow, bow)</line>
+<line>I got the burner, I pop you in your lip (Bow, bow)</line>
+<line>Zoom-zoom, yeah, I'm going fast, bitch</line>
+<line>I'm loud as fuck (I'm loud as fuck), I'm ignorant (Ignorant)</line>
+<line>Punch a bitch in her mouth just for talkin' shit</line>
+<line>You lurking, bitch? Well, I see that shit</line>
+<line>Once again, I gotta punch a bitch in her shit</line>
+<line>I'm icy, bitch, don't look at my wrist (At my wrist)</line>
+<line>Because if you do (If you do), I might blind you bitch (Bitch)</line>
+<line>Mount Everest ain't fucking with my fucking wrist</line>
+<line>Fuck global warming, this the Ice Age, bitch (Bitch suck dick)</line>
+    </verse>
+    <outro vocals="Tyler_the_Creator Jasper" mood="ambiguous" tone="neutral">
+        <topic type="violence"><line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line>
+<line>Swag, swag, punch a bitch</line></topic>
+<line>Yo, yo, Jasper, Taco, y'all my niggas, man</line>
+<line>I love y'all niggas, I'm sorry</line>
+<line>[Gunshot]</line>
+<line>Ow! What the fuck?!</line>
+    </outro>
+</song>

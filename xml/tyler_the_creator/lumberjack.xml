@@ -1,63 +1,79 @@
-[Intro: Tyler, The Creator & DJ Drama]
-Rolls-Royce pull up, Black boy hop out
-Shoutout to my mother, and my father didn't— (Hold up)
-"Oh, my God, I never seen nothin' like this"
-Haha, that's what my mom was sayin'
-She, she was cryin' and shit
-It was, she was just like, "This shit is beautiful"
-It was a beautiful moment
-You alway– you always keep the picnic blankets in the back
-'Cause you, you never know (Gangsta Grillz)
-You never know where the fuck you gon' end up at
-(Okay, haha, let's go, now we ready)
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2021</year>
+        <title>Lumberjack</title>
+        <featuredArtist>DJ Drama</featuredArtist>
+        <album>Call Me If You Get Lost</album>
+    </metadata>
+    <intro vocals="Tyler_the_Creator DJ_Drama" mood="hopeful" tone="positive">
+        <topic type="wealth"><line>Rolls-Royce pull up, Black boy hop out</line></topic>
+<line>Shoutout to my mother, and my father didn't— (Hold up)</line>
+<line>"Oh, my God, I never seen nothin' like this"</line>
+<line>Haha, that's what my mom was sayin'</line>
+<line>She, she was cryin' and shit</line>
+<line>It was, she was just like, "This shit is beautiful"</line>
+<line>It was a beautiful moment</line>
+<line>You alway– you always keep the picnic blankets in the back</line>
+<line>'Cause you, you never know (Gangsta Grillz)</line>
+<line>You never know where the fuck you gon' end up at</line>
+<line>(Okay, haha, let's go, now we ready)</line>
+    </intro>
 
-[Chorus: Tyler, The Creator, DJ Drama & Jasper]
-Rolls-Royce pull up, Black boy hop out
-Shoutout to my mother, and my father didn't pull out
-MSG sell out, fuck these niggas yap 'bout?
-Whips on whips, my ancestors got they backs out (Yeah, oh)
-Too far? Five hundred stacks for the hood (I dare you, nigga)
-Call me lumbеrjack 'cause I wish a nigga would race (Uh-huh, right)
-Do it like I? This thе wish-a-nigga-could face (Uh)
-They ain't gettin' paper like they should, wait
-(You niggas woulda, coulda, shoulda, oh, shit)
+    <chorus vocals="Tyler_the_Creator DJ_Drama Jasper" mood="angry" tone="positive">
+        <topic type="wealth"><line>Rolls-Royce pull up, Black boy hop out</line></topic>
+<line>Shoutout to my mother, and my father didn't pull out</line>
+<line>MSG sell out, fuck these niggas yap 'bout?</line>
+        <topic type="wealth"><line>Whips on whips, my ancestors got they backs out (Yeah, oh)</line></topic>
+        <topic type="wealth"><line>Too far? Five hundred stacks for the hood (I dare you, nigga)</line></topic>
+<line>Call me lumbеrjack 'cause I wish a nigga would race (Uh-huh, right)</line>
+<line>Do it like I? This thе wish-a-nigga-could face (Uh)</line>
+        <topic type="wealth"><line>They ain't gettin' paper like they should, wait</line></topic>
+<line>(You niggas woulda, coulda, shoulda, oh, shit)</line>
+    </chorus>
 
-[Verse 1: Tyler, The Creator, DJ Drama & Jasper]
-Niggas ain't really on the type of shit he on
-I hit Drizzy and told him I had a milli' for him (Oh shit)
-I own my companies full, told 'em to keep the loan
-I took that gold bitch home, niggas was big mad (Ugh, oh shit)
-I put that bitch on the shelf to let it ventilate
-And bought another car 'cause I ain't know how to celebrate (Top shelf, nigga)
-That big boy, that big bitch for all weather
-It never rain in Cali', came with an umbrella (Ooh)
-[Chorus: Tyler, The Creator, DJ Drama & Jasper]
-Rolls-Royce pull up, Black boy hop out (Man, what the fuck?)
-Shoutout to my mother, and my father didn't pull out
-MSG sell out, fuck these niggas yap 'bout? (Sold out)
-Good credit score, this card really can't max out (Wow)
-Too far? Five hundred stacks for the hood
-Call me lumberjack 'cause I wish a nigga would race (Uh-huh)
-Nigga this the face, man I wish a nigg— (It's the face)
-It's different, it's really different (Catch up, niggas)
+    <verse vocals="Tyler_the_Creator DJ_Drama Jasper" mood="confident" tone="positive">
+<line>Niggas ain't really on the type of shit he on</line>
+<line>I hit Drizzy and told him I had a milli' for him (Oh shit)</line>
+        <topic type="wealth"><line>I own my companies full, told 'em to keep the loan</line></topic>
+<line>I took that gold bitch home, niggas was big mad (Ugh, oh shit)</line>
+<line>I put that bitch on the shelf to let it ventilate</line>
+        <topic type="wealth"><line>And bought another car 'cause I ain't know how to celebrate (Top shelf, nigga)</line></topic>
+<line>That big boy, that big bitch for all weather</line>
+<line>It never rain in Cali', came with an umbrella (Ooh)</line>
+    </verse>
+    <chorus vocals="Tyler_the_Creator DJ_Drama Jasper" mood="confident" tone="positive">
+        <topic type="wealth"><line>Rolls-Royce pull up, Black boy hop out (Man, what the fuck?)</line></topic>
+<line>Shoutout to my mother, and my father didn't pull out</line>
+<line>MSG sell out, fuck these niggas yap 'bout? (Sold out)</line>
+        <topic type="wealth"><line>Good credit score, this card really can't max out (Wow)</line></topic>
+        <topic type="wealth"><line>Too far? Five hundred stacks for the hood</line></topic>
+<line>Call me lumberjack 'cause I wish a nigga would race (Uh-huh)</line>
+<line>Nigga this the face, man I wish a nigg— (It's the face)</line>
+<line>It's different, it's really different (Catch up, niggas)</line>
+    </chorus>
 
-[Verse 2: Tyler, The Creator, DJ Drama & Jasper]
-Ayo, I might just sled in Utah, LA is too warm
-My nigga tall, he look like a bitch, I call him Mulan (Hey, oh)
-Salad colored emerald on finger, the size of croutons
-Niggas can not fuck with performance of magic (Oh), new wand (Nigga)
-That's my nuance, used to be the weirdo (Ah)
-Used to laugh at me, listen to me with their ears closed
-Used to treat me like that boy off Malcolm in the Middle (Why I'm motherfuckin' rich)
-Now I'm zero, zero, zero, zero, zero, zero (That's six)
+    <verse vocals="Tyler_the_Creator DJ_Drama Jasper" mood="confident" tone="positive">
+<line>Ayo, I might just sled in Utah, LA is too warm</line>
+<line>My nigga tall, he look like a bitch, I call him Mulan (Hey, oh)</line>
+<line>Salad colored emerald on finger, the size of croutons</line>
+<line>Niggas can not fuck with performance of magic (Oh), new wand (Nigga)</line>
+<line>That's my nuance, used to be the weirdo (Ah)</line>
+<line>Used to laugh at me, listen to me with their ears closed</line>
+        <topic type="wealth"><line>Used to treat me like that boy off Malcolm in the Middle (Why I'm motherfuckin' rich)</line></topic>
+        <topic type="wealth"><line>Now I'm zero, zero, zero, zero, zero, zero (That's six)</line></topic>
+    </verse>
 
-[Outro: Tyler, The Creator, DJ Drama & Jasper]
-Rolls-Royce pull up (Zero), Black boy hop out (That's seven)
-Nah, I can't take this shit no more, man, I quit
-That's it, I quit, I swear to God, nigga
-Fuck niggas talking to me about? Close y'all fuckin' faces
-Quality Wednesday music
-Wish-a-nigga-could face
-(Them stones is cloudy, nigga) Oh yeah, you asked for it
-(Fuckin' crumbs) Wish-a-nigga-would face
-Fuck you mean, nigga?
+    <outro vocals="Tyler_the_Creator DJ_Drama Jasper" mood="angry" tone="neutral">
+        <topic type="wealth"><line>Rolls-Royce pull up (Zero), Black boy hop out (That's seven)</line></topic>
+<line>Nah, I can't take this shit no more, man, I quit</line>
+<line>That's it, I quit, I swear to God, nigga</line>
+<line>Fuck niggas talking to me about? Close y'all fuckin' faces</line>
+<line>Quality Wednesday music</line>
+<line>Wish-a-nigga-could face</line>
+<line>(Them stones is cloudy, nigga) Oh yeah, you asked for it</line>
+<line>(Fuckin' crumbs) Wish-a-nigga-would face</line>
+<line>Fuck you mean, nigga?</line>
+    </outro>
+</song>

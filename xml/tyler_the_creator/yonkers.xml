@@ -1,75 +1,90 @@
-[Intro]
-Uh, Wolf Haley, Golf Wang, go
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Tyler the Creator</artist>
+        <year>2011</year>
+        <title>Yonkers</title>
+        <featuredArtist/>
+        <album>Goblin</album>
+    </metadata>
+    <intro vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
+        <line>Uh, Wolf Haley, Golf Wang, go</line>
+    </intro>
 
-[Verse 1]
-I'm a fuckin' walkin' paradox, no, I'm not
-Threesomes with a fuckin' triceratops, Reptar
-Rappin' as I'm mockin' deaf rock stars
-Wearin' synthetic wigs made of Anwar's dreadlocks
-Bedrock, harder than a motherfuckin' Flintstone
-Making crack rocks outta pussy nigga fishbones (Haha)
-This nigga Jasper tryin' to get grown
-About five, seven of his bitches in my bedroom (Hey)
-Swallow the cinnamon, I'ma scribble this sin and shit
-While Syd is tellin' me that she's been getting intimate with men
-(Syd, shut the fuck up)
-Here's the number to my therapist (Shit)
-You tell him all your problems, he's fuckin' awesome with listenin' (Haha)
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
+        <line>I'm a fuckin' walkin' paradox, no, I'm not</line>
+        <line>Threesomes with a fuckin' triceratops, Reptar</line>
+        <line>Rappin' as I'm mockin' deaf rock stars</line>
+        <line>Wearin' synthetic wigs made of Anwar's dreadlocks</line>
+        <line>Bedrock, harder than a motherfuckin' Flintstone</line>
+        <line>Making crack rocks outta pussy nigga fishbones (Haha)</line>
+        <line>This nigga Jasper tryin' to get grown</line>
+        <line>About five, seven of his bitches in my bedroom (Hey)</line>
+        <line>Swallow the cinnamon, I'ma scribble this sin and shit</line>
+        <line>While Syd is tellin' me that she's been getting intimate with men</line>
+        <line>(Syd, shut the fuck up)</line>
+        <line>Here's the number to my therapist (Shit)</line>
+        <line>You tell him all your problems, he's fuckin' awesome with listenin' (Haha)</line>
+    </verse>
 
-[Chorus]
-Uh, Wolf Haley, uh, Golf Wang
-Uh, Wolf Haley, Golf fuckin' Wang
+    <chorus vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
+        <line>Uh, Wolf Haley, uh, Golf Wang</line>
+        <line>Uh, Wolf Haley, Golf fuckin' Wang</line>
+    </chorus>
 
-[Verse 2]
-Jesus called, he said he's sick of the disses
-I told him to quit bitchin', this isn't a fuckin' hotline
-For a fuckin' shrink, sheesh, I already got mine
-And he's not fuckin' workin', I think I'm wastin' my damn time
-I'm clockin' three past six and goin' postal
-This the revenge of the dicks, that's nine cocks that cock 9's
-This ain't no V. Tech shit, or Columbine
-But after bowling, I went home for some damn Adventure Time
-(What'd you do?) I slipped myself some pink Xannies (Yeah)
-And danced around the house in all-over print panties
-My mom's gone, that fuckin' broad will never understand me
-I'm not gay, I just wanna boogie to some Marvin
-(What you think of Hayley Williams?)
-Fuck her, Wolf Haley robbin' them
-I'll crash that fuckin' airplane that that faggot nigga B.o.B is in
-And stab Bruno Mars in his goddamn esophagus
-And won't stop until the cops come in
-I'm an overachiever, so how about I start a team of leaders
-And pick up Stevie Wonder to be the wide receiver? (Cool)
-Green paper, gold teeth, and pregnant golden retrievers
-All I want, fuck money, diamonds, and bitches, don't need 'em
-But where the fat ones at? I got somethin' to feed 'em
-It's some cooking books, the black kids never wanted to read 'em
-Snap back, green ch-ch-chia fuckin' leaves
-It's been a couple months
-And Tina still ain't perm her fuckin' weave
-Damn
-[Chorus]
-Uh, Wolf Haley, uh, Golf Wang
-Uh, Wolf Haley, Golf Wang, yeah
-Goddamn goblin
-Wolf Haley, uh, Golf Wang
-Uh, Wolf Haley, Golf Wang, yeah
-
-[Verse 3]
-They say success is the best revenge
-So I beat DeShay up with the stack of magazines I'm in
-Oh, not again, another critic writing report
-I'm stabbin' any bloggin' faggot hipster with a pitchfork
-Still suicidal, I am
-I'm Wolf, Tyler put this fuckin' knife in my hand
-I'm Wolf, Ace gon' put that fuckin' hole in my head
-And I'm Wolf, that was me who shoved a cock in your bitch
-(What the fuck, man?) Fuck the fame and all the hype, G
-I just wanna know if my father would ever like me
-But I don't give a fuck, so he's probably just like me
-A motherfuckin' goblin
-(Fuck everything, man) That's what my conscience said
-Then it bunny-hopped off my shoulder, now my conscience dead
-Now the only guidance that I had is splattered on cement
-Actions speak louder than words, let me try this shit
-Dead
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
+        <line>Jesus called, he said he's sick of the disses</line>
+        <line>I told him to quit bitchin', this isn't a fuckin' hotline</line>
+        <line>For a fuckin' shrink, sheesh, I already got mine</line>
+        <line>And he's not fuckin' workin', I think I'm wastin' my damn time</line>
+        <topic type="violence"><line>I'm clockin' three past six and goin' postal</line></topic>
+        <topic type="violence"><line>This the revenge of the dicks, that's nine cocks that cock 9's</line></topic>
+        <topic type="violence"><line>This ain't no V. Tech shit, or Columbine</line></topic>
+        <line>But after bowling, I went home for some damn Adventure Time</line>
+        <line>(What'd you do?) I slipped myself some pink Xannies (Yeah)</line>
+        <line>And danced around the house in all-over print panties</line>
+        <line>My mom's gone, that fuckin' broad will never understand me</line>
+        <line>I'm not gay, I just wanna boogie to some Marvin</line>
+        <line>(What you think of Hayley Williams?)</line>
+        <topic type="violence"><line>Fuck her, Wolf Haley robbin' them</line></topic>
+        <topic type="violence"><line>I'll crash that fuckin' airplane that that faggot nigga B.o.B is in</line></topic>
+        <topic type="violence"><line>And stab Bruno Mars in his goddamn esophagus</line>
+        <line>And won't stop until the cops come in</line></topic>
+        <line>I'm an overachiever, so how about I start a team of leaders</line>
+        <line>And pick up Stevie Wonder to be the wide receiver? (Cool)</line>
+        <topic type="wealth"><line>Green paper, gold teeth, and pregnant golden retrievers</line></topic>
+        <line>All I want, fuck money, diamonds, and bitches, don't need 'em</line>
+        <line>But where the fat ones at? I got somethin' to feed 'em</line>
+        <line>It's some cooking books, the black kids never wanted to read 'em</line>
+        <line>Snap back, green ch-ch-chia fuckin' leaves</line>
+        <line>It's been a couple months</line>
+        <line>And Tina still ain't perm her fuckin' weave</line>
+        <line>Damn</line>
+    </verse>
+    <chorus vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
+        <line>Uh, Wolf Haley, uh, Golf Wang</line>
+        <line>Uh, Wolf Haley, Golf Wang, yeah</line>
+        <line>Goddamn goblin</line>
+        <line>Wolf Haley, uh, Golf Wang</line>
+        <line>Uh, Wolf Haley, Golf Wang, yeah</line>
+    </chorus>
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
+        <line>They say success is the best revenge</line>
+        <topic type="violence"><line>So I beat DeShay up with the stack of magazines I'm in</line></topic>
+        <line>Oh, not again, another critic writing report</line>
+        <topic type="violence"><line>I'm stabbin' any bloggin' faggot hipster with a pitchfork</line></topic>
+        <topic type="death"><line>Still suicidal, I am</line></topic>
+        <topic type="violence"><line>I'm Wolf, Tyler put this fuckin' knife in my hand</line></topic>
+        <topic type="violence"><line>I'm Wolf, Ace gon' put that fuckin' hole in my head</line></topic>
+        <line>And I'm Wolf, that was me who shoved a cock in your bitch</line>
+        <line>(What the fuck, man?) Fuck the fame and all the hype, G</line>
+        <line>I just wanna know if my father would ever like me</line>
+        <line>But I don't give a fuck, so he's probably just like me</line>
+        <line>A motherfuckin' goblin</line>
+        <line>(Fuck everything, man) That's what my conscience said</line>
+        <line>Then it bunny-hopped off my shoulder, now my conscience dead</line>
+        <topic type="violence"><line>Now the only guidance that I had is splattered on cement</line></topic>
+        <line>Actions speak louder than words, let me try this shit</line>
+        <line>Dead</line>
+    </verse>
+</song>

@@ -1,84 +1,94 @@
-[Intro]
-Duh-duh-duh, duh, duh, duh
-As he falls back deeper, into a state
-The return (Dot Da Genius, baby)
-(Daytrip took it to ten, hey)
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Kid Cudi</artist>
+        <year>2020</year>
+        <title>Tequila Shots</title>
+        <featuredArtist></featuredArtist>
+        <album>Man on the Moon III: The Chosen</album>
+    </metadata>
+    <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
+        <line>Duh-duh-duh, duh, duh, duh</line>
+        <line>As he falls back deeper, into a state</line>
+        <line>The return (Dot Da Genius, baby)</line>
+        <line>(Daytrip took it to ten, hey)</line>
+    </intro>
 
-[Verse 1]
-Nights my mind is speedin' by, I'm holdin' on
-Askin' God to help 'em, are you hearin' me?
-Girl is tellin' me she don't know what she want
-Lotta demons creepin' up, they're livin' underneath
-Gotta take a minute, y'all, traveled far
-Feelin' somethin', no, I can't ignore my instincts
-Back just where I started, it's the same old damaged song
-It's the shit I need
+    <verse vocals="kid_cudi" mood="sad" tone="negative">
+        <line>Nights my mind is speedin' by, I'm holdin' on</line>
+        <line>Askin' God to help 'em, are you hearin' me?</line>
+        <line>Girl is tellin' me she don't know what she want</line>
+        <line>Lotta demons creepin' up, they're livin' underneath</line>
+        <line>Gotta take a minute, y'all, traveled far</line>
+        <line>Feelin' somethin', no, I can't ignore my instincts</line>
+        <line>Back just where I started, it's the same old damaged song</line>
+        <line>It's the shit I need</line>
+    </verse>
 
-[Pre-Chorus]
-Tryna find it on the right track
-Oh, wanna be just where the free at
-Hm, talk to Him, He don't speak back
-Hm, can't losе, I'm in the third act
-Lord seein' me swervе
-Do this to my loved ones, I've got some nerve
-Don't think I'm not sorry
+    <chorus vocals="kid_cudi" mood="sad" tone="negative">
+        <line>Tryna find it on the right track</line>
+        <line>Oh, wanna be just where the free at</line>
+        <line>Hm, talk to Him, He don't speak back</line>
+        <line>Hm, can't losе, I'm in the third act</line>
+        <line>Lord seein' me swervе</line>
+        <line>Do this to my loved ones, I've got some nerve</line>
+        <line>Don't think I'm not sorry</line>
 
-[Chorus]
-Hm, hear me now, hey
-This time I'm ready for it
-Can't stop this war in me
-Can't stop this war in me, in me, in me
-Hm, hear me now, hey
-This time I'm ready for it
-This fight, this war in me
-This fight, this war in me, in me, in me
-[Post-Chorus]
-Hm, I been here before
-Hm, hm, I been here before, hm
-Can't stop this war in me
-Can't stop this war in me, in me, in me
-As the story goes, hey, hey
-As the story goes, hm
-This fight, this war in me
-This fight, this war in me, in me, in me
+        <line>Hm, hear me now, hey</line>
+        <line>This time I'm ready for it</line>
+        <line>Can't stop this war in me</line>
+        <line>Can't stop this war in me, in me, in me</line>
+        <line>Hm, hear me now, hey</line>
+        <line>This time I'm ready for it</line>
+        <line>This fight, this war in me</line>
+        <line>This fight, this war in me, in me, in me</line>
 
-[Verse 2]
-(Yeah) Standin' on the cliff right off Mulholland Drive
-(Yeah) Back up on my late night session remedy
-(Oh) Something 'bout the night that keep me safe and warm
-Just me, the universe, and everything I think
-Lotta shit is weighin' on me, it's a storm
-Never thought I would be back here bleeding
-I'm not just some sad dude
-You can see my life, how I grew, I want serenity
+        <line>Hm, I been here before</line>
+        <line>Hm, hm, I been here before, hm</line>
+        <line>Can't stop this war in me</line>
+        <line>Can't stop this war in me, in me, in me</line>
+        <line>As the story goes, hey, hey</line>
+        <line>As the story goes, hm</line>
+        <line>This fight, this war in me</line>
+        <line>This fight, this war in me, in me, in me</line>
+    </chorus>
 
-[Pre-Chorus]
-Tryna find it on the right track
-Oh, wanna be just where the free at
-Talk to Him, He don't speak back
-Hm, can't lose, I'm in the third act
-See, it seems I'll never learn
-I won't stop 'til I crash and burn
-Tell my mom I'm sorry
-[Chorus]
-Hm, hear me now, hey
-This time I'm ready for it
-Can't stop this war in me
-Can't stop this war in me, in me, in me
-Hm, hear me now, hey
-This time I'm ready for it
-This fight, this war in me
-This fight, this war in me, in me, in me
+    <verse vocals="kid_cudi" mood="sad" tone="neutral">
+        <line>(Yeah) Standin' on the cliff right off Mulholland Drive</line>
+        <line>(Yeah) Back up on my late night session remedy</line>
+        <line>(Oh) Something 'bout the night that keep me safe and warm</line>
+        <line>Just me, the universe, and everything I think</line>
+        <line>Lotta shit is weighin' on me, it's a storm</line>
+        <line>Never thought I would be back here bleeding</line>
+        <line>I'm not just some sad dude</line>
+        <line>You can see my life, how I grew, I want serenity</line>
+    </verse>
 
-[Post-Chorus]
-I been here before, hey, hey
-I been here before, hm
-Can't stop this war in me
-Can't stop this war in me, in me, in me
-And the story goes, hey, hey
-As the story goes, hm
-This fight, this war in me
-This fight, this war in me, in me, in me
+    <chorus vocals="kid_cudi" mood="sad" tone="negative">
+        <line>Tryna find it on the right track</line>
+        <line>Oh, wanna be just where the free at</line>
+        <line>Talk to Him, He don't speak back</line>
+        <line>Hm, can't lose, I'm in the third act</line>
+        <line>See, it seems I'll never learn</line>
+        <line>I won't stop 'til I crash and burn</line>
+        <line>Tell my mom I'm sorry</line>
 
+        <line>Hm, hear me now, hey</line>
+        <line>This time I'm ready for it</line>
+        <line>Can't stop this war in me</line>
+        <line>Can't stop this war in me, in me, in me</line>
+        <line>Hm, hear me now, hey</line>
+        <line>This time I'm ready for it</line>
+        <line>This fight, this war in me</line>
+        <line>This fight, this war in me, in me, in me</line>
 
-
+        <line>I been here before, hey, hey</line>
+        <line>I been here before, hm</line>
+        <line>Can't stop this war in me</line>
+        <line>Can't stop this war in me, in me, in me</line>
+        <line>And the story goes, hey, hey</line>
+        <line>As the story goes, hm</line>
+        <line>This fight, this war in me</line>
+        <line>This fight, this war in me, in me, in me</line>
+    </chorus>
+</song>
