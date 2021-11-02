@@ -7,7 +7,7 @@
         <featuredArtist/>
         <album>The College Dropout</album>
     </metadata>
-    <intro vocals="?" mood="" tone="">
+    <intro vocals="?" mood="null" tone="null">
         <line>How's your son? <background>All the things</background></line>
         <line>He made the team this year? <background>All, all, all the things
             things</background></line>

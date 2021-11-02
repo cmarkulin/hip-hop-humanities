@@ -9,7 +9,7 @@
         <featuredArtist>Ludacris</featuredArtist>
         <album>The College Dropout</album>
     </metadata>
-    <chorus vocals="Ludacris" mood="" tone="">
+    <chorus vocals="Ludacris" mood="null" tone="null">
         <line>Yeah! Breathe in, breathe out</line>
         <line>If you're iced up, pull your sleeves out</line>
         <line>Push a big truck, pull your keys out</line>
@@ -45,7 +45,7 @@
         <line>Sing along with me, y'all</line>
     </verse>
 
-    <chorus vocals="Ludacris" mood="" tone="">
+    <chorus vocals="Ludacris" mood="null" tone="null">
         <line>Yeah! Breathe in, breathe out <background>Ugh</background></line>
         <line>If you're iced up, pull your sleeves out</line>
         <line>Push a big truck, pull your keys out</line>
@@ -75,7 +75,7 @@
         <line>While he tricking off, don't get no rich nigga</line>
         <line>Give me some head—that'll really piss him off</line>
     </verse>
-    <chorus vocals="Ludacris" mood="" tone="">
+    <chorus vocals="Ludacris" mood="null" tone="null">
         <line>Yeah! Breathe in, breathe out</line>
         <line>If you're iced up, pull your sleeves out</line>
         <line>Push a big truck, pull your keys out</line>
@@ -108,7 +108,7 @@
         <line>But if you don't need a fix, girl, you gotta leave</line>
         <line>You can't take that all at one time—you gotta breathe!</line>
     </verse>
-    <chorus vocals="Ludacris" mood="" tone="">
+    <chorus vocals="Ludacris" mood="null" tone="null">
         <line>Yeah! Breathe in, breathe out</line>
         <line>If you're iced up, pull your sleeves out</line>
         <line>Push a big truck, pull your keys out</line>

@@ -7,153 +7,214 @@
         <featuredArtist>Jay Electronica</featuredArtist>
         <album>Donda</album>
     </metadata>
-<chorus vocals="Kanye West" mood="gloomy" tone="negative">
-<topic type="religion"><line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>Now we've been through a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>He lives in a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>Been through a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line></topic>
-</chorus>
-<verse vocals="Kanye West" mood="gloomy" tone="negative">
-<line>Sittin' by myself, I'm just thinkin'</line>
-<line>About all I've been through, I wish I was dreamin'</line>
-<line>Man, it's hard to be an angel when you surrounded by demons <background>Jesus</background></line>
-<line>I watched so many people leave <background>Lord</background></line>
-<line>I see 'em change by the season, that's mama's sеasonin'</line>
-<line>God got you, the devil's watchin', he just peekin' in</line>
-<line>I know I madе a promise that I'd never let the reaper in <background>Jesus</background></line>
-<line>But lately, I've been losin' all my deepest friends <background>Lord</background></line>
-<line>And lately, I've been swimmin' on the deepest end</line>
-<topic type="drugs"><line>It's just drugs, it ain't no hugs, it ain't no love there</line></topic>
-<line>You been down so much you don't even know what's upstairs <background>Jesus</background></line>
-<line>Suicidal thoughts got you wonderin' what's up there <background>Lord</background></line>
-<line>And while I introduce the party, you say it's up there</line>
-<line>Too many pills, so much potions, so much pain, too many emotions</line>
-<line>And everything that you do good, it just go unnoticed <background>Jesus</background></line>
-<line>Did He tell you that you good and just stay focused? <background>Lord</background></line>
-<topic type="death"><line>Mama, you was the life of the party</line>
-<line>I swear you brought life to the party</line>
-<line>When you lost your life, it took the life out the party <background>Jesus</background></line></topic>
-<line>That woman rode with me like a Harley <background>Lord</background></line>
-<line>Visions of my cousins in a cell really scarred me</line>
-<line>Movin' to the hood was like signin' up for the army</line>
-<line>'Cause they been killin' **** since **** was watchin' Barney <background>Jesus</background></line>
-<line>You want dreams to come true? But I have nightmares <background>Lord</background></line>
-<line>'Cause if that come to life, then I might not be right here</line>
-<line>Been in the dark so long, don't know if the light here</line>
-<line>But I'm just reaching for the stars like Buzz Lightyear <background>Jesus</background></line>
-<line>And now I'm lightyears ahead of those nightmares <background>Lord</background></line>
-<line>I deaded those night terrors when the night clears</line>
-<topic type="death"><line>And if I talk to Christ, can I bring my mother back to life?</line>
-<line>And if I die tonight, will I see her in the afterlife? <background>Jesus</background></line>
-<line>But back to reality, where everything's a tragedy <background>Lord</background></line>
-<line>You better have a strategy or you could be a statistic</line>
-<line>Little boy dies, he's just one of the mystic</line></topic>
-<line>And mama steady crying 'cause she really the victim <background>Jesus</background></line>
-<topic type="drugs"><line>And she's getting high and she's getting addicted <background>Lord</background></line></topic>
-<line>And her older boy just stuck with the picture, painted vivid</line>
-<line>That's a family portrait, and her daughter just absorbed it</line>
-<line>Sixteen, pregnant, baby daddy say she should abort it <background>Jesus</background></line>
-<line>But we can't afford it, so she decides to move forward <background>Lord</background></line>
-<line>Baby shower time, father didn't show up</line>
-<line>Now she just feeling nauseous like she finna throw up</line>
-<line>The water flows down her legs, yeah, it's finna go up <background>Jesus</background></line>
-<line>A year done went by, her daughter just turned one <background>Lord</background></line>
-<line>And she's still dependent on her mom</line>
-<line>Big brother in the streets, he went and bought him a gun</line>
-<line>He want revenge 'cause the pain, feelin' numb <background>Jesus</background></line>
-<topic type="drugs"><line>And her mom still doing drugs 'cause that's the only time she feel loved <background>Lord</background></line></topic>
-<line>Is it real love? Do the scars really heal up?</line>
-<line>From all the pain that done built up, but they don't feel us <background>Jesus</background></line>
-<line>A week done flew by, big bro ridin' then he see the guys <background>Lord</background></line>
-<topic type="death"><line>Left his little brother on the side, bleeding from the side</line>
-<line>He seein' red, it's like he's bleeding through his eyes</line>
-<line>To see him dead, the only thing that'll help the grieving up inside <background>Jesus</background></line>
-<line>Even let him get the last meal</line>
-<line>He done with the streets after this, this his last kill <background>Lord</background></line>
-<line>He gotta show him that it's that real</line>
-<line>He ran up on him with the pipe like, "****, stand still" <background>Jesus</background></line>
-<line>"You took my brother life, you made my mother cry" <background>Lord</background></line>
-<line>"Tell me one reason I shouldn't send you up to Christ"</line>
-<line>He said, "Go 'head, take my life, I've seen everything but Christ"</line>
-<line>Then big bro just blacked out and all you seen was the light <background>Jesus, Lord</background></line></topic>
-</verse>
-<chorus vocals="Kanye West" mood="empathetic" tone="neutral">
-<topic type="religion"><line>Tell me if you know someone that needs <background>Jesus, Lord</background></line></topic>
-</chorus>
-<verse vocals="Jay Electronica" mood="" tone="">
-<line>Uh-huh, in the name of the true and living God, the beneficent, the merciful <background>Hallelujah</background></line>
-<line>Thank you for bringing me up the rough side of the mountain like Ertuğrul <background>Jesus</background></line>
-<line>Every knee bowed and every tongue confessed and paid homage <background>Lord</background></line>
-<line>To the monk who visited Rothschilds like Thelonious did Pannonica <background>Shoo</background></line>
-<line>It's Jay Elec-entendre-nica comin' through your monitor</line>
-<line>Back from the great beyond like the Son of Man or the Son of Donda? <background>Jesus</background></line>
-<line>I never rolled the GSXR or the R6 or the Honda <background>Lord</background></line>
-<line>But I flew my Ducati through North America like Wakanda</line>
-<line>Earthquakes will strike this nation for what Bush did to Rwanda <background>Facts</background></line>
-<line>What the Clintons did to Haiti and Downing Street did to Ghana <background>Jesus</background></line>
-<line>In Tepoztlán, they call me Terremoto, El Negro Loco <background>Lord</background></line>
-<line>I shake the tectonic plates of the game if I lay one vocal</line>
-<line>The God is interstellar while you fellas remain local</line>
-<line>My bars is like the pyramid temples of Pacal Votan <background>Jesus</background></line>
-<line>As sure as the DOJ confirmed Ezekiel's Wheel <background>Lord</background></line>
-<line>I could change the world like Yacub with two pieces of steel</line>
-<line>My sword and my microphone, I swore to the Christ's throne</line>
-<line>But when you great, they wanna say you took a L, José Castillo <background>Jesus</background></line>
-<line>I'm in the fight here, fight here for what seemed like lightyears <background>Lord</background></line>
-<line>My rugged cross and thorny crowns squeeze out Christ tears</line>
-<line>Thirty pieces of silver clout, my Pierre price tier</line>
-<line>It's a war outside, it's a war outside <background>Jesus</background></line>
-<line>It's like the last days of Sodom and Gomorrah outside <background>Lord</background></line>
-</verse>
-<chorus vocals="Kanye West" mood="gloomy" tone="negative">
-<topic type="religion"><line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>Now we've been through a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>He lives in a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
-<line>Been through a lot of things</line>
-<line>Tell me if you know someone that needs <background>Jesus, Lord</background></line></topic>
-</chorus>
-<outro vocals="Larry Hoover Jr." mood="" tone="">
-<line>What up, Ye? This Larry Hoover Jr</line>
-<line>First and foremost, I wanna thank you for taking the fight for my father to the Oval Office</line>
-<line>You might not have been the only one that could've did that</line>
-<line>But you were the one that did do that</line>
-<line>And with your assistance, we can continue to let the world take part in this fight</line>
-<line>You know, to me, it kinda feels like</line>
-<line>Me, my mother, my brothers, and my kids</line>
-<line>Have all been incarcerated through this journey</line>
-<line>And we haven't even been to jail</line>
-<line>We have been looked at and treated as criminals</line>
-<line>For being a part of this family</line>
-<line>My father's truth and the reality that he raised me in</line>
-<line>Is that he wanted to make a change in this community <background>Tell me if you know someone that needs</background></line>
-<line>'Cause the conditions in this capitalist society is what made him</line>
-<line>And it is what made the children of today</line>
-<line>After twenty-five years of bein' locked down, twenty-three and one</line>
-<line>My father has not called any shots from one of the most secure and segregated prisons in the world</line>
-<line>And will not, once released, call any shots for the Gangster Disciples</line>
-<line>If my father's intentions were to lead us to death, destruction</line>
-<line>Into the Hell that he has had to live in for the past twenty-six years</line>
-<line>Man, he would be dead to me</line>
-<line>I didn't sign up for that</line>
-<line>I didn't stay on this journey this long for that</line>
-<line>All my life, man</line>
-<line>I've been waitin' for my father to come home</line>
-<line>They told me when I graduate eighth grade, he would be home</line>
-<line>Then they told me when I graduate from high school, he would be home</line>
-<line>I went away to Morris Brown, I graduated and he still ain't home</line>
-<line>Now I'm a adult, and my daughter went away to college and graduated</line>
-<line>He still not home</line>
-<line>Now even more than that, my son, he graduated eighth grade and we still waitin'</line>
-<line>Matter of fact, he hasn't hugged, kissed, or touched any of his grandchildren</line>
-<line>And they haven't been able to touch they grandfather</line>
-<line>Even though it is not seen that way for some of us</line>
-<line>But for many of us, Larry Hoover is a beacon of hope for his community</line>
-<line>Who deserves to breathe free air</line>
-<line>Free my father <background>Jesus</background>, Mr. Larry Hoover Sr. <background>Lord</background></line>
-</outro>
+    <chorus vocals="Kanye West" mood="sad" tone="negative">
+        <topic type="religion">
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>Now we've been through a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>He lives in a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>Been through a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+        </topic>
+    </chorus>
+    <verse vocals="Kanye West" mood="sad" tone="negative">
+        <line>Sittin' by myself, I'm just thinkin'</line>
+        <line>About all I've been through, I wish I was dreamin'</line>
+        <line>Man, it's hard to be an angel when you surrounded by demons
+                <background>Jesus</background></line>
+        <line>I watched so many people leave <background>Lord</background></line>
+        <line>I see 'em change by the season, that's mama's sеasonin'</line>
+        <line>God got you, the devil's watchin', he just peekin' in</line>
+        <line>I know I madе a promise that I'd never let the reaper in
+                <background>Jesus</background></line>
+        <line>But lately, I've been losin' all my deepest friends
+            <background>Lord</background></line>
+        <line>And lately, I've been swimmin' on the deepest end</line>
+        <topic type="drugs">
+            <line>It's just drugs, it ain't no hugs, it ain't no love there</line>
+        </topic>
+        <line>You been down so much you don't even know what's upstairs
+                <background>Jesus</background></line>
+        <line>Suicidal thoughts got you wonderin' what's up there
+            <background>Lord</background></line>
+        <line>And while I introduce the party, you say it's up there</line>
+        <line>Too many pills, so much potions, so much pain, too many emotions</line>
+        <line>And everything that you do good, it just go unnoticed
+            <background>Jesus</background></line>
+        <line>Did He tell you that you good and just stay focused?
+            <background>Lord</background></line>
+        <topic type="death">
+            <line>Mama, you was the life of the party</line>
+            <line>I swear you brought life to the party</line>
+            <line>When you lost your life, it took the life out the party
+                    <background>Jesus</background></line>
+        </topic>
+        <line>That woman rode with me like a Harley <background>Lord</background></line>
+        <line>Visions of my cousins in a cell really scarred me</line>
+        <line>Movin' to the hood was like signin' up for the army</line>
+        <line>'Cause they been killin' **** since **** was watchin' Barney
+                <background>Jesus</background></line>
+        <line>You want dreams to come true? But I have nightmares
+            <background>Lord</background></line>
+        <line>'Cause if that come to life, then I might not be right here</line>
+        <line>Been in the dark so long, don't know if the light here</line>
+        <line>But I'm just reaching for the stars like Buzz Lightyear
+            <background>Jesus</background></line>
+        <line>And now I'm lightyears ahead of those nightmares <background>Lord</background></line>
+        <line>I deaded those night terrors when the night clears</line>
+        <topic type="death">
+            <line>And if I talk to Christ, can I bring my mother back to life?</line>
+            <line>And if I die tonight, will I see her in the afterlife?
+                    <background>Jesus</background></line>
+            <line>But back to reality, where everything's a tragedy
+                <background>Lord</background></line>
+            <line>You better have a strategy or you could be a statistic</line>
+            <line>Little boy dies, he's just one of the mystic</line>
+        </topic>
+        <line>And mama steady crying 'cause she really the victim
+            <background>Jesus</background></line>
+        <topic type="drugs">
+            <line>And she's getting high and she's getting addicted
+                <background>Lord</background></line>
+        </topic>
+        <line>And her older boy just stuck with the picture, painted vivid</line>
+        <line>That's a family portrait, and her daughter just absorbed it</line>
+        <line>Sixteen, pregnant, baby daddy say she should abort it
+            <background>Jesus</background></line>
+        <line>But we can't afford it, so she decides to move forward
+            <background>Lord</background></line>
+        <line>Baby shower time, father didn't show up</line>
+        <line>Now she just feeling nauseous like she finna throw up</line>
+        <line>The water flows down her legs, yeah, it's finna go up
+            <background>Jesus</background></line>
+        <line>A year done went by, her daughter just turned one <background>Lord</background></line>
+        <line>And she's still dependent on her mom</line>
+        <line>Big brother in the streets, he went and bought him a gun</line>
+        <line>He want revenge 'cause the pain, feelin' numb <background>Jesus</background></line>
+        <topic type="drugs">
+            <line>And her mom still doing drugs 'cause that's the only time she feel loved
+                    <background>Lord</background></line>
+        </topic>
+        <line>Is it real love? Do the scars really heal up?</line>
+        <line>From all the pain that done built up, but they don't feel us
+                <background>Jesus</background></line>
+        <line>A week done flew by, big bro ridin' then he see the guys
+            <background>Lord</background></line>
+        <topic type="death">
+            <line>Left his little brother on the side, bleeding from the side</line>
+            <line>He seein' red, it's like he's bleeding through his eyes</line>
+            <line>To see him dead, the only thing that'll help the grieving up inside
+                    <background>Jesus</background></line>
+            <line>Even let him get the last meal</line>
+            <line>He done with the streets after this, this his last kill
+                    <background>Lord</background></line>
+            <line>He gotta show him that it's that real</line>
+            <line>He ran up on him with the pipe like, "****, stand still"
+                    <background>Jesus</background></line>
+            <line>"You took my brother life, you made my mother cry"
+                <background>Lord</background></line>
+            <line>"Tell me one reason I shouldn't send you up to Christ"</line>
+            <line>He said, "Go 'head, take my life, I've seen everything but Christ"</line>
+            <line>Then big bro just blacked out and all you seen was the light <background>Jesus,
+                    Lord</background></line>
+        </topic>
+    </verse>
+    <chorus vocals="Kanye West" mood="empathetic" tone="neutral">
+        <topic type="religion">
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+        </topic>
+    </chorus>
+    <verse vocals="Jay Electronica" mood="null" tone="null">
+        <line>Uh-huh, in the name of the true and living God, the beneficent, the merciful
+                <background>Hallelujah</background></line>
+        <line>Thank you for bringing me up the rough side of the mountain like Ertuğrul
+                <background>Jesus</background></line>
+        <line>Every knee bowed and every tongue confessed and paid homage
+                <background>Lord</background></line>
+        <line>To the monk who visited Rothschilds like Thelonious did Pannonica
+                <background>Shoo</background></line>
+        <line>It's Jay Elec-entendre-nica comin' through your monitor</line>
+        <line>Back from the great beyond like the Son of Man or the Son of Donda?
+                <background>Jesus</background></line>
+        <line>I never rolled the GSXR or the R6 or the Honda <background>Lord</background></line>
+        <line>But I flew my Ducati through North America like Wakanda</line>
+        <line>Earthquakes will strike this nation for what Bush did to Rwanda
+                <background>Facts</background></line>
+        <line>What the Clintons did to Haiti and Downing Street did to Ghana
+                <background>Jesus</background></line>
+        <line>In Tepoztlán, they call me Terremoto, El Negro Loco
+            <background>Lord</background></line>
+        <line>I shake the tectonic plates of the game if I lay one vocal</line>
+        <line>The God is interstellar while you fellas remain local</line>
+        <line>My bars is like the pyramid temples of Pacal Votan
+            <background>Jesus</background></line>
+        <line>As sure as the DOJ confirmed Ezekiel's Wheel <background>Lord</background></line>
+        <line>I could change the world like Yacub with two pieces of steel</line>
+        <line>My sword and my microphone, I swore to the Christ's throne</line>
+        <line>But when you great, they wanna say you took a L, José Castillo
+                <background>Jesus</background></line>
+        <line>I'm in the fight here, fight here for what seemed like lightyears
+                <background>Lord</background></line>
+        <line>My rugged cross and thorny crowns squeeze out Christ tears</line>
+        <line>Thirty pieces of silver clout, my Pierre price tier</line>
+        <line>It's a war outside, it's a war outside <background>Jesus</background></line>
+        <line>It's like the last days of Sodom and Gomorrah outside
+            <background>Lord</background></line>
+    </verse>
+    <chorus vocals="Kanye West" mood="sad" tone="negative">
+        <topic type="religion">
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>Now we've been through a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>He lives in a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+            <line>Been through a lot of things</line>
+            <line>Tell me if you know someone that needs <background>Jesus, Lord</background></line>
+        </topic>
+    </chorus>
+    <outro vocals="Larry Hoover Jr." mood="null" tone="null">
+        <line>What up, Ye? This Larry Hoover Jr</line>
+        <line>First and foremost, I wanna thank you for taking the fight for my father to the Oval
+            Office</line>
+        <line>You might not have been the only one that could've did that</line>
+        <line>But you were the one that did do that</line>
+        <line>And with your assistance, we can continue to let the world take part in this
+            fight</line>
+        <line>You know, to me, it kinda feels like</line>
+        <line>Me, my mother, my brothers, and my kids</line>
+        <line>Have all been incarcerated through this journey</line>
+        <line>And we haven't even been to jail</line>
+        <line>We have been looked at and treated as criminals</line>
+        <line>For being a part of this family</line>
+        <line>My father's truth and the reality that he raised me in</line>
+        <line>Is that he wanted to make a change in this community <background>Tell me if you know
+                someone that needs</background></line>
+        <line>'Cause the conditions in this capitalist society is what made him</line>
+        <line>And it is what made the children of today</line>
+        <line>After twenty-five years of bein' locked down, twenty-three and one</line>
+        <line>My father has not called any shots from one of the most secure and segregated prisons
+            in the world</line>
+        <line>And will not, once released, call any shots for the Gangster Disciples</line>
+        <line>If my father's intentions were to lead us to death, destruction</line>
+        <line>Into the Hell that he has had to live in for the past twenty-six years</line>
+        <line>Man, he would be dead to me</line>
+        <line>I didn't sign up for that</line>
+        <line>I didn't stay on this journey this long for that</line>
+        <line>All my life, man</line>
+        <line>I've been waitin' for my father to come home</line>
+        <line>They told me when I graduate eighth grade, he would be home</line>
+        <line>Then they told me when I graduate from high school, he would be home</line>
+        <line>I went away to Morris Brown, I graduated and he still ain't home</line>
+        <line>Now I'm a adult, and my daughter went away to college and graduated</line>
+        <line>He still not home</line>
+        <line>Now even more than that, my son, he graduated eighth grade and we still waitin'</line>
+        <line>Matter of fact, he hasn't hugged, kissed, or touched any of his grandchildren</line>
+        <line>And they haven't been able to touch they grandfather</line>
+        <line>Even though it is not seen that way for some of us</line>
+        <line>But for many of us, Larry Hoover is a beacon of hope for his community</line>
+        <line>Who deserves to breathe free air</line>
+        <line>Free my father <background>Jesus</background>, Mr. Larry Hoover Sr.
+                <background>Lord</background></line>
+    </outro>
 </song>
