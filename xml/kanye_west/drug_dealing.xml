@@ -7,7 +7,7 @@
         <featuredArtist></featuredArtist>
         <album>The College Dropout</album>
     </metadata>
-    <intro vocals="Kanye West" mood="" tone="">
+    <intro vocals="Kanye West" mood="null" tone="null">
         <line>Oh, yeah</line>
         <line>I got the perfect song for the kids to sing</line>
         <line>And all my people that's—</line>
@@ -47,7 +47,7 @@
         <line>Throw your hands up in the sky and say</line>
         <line>"We don't care what people say"</line>
     </chorus>
-    <verse vocals="Kanye West" mood="" tone="">
+    <verse vocals="Kanye West" mood="null" tone="null">
         <topic type="money"><line>This second verse is for my dogs working nine to five that still hustle</line>
             <line>'Cause a nigga can't shine off $6.55</line>
             <line>And everybody selling makeup, Jacob's</line>

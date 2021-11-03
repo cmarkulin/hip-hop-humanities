@@ -39,7 +39,7 @@
 <line>Uh</line>
 </verse>
 
-<hook vocals="J_Cole" mood="sad" tone="negative">
+<verse vocals="J_Cole" mood="sad" tone="negative">
 <line>And I ain't too proud to tell you</line>
 <line>That I cry sometime, I cry sometimes about it</line>
 <line>And girl, I know it hurt, but if this world was perfect</line>
@@ -48,7 +48,7 @@
 <line>That I cry sometime, I cry sometimes about it</line>
 <line>And girl, I know it hurt, but if this world was perfect</line>
 <line>Then we could make it work, but I doubt it</line>
-</hook>
+</verse>
 
 <verse vocals="J_Cole" mood="angry" tone="negative">
 <line>She said: "Nigga, you got some nerve</line>
@@ -76,7 +76,7 @@
 <line>And here you go doin' the same shit… You ain't shit, nigga!"</line>
 </verse>
 
-<hook vocals="J_Cole" mood="sad" tone="negative">
+<verse vocals="J_Cole" mood="sad" tone="negative">
 <line>And I ain't too proud to tell you</line>
 <line>That I cry sometimes, I cry sometimes about it</line>
 <line>And boy, this shit hurts, and ain’t nobody perfect</line>
@@ -85,7 +85,7 @@
 <line>That I cry sometimes, I cry sometimes about it</line>
 <line>And boy, this shit hurts, and ain’t nobody perfect</line>
 <line>Still we can make it work, but you doubt it</line>
-</hook>
+</verse>
 
 <verse vocals="J_Cole" mood="anxious" tone="negative">
 <line>They say everything happens for a reason</line>
@@ -110,6 +110,7 @@
 <line>But what about your seed, nigga?</line>
 <line>But what about your seed, nigga?</line>
 <line>But what about your seed, nigga?</line>
+    </verse>
     
 <outro vocals="J_Cole" mood="sad" tone="negative">
 <line>And I ain't too proud to tell you</line>

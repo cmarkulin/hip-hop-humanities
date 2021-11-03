@@ -7,7 +7,7 @@
         <featuredArtist>Jay-Z J. Ivy</featuredArtist>
         <album>The College Dropout</album>
     </metadata>
-    <chorus vocals="?" mood="" tone="">
+    <chorus vocals="?" mood="null" tone="null">
         <line>When it comes to being true, at least true to me</line>
         <line>One thing I've found, one thing I found</line>
         <line>Oh no, you'll never let me down</line>
@@ -16,7 +16,7 @@
         <line>Get up, I get down, get up, I get down</line>
     </chorus>
 
-    <verse vocals="Jay-Z" mood="" tone="">
+    <verse vocals="Jay-Z" mood="null" tone="null">
         <line>Yo, first I snatched the streets, then I snatched the charts</line>
         <line>First I had they ear, now I have they heart</line>
         <line>Rappers came and went, I've been here from the start</line>
@@ -36,7 +36,7 @@
         <line>It's Hov tradition, Jeff Gordon of rap</line>
         <line>I'm back to claim pole position, holla at ya boy</line>
     </verse>
-    <chorus vocals="?" mood="" tone="">
+    <chorus vocals="?" mood="null" tone="null">
         <line>When it comes to being true, at least true to me</line>
         <line>One thing I've found, one thing I found</line>
         <line>Oh no, you'll never let me down</line>
@@ -52,7 +52,7 @@
         <line>Made her sit in that seat where white folks ain't want us to eat</line>
         <line>At the tender age of 6, she was arrested for the sit-ins</line>
         <line>And with that in my blood I was born to be different</line>
-        <topic type="social issues">
+        <topic type="social_issues">
             <line>Now niggas can't make it to ballots to choose leadership</line>
             <line>But we can make it to Jacob's and to the dealership</line>
             <line>That's why I hear new music and I just don't be feelin' it</line>
@@ -77,7 +77,7 @@
         <line>First Aaliyah now Romeo must die</line>
         <line>I know I got angels watching me from the other side</line>
     </verse>
-    <chorus vocals="?" mood="" tone="">
+    <chorus vocals="?" mood="null" tone="null">
         <line>When it comes to being true, at least true to me</line>
         <line>One thing I've found, one thing I found</line>
         <line>Oh no, you'll never let me down</line>
@@ -85,7 +85,7 @@
         <line>Get up, I get down, get up, I get down</line>
         <line>Get up, I get down, get up, I get down</line>
     </chorus>
-    <verse vocals="J. Ivy" mood="" tone="">
+    <verse vocals="J. Ivy" mood="null" tone="null">
         <line>We are all here for a reason on a particular path</line>
         <line>You don't need a curriculum to know that you're a part of the math</line>
         <line>Cats think I'm delirious but I'm so damn serious</line>
@@ -120,7 +120,7 @@
         <line>A touch of God reigns out</line>
         <line>Take 'em to church</line>
     </verse>
-    <chorus vocals="?" mood="" tone="">
+    <chorus vocals="?" mood="null" tone="null">
         <line>When it comes to being true, at least true to me</line>
         <line>One thing I found, one thing I found</line>
         <line>Oh no, you'll never let me down</line>
@@ -129,7 +129,7 @@
         <line>Get up, I get, get up, I get down</line>
     </chorus>
 
-    <verse vocals="Jay-Z" tone="" mood="">
+    <verse vocals="Jay-Z" tone="null" mood="null">
         <line>Who else you know been hot this long?</line>
         <line>(Oh yeah, we ain't finished)</line>
         <line>Started from nothing but he got this strong</line>

@@ -9,12 +9,12 @@
     </metadata>
 
 
-<skit vocals="Kendrick_Lamar" mood="sad" tone="negative">
+<verse vocals="Kendrick_Lamar" mood="sad" tone="negative">
 <topic type="money"><line>"Gina, baby, I don't have no money, I don't have no ends</line></topic>
 <line>Gina, I'm ass-out"</line>
 <line>"I'm going through something right now!"</line>
 <line>"I done told you that"</line>
-</skit>
+</verse>
 
 <intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
 <line>Oh, what up ho? Oh, what up?</line>
@@ -65,12 +65,12 @@
 <line>Pussy and Patrón, that's some great advice</line>
 </chorus>
 
-<skit vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<verse vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
 <line>"So what'd you rush me over here for?</line>
 <line>How was your day?</line>
 <line>Are you tipsy?"</line>
 <line>"Mhm!"</line>
-</skit>
+</verse>
 
 <bridge vocals="Kendrick_Lamar" mood="confident" tone="neutral">
 <line>All I need in this lifetime: Pussy and Patrón</line>
@@ -83,7 +83,7 @@
 <line>I'ma lay it down like a carpenter when you let me</line>
 </bridge>
 
-<refrain vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
+<verse vocals="Kendrick_Lamar" mood="apathetic" tone="negative">
 <line>Give me that funk</line>
 <line>That sweet, that nasty, that gushy stuff</line>
 <line>I can't get enough</line>
@@ -92,7 +92,7 @@
 <line>That sweet, that nasty, that gushy stuff</line>
 <line>I can't get enough</line>
 <line>If I offend you</line>
-</refrain>
+</verse>
     
 <verse vocals="Kendrick_Lamar" mood="sad" tone="negative">
 <line>Ugh, I wrote this song when Dave drove home</line>
@@ -121,7 +121,7 @@
 <line>Pussy and Patrón, that's some great advice</line>
 </chorus>
 
-<verse vocals="Ab_Soul" mood="sad" tone="negative">
+<verse vocals="Ab_Soul" mood="null" tone="null">
 <line>Okay, welcome to my diary—hmm, where should I begin?</line>
 <topic type="drugs"><line>Finna get a Swisher and fill it with at least a gram</line></topic>
 <line>Crackers watch my every step; man, I hate to work for them</line>

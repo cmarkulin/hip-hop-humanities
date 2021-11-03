@@ -60,7 +60,7 @@
 <line>See your smile just one more time</line>
 </chorus>
 
-<bridge vocals="Bas" mood="sad" tone="negative">
+<bridge vocals="Bas" mood="null" tone="null">
 <line>Soldier's song</line>
 <line>I could be one to lean on</line>
 <line>Time will right the wrongs</line>
@@ -77,7 +77,7 @@
 <line>Soldier's song</line>
 </bridge>
 
-<outro vocals="Diddy" mood="hopeful" tone="positive">
+<outro vocals="Diddy" mood="null" tone="null">
 <topic type="religion"><line>Lord, please guide our steps</line></topic>
 <line>Watch us, cover us</line>
 <line>So that every move we make is in alignment with Your will</line>

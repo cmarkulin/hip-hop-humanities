@@ -8,7 +8,7 @@
         <album>DAMN.</album>
     </metadata>
     
-<intro vocals="Bēkon Kid_Capri" mood="ambiguous" tone="neutral">
+<intro vocals="Bēkon Kid_Capri" mood="null" tone="null">
 <line>America</line>
 <line>God bless you if it's good to ya</line>
 <line>America, please take my hand</line>
@@ -59,12 +59,12 @@
 <line>Matter fact, I'm 'bout to speak at this convention, call you back—</line>
 </verse>
  
-<break vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<verse vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
 <line>Alright, kids, we're gonna talk about gun control</line>
 <line><background>Pray for me</background> Damn!</line>
-</break>
+</verse>
     
-<chorus vocals="Bono" mood="sad" tone="neutral">
+<chorus vocals="Bono" mood="null" tone="null">
 <line>It's not a place</line>
 <line>This country is to me a sound</line>
 <line>Of drum and bass</line>
@@ -90,7 +90,7 @@
 <line>America's reflections of me, that's what a mirror does</line>
 </verse>
 
-<chorus vocals="Bono" mood="sad" tone="neutral">
+<chorus vocals="Bono" mood="null" tone="null">
 <line>It's not a place</line>
 <line>This country is to me a sound</line>
 <line>Of drum and bass</line>

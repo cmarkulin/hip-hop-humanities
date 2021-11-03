@@ -28,12 +28,12 @@
 <line>Love me, just love me</line>
 </chorus>
 
-<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<verse vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
 <line>If I didn't ride blade on curb, would you still love me?</line>
 <line>If I made up my mind at work, would you still love me?</line>
 <line>Keep it a hundred, I’d rather you trust me than to love me</line>
 <line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
-</refrain>
+</verse>
 
 <verse vocals="Kendrick_Lamar" mood="energetic" tone="positive">
 <line>Ayy, I got somethin'</line>
@@ -52,12 +52,12 @@
 <line>This party won't end</line>
 </verse>
  
-<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<verse vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
 <line>If I didn’t ride blade on curb, would you still love me?</line>
 <line>If I minimized my net-worth, would you still love me?</line>
 <line>Keep it a hundred, I'd rather you trust me than to love me</line>
 <line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
-</refrain>
+</verse>
 
 <chorus vocals="Zacari Kendrick_Lamar" mood="confident" tone="positive">
 <topic type="money"><line>Give me a run for my money</line></topic>
@@ -96,12 +96,12 @@
 <line>I'm like a exit away, yep</line>
 </verse>
  
-<refrain vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
+<verse vocals="Zacari Kendrick_Lamar" mood="anxious" tone="negative">
 <line>If I didn't ride blade on curb, would you still love me?</line>
 <line>If I minimized my net-worth, would you still love me?</line>
 <line>Keep it a hundred, I'd rather you trust me than to love me</line>
 <line>Keep it a whole one hund', don't got you, I got nothin' <background>Uh, uh</background></line>
-</refrain>
+</verse>
 
 <chorus vocals="Zacari Kendrick_Lamar" mood="confident" tone="positive">
 <topic type="money"><line>Give me a run for my money</line></topic>

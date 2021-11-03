@@ -7,7 +7,7 @@
         <featuredArtist>Don Toliver Kid Cudi</featuredArtist>
         <album>Donda</album>
     </metadata>
-    <chorus vocals="Don Toliver" mood="" tone="">
+    <chorus vocals="Don Toliver" mood="null" tone="null">
         <line>I wanna go to the moon, don't leave so soon <background>Don't leave so
                 soon</background></line>
         <line>How could I get through? <background>How could I get through?</background></line>
@@ -19,7 +19,7 @@
         <line>How could I get through? <background>How could I get through?</background></line>
     </chorus>
 
-    <verse vocals="Kid Cudi" mood="" tone="">
+    <verse vocals="Kid Cudi" mood="null" tone="null">
         <line>Mhm, here we go strappin', we up</line>
         <line>Never forget all the memories</line>
         <line>Sittin', I sip out my cup</line>
@@ -51,7 +51,7 @@
         <line>Don't leave so soon <background>Don't leave so soon</background></line>
         <line>How could I get through? <background>How could I get through?</background></line>
     </chorus>
-    <outro vocals="Kid Cudi Don Toliver" mood="" tone="">
+    <outro vocals="Kid Cudi Don Toliver" mood="null" tone="null">
         <line>Yeah-yeah</line>
         <line>Woah-oh, oh-oh, oh-oh</line>
         <line>Woah-oh, oh-oh, oh-oh</line>

@@ -1,4 +1,4 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>
@@ -7,7 +7,7 @@
         <featuredArtist>Ariana Grande &amp; Brent Jones</featuredArtist>
         <album>3.15.20</album>
     </metadata>
-    <verse vocals="Childish Gambino" mood="ambiguous" tone="positive">
+    <verse vocals="Childish_Gambino" mood="ambiguous" tone="positive">
         <line>Seven billion people</line>
         <line>Tryna free themselves</line>
         <line>Said a billion prayers</line>
@@ -25,7 +25,7 @@
         <line>Breath of fresh air like a cold winter breeze</line>
         <line>And I can feel it slow down, oh</line>
     </verse>
-    <chorus vocals="Childish Gambino" mood="anxious" tone="neutral">
+    <chorus vocals="Childish_Gambino" mood="anxious" tone="neutral">
         <line>Maybe all the stars in the night are really dreams</line>
         <line>Maybe this whole world ain't exactly what it seems</line>
         <line>Maybe the sky will fall down on tomorrow</line>
@@ -33,7 +33,7 @@
         <line>We're running out of time</line>
         <line>Oh, time, time, yeah</line>
     </chorus>
-    <verse vocals="Childish Gambino" mood="anxious" tone="positive">
+    <verse vocals="Childish_Gambino" mood="anxious" tone="positive">
         <line>Running after something</line>
         <line>But I don't know what</line>
         <line>Am I running to?</line>
@@ -43,7 +43,7 @@
         <line>Time is everlasting</line>
         <line>I can't wait that long <background>Ooh</background></line>
         </verse>
-    <chorus vocals="Childish Gambino" mood="anxious" tone="postive">
+    <chorus vocals="Childish_Gambino" mood="anxious" tone="positive">
         <line>Maybe all the stars in the night are really dreams <background>All the
                 stars</background></line>
         <line>Maybe this whole world ain't exactly what it seems <background>This whole
@@ -52,14 +52,14 @@
         <line>But one thing's for certain, baby</line>
         <line>We're running out of time</line>
     </chorus>
-    <verse vocals="Ariana Grande" mood="anxious" tone="positive">
+    <verse vocals="Ariana_Grande" mood="anxious" tone="positive">
         <line>My feet are falling to the bottom of the ocean</line>
         <line>Running out of time, out of time, uh, oh yeah</line>
         <line>High on emotion, I can feel it moving forward</line>
         <line>Running out of time, running out</line>
         <line>Running out, running out of time</line>
     </verse>
-    <chorus vocals="Brent Jones &amp; The Best Life Singers" mood="anxious" tone="positive">
+    <chorus vocals="Brent_Jones_&amp;_The_Best_Life_Singers" mood="anxious" tone="positive">
         <line>Maybe all the stars in the night are really dreams <background>All the
                 stars</background></line>
         <line>Maybe this whole world ain't exactly what it seems <background>This whole
@@ -68,7 +68,7 @@
         <line>But one thing's for certain, baby</line>
         <line>We're running out of time</line>
     </chorus>
-    <bridge vocals="Childish Gambino" mood="hopeful" tone="positive">
+    <bridge vocals="Childish_Gambino" mood="hopeful" tone="positive">
         <line><background>Time</background></line>
         <line><background>Time</background></line>
         <line>Uh</line>
@@ -87,7 +87,7 @@
         <line>People need pressure</line>
         <line>Uh, woo</line>
     </bridge>
-    <outro vocals="Childish Gambino" mood="anxious" tone="positive">
+    <outro vocals="Childish_Gambino" mood="anxious" tone="positive">
         <line>Running out of time</line>
         <line>We're running</line>
         <line>Running out of time <background>Woah</background></line>
