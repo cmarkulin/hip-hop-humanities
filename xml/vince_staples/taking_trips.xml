@@ -8,75 +8,92 @@
     </metadata>
     <intro vocals="Vince Staples" mood="ambiguous" tone="neutral">
         <line>Yeah, ugh, ugh</line>
-        <line>Trippin' (Yeah), trippin' (Ugh, trippin')</line>
-        <line>Trippin' (Trippin', huh, yeah), trippin' (Yeah)</line>
+        <line>Trippin' <background>Yeah</background>, trippin' <background>Ugh,
+                trippin'</background></line>
+        <line>Trippin' <background>Trippin', huh, yeah</background>, trippin'
+                <background>Yeah</background></line>
         <line>Yeah</line>
     </intro>
     <verse vocals="Vince Staples" mood="ambiguous" tone="neutral">
-        <line>Listen (Listen), I ain't going (Nah), riding foreign</line>
-        <line>Riches off of tourin' (Yeah), call-ignoring</line>
-        <line>Missions, miss my brothers (Yeah), die for colors (Miss my, miss my)</line>
-        <line>Quidditch, catching snitches (Snitch), do him vicious</line>
-        <line>Living, like Khadijah, quick to leave her (I ain't never really know the bitch,
-            man)</line>
-        <line>Just because, like Anita (Baker), she in love</line>
-        <line>But it's leisure (Nah, no), real around-the-corner bleeder (Yeah, Norfside)</line>
-        <line>Bounce out on 'em on Artesia, now we got amnesia (Yeah, likе, "Where you from,
-            cuz?")</line>
+        <line>Listen <background>Listen</background>, I ain't going <background>Nah</background>,
+            riding foreign</line>
+        <line>Riches off of tourin' <background>Yeah</background>, call-ignoring</line>
+        <line>Missions, miss my brothers <background>Yeah</background>, die for colors
+                <background>Miss my, miss my</background></line>
+        <line>Quidditch, catching snitches <background>Snitch</background>, do him vicious</line>
+        <line>Living, like Khadijah, quick to leave her <background>I ain't never really know the
+                bitch, man</background></line>
+        <line>Just because, like Anita <background>Baker</background>, she in love</line>
+        <line>But it's leisure <background>Nah, no</background>, real around-the-corner bleeder
+                <background>Yeah, Norfside</background></line>
+        <line>Bounce out on 'em on Artesia, now we got amnesia <background>Yeah, likе, "Where you
+                from, cuz?"</background></line>
     </verse>
     <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
-        <line>Trippin', yeah (Yеah)</line>
-        <line>Trippin', yeah (Trippin')</line>
-        <line>Trippin' (Trippin', huh, yeah)</line>
-        <line>Trippin', yeah (Yeah, yeah)</line>
-        <line>Trippin', yeah (Yeah)</line>
-        <line>Trippin', yeah (Ayy, who trippin'?)</line>
-        <line>Trippin' (Yeah), yeah (Trippin')</line>
+        <line>Trippin', yeah <background>Yеah</background></line>
+        <line>Trippin', yeah <background>Trippin'</background></line>
+        <line>Trippin' <background>Trippin', huh, yeah</background></line>
+        <line>Trippin', yeah <background>Yeah, yeah</background></line>
+        <line>Trippin', yeah <background>Yeah</background></line>
+        <line>Trippin', yeah <background>Ayy, who trippin'?</background></line>
+        <line>Trippin' <background>Yeah</background>, yeah <background>Trippin'</background></line>
         <line>Trippin', yeah</line>
     </chorus>
     <verse vocals="Vince Staples" mood="mad" tone="negative">
-        <line>I ain't gon' lie (Nah), always been the one to cuff (Uh-huh)</line>
-        <line>I ain't gon' lie (Uh-huh), sometimes, I hit it once and then I'm stuck (Aw,
-            yeah)</line>
-        <line>I ain't gon' lie (Nah), no, you not the only one (You're never the only one,
-            baby)</line>
+        <line>I ain't gon' lie <background>Nah</background>, always been the one to cuff
+                <background>Uh-huh</background></line>
+        <line>I ain't gon' lie <background>Uh-huh</background>, sometimes, I hit it once and then
+            I'm stuck <background>Aw, yeah</background></line>
+        <line>I ain't gon' lie <background>Nah</background>, no, you not the only one
+                <background>You're never the only one, baby</background></line>
         <line>I ain't gon' lie, she only want me 'cause I money-touch</line>
-        <line>I hate July (I hate it, sheesh), crime is high, the summer sucks (We run it up)</line>
+        <line>I hate July <background>I hate it, sheesh</background>, crime is high, the summer
+            sucks <background>We run it up</background></line>
         <line>Can't even hit the beach without my heat, it's in my trunks</line>
-        <line>They ride the tide (Yeah), I don't got no one to trust (Can't trust, you know what's
-            out here, man)</line>
-        <line>Trust and believe I see the shit that's up your sleeve (Ain't fooling nobody,
-            cuz)</line>
-        <line>Come fuck with me, we living fast as SRTs, yeah (Hundred on the dash)</line>
-        <line>Don't come for me unless GoFundMe what you seek, yeah (Put you on your ass, lil'
-            nigga)</line>
-        <line>They lighting candles on the curb, they not Diptyques (Naw)</line>
-        <line>My hood impatient (Yeah), so be wary if it's beef, yeah (Naw, you know how Norfside
-            with it)</line>
-        <line>Pull up, location is the belly of the beast, yeah (Ayy, pull up)</line>
-        <topic type="violence"><line>This shit get deadly, hope you ready to decease, yeah (Ayy, rest in peace, nigga, you
-            really not ready for this shit, man)</line></topic>
-        <line>It's just you and me (You know it, you and me)</line>
+        <line>They ride the tide <background>Yeah</background>, I don't got no one to trust
+                <background>Can't trust, you know what's out here, man</background></line>
+        <line>Trust and believe I see the shit that's up your sleeve <background>Ain't fooling
+                nobody, cuz</background></line>
+        <line>Come fuck with me, we living fast as SRTs, yeah <background>Hundred on the
+                dash</background></line>
+        <line>Don't come for me unless GoFundMe what you seek, yeah <background>Put you on your ass,
+                lil' nigga</background></line>
+        <line>They lighting candles on the curb, they not Diptyques
+            <background>Naw</background></line>
+        <line>My hood impatient <background>Yeah</background>, so be wary if it's beef, yeah
+                <background>Naw, you know how Norfside with it</background></line>
+        <line>Pull up, location is the belly of the beast, yeah <background>Ayy, pull
+                up</background></line>
+        <topic type="violence">
+            <line>This shit get deadly, hope you ready to decease, yeah <background>Ayy, rest in
+                    peace, nigga, you really not ready for this shit, man</background></line>
+        </topic>
+        <line>It's just you and me <background>You know it, you and me</background></line>
         <line>Pay me what you owe, this shit ain't free</line>
         <line>Nah</line>
     </verse>
     <verse vocals="Vince Staples" mood="anxious" tone="negative">
-        <topic type="gangs"><line>I knew very well that I was supposed to go straight home from school. I just couldn't
-            refuse. I knew I was doing the wrong thing. But I guess it was more important to be
-            accepted by the guys than anything else (Don't lie)</line></topic>
+        <topic type="gangs">
+            <line>I knew very well that I was supposed to go straight home from school. I just
+                couldn't refuse. I knew I was doing the wrong thing. But I guess it was more
+                important to be accepted by the guys than anything else <background>Don't
+                    lie</background></line>
+        </topic>
     </verse>
     <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
-        <line>Trippin', yeah (Yeah)</line>
-        <line>Trippin', yeah (Trippin')</line>
-        <line>Trippin' (Trippin', huh, yeah)</line>
-        <line>Trippin', yeah (Yeah, yeah)</line>
-        <line>Trippin', yeah (Yeah)</line>
-        <line>Trippin', yeah (Ayy, who trippin'?)</line>
-        <line>Trippin' (Yeah), yeah (Trippin')</line>
+        <line>Trippin', yeah <background>Yeah</background></line>
+        <line>Trippin', yeah <background>Trippin'</background></line>
+        <line>Trippin' <background>Trippin', huh, yeah</background></line>
+        <line>Trippin', yeah <background>Yeah, yeah</background></line>
+        <line>Trippin', yeah <background>Yeah</background></line>
+        <line>Trippin', yeah <background>Ayy, who trippin'?</background></line>
+        <line>Trippin' <background>Yeah</background>, yeah <background>Trippin'</background></line>
         <line>Trippin', yeah</line>
     </chorus>
     <outro vocals="Vince Staples" mood="cynical" tone="neutral">
-        <topic type="gangs"><line>I mean, the fellas in the gang weren't the greatest. But I didn't wanna be left
-            out</line></topic>
+        <topic type="gangs">
+            <line>I mean, the fellas in the gang weren't the greatest. But I didn't wanna be left
+                out</line>
+        </topic>
     </outro>
 </song>

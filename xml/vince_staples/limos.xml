@@ -1,4 +1,4 @@
-<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -16,7 +16,9 @@
     <verse vocals="Vince Staples" mood="cynical" tone="negative">
         <line>Bitches think they livin' in a dream 'til I wake 'em up</line>
         <line>Faded off the liquor, limousines waiting in the front</line>
-        <line>Looking for a nigga with the green shinin' in the club</line>
+        <topic type="money">
+            <line>Looking for a nigga with the green shinin' in the club</line>
+        </topic>
         <line>Trying to trade the hoes life for the red rose life</line>
         <line>Hope we roll dice, but a seed ain't what you want</line>
         <line>18 years with a check coming every month</line>
@@ -45,10 +47,16 @@
     </chorus>
     <verse vocals="Vince Staples" mood="cynical" tone="negative">
         <line>He don't love her at all, but he fuckin' her raw</line>
-        <line>Tales of Adam and Eve birthin' a bitch and a dog</line>
+        <topic type="religion">
+            <line>Tales of Adam and Eve birthin' a bitch and a dog</line>
+        </topic>
         <line>How you follow a heart colder than winter in Prague</line>
-        <line>Love for the wealth and the self, her mind full of everything else</line>
-        <line>The Bible she hide in the shelf, doubt she ever open it</line>
+        <topic type="money">
+            <line>Love for the wealth and the self, her mind full of everything else</line>
+        </topic>
+        <topic type="religion">
+            <line>The Bible she hide in the shelf, doubt she ever open it</line>
+        </topic>
         <line>Lost in the world, just tryin' to figure where to go from here</line>
         <line>Wonder what her motive is, she wonder what your focus is</line>
         <line>Every man she ever felt done lied and left her to herself</line>

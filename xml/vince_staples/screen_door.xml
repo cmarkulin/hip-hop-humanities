@@ -1,4 +1,4 @@
-<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -26,8 +26,10 @@
         <line>McDonald's for the Double Cheese, pockets fit a couple C-Notes</line>
         <line>Up on the screen door saying topack it up and leave</line>
         <line>But we don’t read those</line>
-        <line>'Cause the money comin' faster than your bitch, nigga</line>
-        <line>All my life, I wanted to be a rich nigga</line>
+        <topic type="money">
+            <line>'Cause the money comin' faster than your bitch, nigga</line>
+            <line>All my life, I wanted to be a rich nigga</line>
+        </topic>
         <line>But homie, let me proceed</line>
         <topic type="drugs">
             <line>Pop's was moving slowpoke, that's way before the codeine</line>
@@ -35,10 +37,14 @@
         </topic>
         <line>Knocking on the screen door, asking for their homie, Nate</line>
         <line>Ten to twenty each, 4 p.m. he leave, so don't be late</line>
-        <line>Mom up off of work asking me if anybody came to kick it with my dad or was he chilling
-            in the alleyway?</line>
-        <line>"He was in the alleyway"—that's what he always had me say</line>
-        <line>Slangin' for them bills he had to pay—somebody at the door</line>
+        <topic type="family">
+            <line>Mom up off of work asking me if anybody came to kick it with my dad or was he chilling
+                in the alleyway?</line>
+            <line>"He was in the alleyway"—that's what he always had me say</line>
+        </topic>
+        <topic type="money">
+            <line>Slangin' for them bills he had to pay—somebody at the door</line>
+        </topic>
     </verse>
     <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
         <line>Who's that peeking in my screen door?</line>
@@ -52,8 +58,10 @@
     </chorus>
     <verse vocals="Vince Staples" mood="apathetic" tone="negative">
         <line>Pots on top of the furnace, Glocks on top of the kitchen</line>
-        <line>Table-tables is turning, now my father is tripping</line>
-        <line>He shooting, sniffing, and sipping, pigs recruiting 'em snitches</line>
+        <topic type="drugs">
+            <line>Table-tables is turning, now my father is tripping</line>
+            <line>He shooting, sniffing, and sipping, pigs recruiting 'em snitches</line>
+        </topic>
         <line>'Cause testimonies from homies can lead to longer convictions</line>
         <line>Police knocking at my door, pretending nobody hear 'em</line>
         <line>Police knocking down my door with judicial system permission</line>

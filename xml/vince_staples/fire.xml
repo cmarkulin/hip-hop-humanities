@@ -1,39 +1,54 @@
-[Verse 1]
-School couldn't get me into Heaven
-And Heaven couldn't get me in a bitch bed
-Bred 11's that I stole on a house lick
-Got them clothes, whole Polo outfits
-Feelin' like Young Dro, summertime '06
-Thirteen years old runnin' my home, ya bitch
-Believe that, we was thuggin' on the back street
-Catchin' cases, probably finna go to Hell anyway
-
-[Hook]
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-
-[Verse 2]
-Them Yankee hats remind me of my younger days
-Dog was a maniac
-My momma had me where them babies havin' babies at
-My knuckles ashy, knockin' niggas on they ass
-People smackin', never lackin', road to riches is a path
-Mothafucka watch your ass
-And quick raised off WIC, whole bloodline Crips
-You dig your own grave when you fuckin' with the Lord
-Catch a fade, probably finna go to Hell anyway
-[Hook]
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
-I'm probably finna go to Hell anyway
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Vince Staples</artist>
+        <year>2014</year>
+        <title>Fire</title>
+        <album>Hell Can Wait</album>
+    </metadata>
+    <verse vocals="Vince Staples" mood="sad" tone="negative">
+        <line>School couldn't get me into Heaven</line>
+        <line>And Heaven couldn't get me in a bitch bed</line>
+        <line>Bred 11's that I stole on a house lick</line>
+        <line>Got them clothes, whole Polo outfits</line>
+        <line>Feelin' like Young Dro, summertime '06</line>
+        <line>Thirteen years old runnin' my home, ya bitch</line>
+        <line>Believe that, we was thuggin' on the back street</line>
+        <line>Catchin' cases, probably finna go to Hell anyway</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="apathetic" tone="negative">
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+    </verse>
+    <chorus vocals="Vince Staples" mood="cynical" tone="negative">
+        <line>Them Yankee hats remind me of my younger days</line>
+        <line>Dog was a maniac</line>      
+        <topic type="family">
+            <line>My momma had me where them babies havin' babies at</line>
+            <line>My knuckles ashy, knockin' niggas on they ass</line>
+            <line>People smackin', never lackin', road to riches is a path</line>
+            <line>Mothafucka watch your ass</line>
+        </topic>
+        <topic type="poverty">
+            <line>And quick raised off WIC, whole bloodline Crips</line>
+        </topic>
+        <line>You dig your own grave when you fuckin' with the Lord</line>
+        <line>Catch a fade, probably finna go to Hell anyway</line>
+    </chorus>
+    <chorus vocals="Vince Staples" mood="apathetic" tone="negative">
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+        <line>I'm probably finna go to Hell anyway</line>
+    </chorus>
+</song>

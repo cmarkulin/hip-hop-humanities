@@ -1,72 +1,88 @@
-[Chorus]
-New shoes with the blue suede
-Blue suede, the blue suede, the blue suede
-Young graves get the bouquets
-Bouquets, the bouquets, the bouquets
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-
-[Verse 1]
-Bitches ain't shit but hoes, I been known this
-Niggas gon' snitch regardless, Mitch showed us
-Never gon' switch, my momma raised soldiers
-Show me that profit, cough them Rang Rovers
-Up, I'm up now, these hoes all in love now
-Wanna fuck now, they beg to bend over
-Half these hoes chauffeurs, half these hoes useless
-Fucked the face toothless, easy, so ruthless
-Ask where he from then leave his dome roofless
-Sweet Chin Music kick back, gruesome
-Watch out for Judas, Vice and G Unit
-5-0 fucking with the yayo too
-L-B-P-D get sprayed on too
-Always keep it GC, ask my homies for the proof
-Blowing 40s as a youth, Thump Deuce in the Chevy
-Hit the corner, run up on him, turn a nigga to Spaghettios
-[Chorus]
-New shoes with the blue suede
-Blue suede, the blue suede, the blue suede
-Young graves get the bouquets
-Bouquets, the bouquets, the bouquets
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-
-[Verse 2]
-Bitches ain't shit but tricks, I been known that
-Blowing on dicks for spliffs and cold Cognac
-Out club hoppin', hoppin' in Kodak's
-Where the coke at? Love white like Bobby wife
-Finna party like it's prom tonight
-Finna kill a nigga walkin' to his mom’s tonight
-Shit real in the field, get caught, don't squeal
-Best deal that the judge finna offer: life
-Play this track in Calipat, get it poppin' in the prison
-And play this shit in Ironwood where my little brother livin'
-Live or die for the whoopin' or the Crippin', pick a side
-Death row, till they put you in the Pikachu to fry
-That's life, three strikes, that's life
-Three hoes, half dyke, this can be a long night
-Long road to the riches, bravos from the bitches
-Coulda' been a felon selling nickels off of Linden
-Nigga, fuck that
-[Chorus]
-New shoes with the blue suede
-Blue suede, the blue suede, the blue suede
-Young graves get the bouquets
-Bouquets, the bouquets, the bouquets
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-Hope I outlive them red roses
-
-[Outro]
-All I wanted was them Jordan's with the blue suede in 'em
-All I wanted was them Jordan's with the blue suede in 'em
-All I wanted was them Jordan's with the blue suede in 'em
-All I wanted was them Jordan's with the blue suede in 'em
-Blue suede 'em, blue suede in 'em
-Blue suede 'em, blue suede in 'em
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>Vince Staples</artist>
+        <year>2014</year>
+        <title>Blue Suede</title>
+        <album>Hell Can Wait</album>
+    </metadata>
+    <intro vocals="Vince Staples" mood="cynical" tone="neutral">
+        <line>New shoes with the blue suede</line>
+        <line>Blue suede, the blue suede, the blue suede</line>
+        <line>Young graves get the bouquets</line>
+        <line>Bouquets, the bouquets, the bouquets</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+    </intro>
+    <verse vocals="Vince Staples" mood="angry" tone="negative">
+        <line>Bitches ain't shit but hoes, I been known this</line>
+        <line>Niggas gon' snitch regardless, Mitch showed us</line>
+        <line>Never gon' switch, my momma raised soldiers</line>
+        <topic type="wealth">
+            <line>Show me that profit, cough them Rang Rovers</line>
+        </topic>
+        <line>Up, I'm up now, these hoes all in love now</line>
+        <line>Wanna fuck now, they beg to bend over</line>
+        <line>Half these hoes chauffeurs, half these hoes useless</line>
+        <line>Fucked the face toothless, easy, so ruthless</line>
+        <line>Ask where he from then leave his dome roofless</line>
+        <line>Sweet Chin Music kick back, gruesome</line>
+        <line>Watch out for Judas, Vice and G Unit</line>
+        <line>5-0 fucking with the yayo too</line>
+        <line>L-B-P-D get sprayed on too</line>
+        <line>Always keep it GC, ask my homies for the proof</line>
+        <line>Blowing 40s as a youth, Thump Deuce in the Chevy</line>
+        <line>Hit the corner, run up on him, turn a nigga to Spaghettios</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="cynical" tone="neutral">
+        <line>New shoes with the blue suede</line>
+        <line>Blue suede, the blue suede, the blue suede</line>
+        <line>Young graves get the bouquets</line>
+        <line>Bouquets, the bouquets, the bouquets</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="angry" tone="negative">
+        <line>Bitches ain't shit but tricks, I been known that</line>
+        <line>Blowing on dicks for spliffs and cold Cognac</line>
+        <line>Out club hoppin', hoppin' in Kodak's</line>
+        <topic type="drugs">
+            <line>Where the coke at? Love white like Bobby wife</line>
+        </topic>
+        <line>Finna party like it's prom tonight</line>
+        <line>Finna kill a nigga walkin' to his mom’s tonight</line>
+        <line>Shit real in the field, get caught, don't squeal</line>
+        <line>Best deal that the judge finna offer: life</line>
+        <line>Play this track in Calipat, get it poppin' in the prison</line>
+        <line>And play this shit in Ironwood where my little brother livin'</line>
+        <line>Live or die for the whoopin' or the Crippin', pick a side</line>
+        <line>Death row, till they put you in the Pikachu to fry</line>
+        <line>That's life, three strikes, that's life</line>
+        <line>Three hoes, half dyke, this can be a long night</line>
+        <line>Long road to the riches, bravos from the bitches</line>
+        <line>Coulda' been a felon selling nickels off of Linden</line>
+        <line>Nigga, fuck that</line>
+    </verse>
+    <verse vocals="Vince Staples" mood="cynical" tone="neutral">
+        <line>New shoes with the blue suede</line>
+        <line>Blue suede, the blue suede, the blue suede</line>
+        <line>Young graves get the bouquets</line>
+        <line>Bouquets, the bouquets, the bouquets</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+        <line>Hope I outlive them red roses</line>
+    </verse>
+    <outro vocals="Vince Staples" mood="sad" tone="neutral">
+        <line>All I wanted was them Jordan's with the blue suede in 'em</line>
+        <line>All I wanted was them Jordan's with the blue suede in 'em</line>
+        <line>All I wanted was them Jordan's with the blue suede in 'em</line>
+        <line>All I wanted was them Jordan's with the blue suede in 'em</line>
+        <line>Blue suede 'em, blue suede in 'em</line>
+        <line>Blue suede 'em, blue suede in 'em</line>
+    </outro>
+</song>
