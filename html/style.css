@@ -12,34 +12,37 @@ section{
     margin:0% 5%;
     border: solid;
 }
+p {
+    text-align: center;
+}
 
 h1, h2, h3 {
     color: black;
+    text-align: center;
     font-family: 'Courier New', monospace;
     text-decoration: underline;
 }
 
-.navbar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
 .navbar-header{
     text-align: center;
     color: #666;
     padding: 20px 28px;
+    float: left;
 }
 
-ul {
+.ul-nav{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #f3f3f3;
 }
+ul{
+    list-style-type: none;
+}
 
-li {
+.li-nav {
   float: left;
 }
 
