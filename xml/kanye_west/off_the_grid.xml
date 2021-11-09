@@ -7,17 +7,17 @@
         <featuredArtist>Playboi Carti Fivio Foreign</featuredArtist>
         <album>Donda</album>
     </metadata>
-<intro vocals="Kanye West and Playboi Carti" mood="null" tone="null">
+<intro vocals="Kanye_West Playboi_Carti" mood="null" tone="null">
 <line>What? Yeah</line>
 <line>Boy <background>What?</background></line>
 </intro>
-<chorus vocals="Kanye West" mood="accomplished" tone="positive">
+<chorus vocals="Kanye_West" mood="confident" tone="positive">
 <line>We off the grid, grid, grid</line>
 <line>This for my kid, kid, kid</line>
 <line>For when my kid kid kids have kids</line>
 <line>Everything we did for the crib</line>
 </chorus>
-<verse vocals="Kanye West" mood="accomplished" tone="positive">
+<verse vocals="Kanye_West" mood="confident" tone="positive">
 <line>Everything we did, how we live <background>What?</background></line>
 <line>All this smoke got a scent</line>
 <line>All that smoke heaven sent <background>Scent</background></line>
@@ -29,7 +29,7 @@
 <line>What?</line>
 <line>We off the grid, grid, grid, grid</line>
 </verse>
-<verse vocals="Playboi Carti" mood="null" tone="null">
+<verse vocals="Playboi_Carti" mood="null" tone="null">
 <line>I'm off the grid <background>Homicide, homicide, what?</background></line>
 <line>Got tats on my ribs <background>Ah</background>, tattoos on my ribs <background>What?</background></line>
 <line>I just tattеd my kid, Onyx <background>Slatt</background></line>
@@ -40,12 +40,12 @@
 <line>I light a opp blunt and let your **** try it <background>Ah</background></line>
 <line>Uh, them off the grid, I'm on a **** diet <background>What?</background></line>
 </verse>
-<chorus vocals="Kanye West" mood="accomplished" tone="positive">
+<chorus vocals="Kanye_West" mood="confident" tone="positive">
 <line>We off the grid, grid, grid, grid</line>
 <topic type="family"><line>This for my kid, kid, kid</line></topic>
 <line>Everything we did for the crib did here</line>
 <line>Flexin' with the business trip</line>
-<topic type="mental health"><line>Going cray, take some G6</line></topic>
+<line>Going cray, take some G6</line>
 <line>Lit, lit, '76</line>
 <line>He spit this</line>
 <line>We off the grid, grid, grid</line>
@@ -155,7 +155,7 @@
 <line>They playin' soccer in my backyard, I think I see Messi</line>
 <line>And this money could never neglect me</line>
 <topic type="family"><line>I pray that my family, they never resent me</line></topic>
-<topic type="love"><line>And she fell in love with me soon she met me</line></topic>
+<line>And she fell in love with me soon she met me</line>
 <topic type="money"><line>We both got a bag but my bag is more heavy</line>
 <line>We had to stop countin', it's gettin' too petty</line>
 <line>You not a real stepper, you can't overstep me</line>
@@ -169,7 +169,7 @@
 <line>You feel a way, then go pull up and get me</line>
 <line>Might do somethin' wild if I feel like you press me</line>
 </verse>
-<chorus vocals="Kanye West" mood="accomplished" tone="positive">
+<chorus vocals="Kanye West" mood="confident" tone="positive">
 <line>We off the grid, grid, grid</line>
 <topic type="family"><line>This for my kid, kid, kid</line>
 <line>For when my kid, kid, kids have kids</line></topic>
