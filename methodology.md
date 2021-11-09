@@ -35,7 +35,7 @@
 
     Each group member was given three artists with ten songs each, for 30 songs per group member, making 90 songs in all. 
     
-##### Taggging Tone and Mood:
+##### Tagging Tone and Mood:
     
     In order to mark up these songs and pull the essentail information, we decided on tagging tone and mood for every intro, chorus, verse, bridge, interlude, and outro
     within a song. In order to maintain a sense of consistency throughout all 90 songs, the tone and mood attributes were signifigantly constrained. 
