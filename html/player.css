@@ -21,6 +21,7 @@ h3,
 h4 {
     color: #1DB954;
     text-align: center;
+    font-weight: normal;
 }
 p {
     color: white;
@@ -76,15 +77,13 @@ li {
 
 li a {
     display: block;
-    color: #666;
+    color: white;
     text-align: center;
     padding: 20px 28px;
     text-decoration: none;
 }
 
-li a:hover {
-    background-color: rgb(96, 182, 240);
-}
+
 .flex-container {
     flex-wrap:nowrap;
     display: flex;
