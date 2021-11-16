@@ -1,6 +1,7 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+    <track>8</track>
         <artist>Kanye West</artist>
         <year>2004</year>
         <title>Never Let Me Down</title>

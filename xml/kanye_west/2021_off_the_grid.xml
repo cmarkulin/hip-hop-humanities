@@ -1,6 +1,7 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+    <track>4</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Off the Grid</title>

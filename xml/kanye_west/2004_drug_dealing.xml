@@ -1,6 +1,7 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
+    <track>2</track>
         <artist>Kanye West</artist>
         <year>2004</year>
         <title>We Don't Care</title>
