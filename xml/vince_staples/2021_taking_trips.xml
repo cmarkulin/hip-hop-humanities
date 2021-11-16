@@ -1,10 +1,12 @@
-<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
         <year>2021</year>
         <title>Taking Trips</title>
         <album>Vince Staples</album>
+        <trackNumber>5</trackNumber>
     </metadata>
     <intro vocals="Vince Staples" mood="ambiguous" tone="neutral">
         <line>Yeah, ugh, ugh</line>
@@ -39,7 +41,7 @@
         <line>Trippin' <background>Yeah</background>, yeah <background>Trippin'</background></line>
         <line>Trippin', yeah</line>
     </chorus>
-    <verse vocals="Vince Staples" mood="mad" tone="negative">
+    <verse vocals="Vince Staples" mood="angry" tone="negative">
         <line>I ain't gon' lie <background>Nah</background>, always been the one to cuff
                 <background>Uh-huh</background></line>
         <line>I ain't gon' lie <background>Uh-huh</background>, sometimes, I hit it once and then

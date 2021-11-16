@@ -1,10 +1,12 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
         <year>2013</year>
         <title>Hell</title>
+        <featuredArtist>Haim</featuredArtist>
         <album>Long. Live. ASAP</album>
+        <trackNumber>4</trackNumber>
     </metadata>
     <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
         <line>Clams Casino, nigga</line>

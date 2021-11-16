@@ -1,4 +1,4 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -6,6 +6,7 @@
         <title>Calldrops</title>
         <featuredArtist>Dean Blunt, Kodak Black, &amp; Scarface</featuredArtist>
         <album>Testing</album>
+        <trackNumber>6</trackNumber>
     </metadata>
     <verse vocals="Scarface" mood="ambiguous" tone="neutral">
         <line>"Mo—money and the power, money and the power"</line>

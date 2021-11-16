@@ -1,4 +1,4 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -6,6 +6,7 @@
         <title>Praise the Lord (Da Shine)</title>
         <featuredArtist>Skepta</featuredArtist>
         <album>Testing</album>
+        <trackNumber>5</trackNumber>
     </metadata>
     <verse vocals="ASAP Rocky" mood="confident" tone="neutral">
         <line>Get it</line>

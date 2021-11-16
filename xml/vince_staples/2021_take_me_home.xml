@@ -1,4 +1,4 @@
-<?xml-model href="relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -6,6 +6,7 @@
         <title>Take Me Home</title>
         <featuredArtist>Fousheé</featuredArtist>
         <album>Vince Staples</album>
+        <trackNumber>7</trackNumber>
     </metadata>
     <intro vocals="Fousheé" mood="ambiguous" tone="neutral">
         <line>(One, two, three, four) Yeah</line>

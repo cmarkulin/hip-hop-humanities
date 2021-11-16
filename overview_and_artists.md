@@ -1,6 +1,8 @@
 # Overview
 
-There's the famous saying, "fame changes people", and for our team we wanted to explore it literally. How did fame change these artists’ approach to their music, if at all? Were these positive or negative changes? What did fame bring into their lives?
+**Content Warning**: This site contains mentions topics of violence,  drug use, and strong language.
+
+There's the famous saying, "fame changes people", and our team wanted to explore it literally. How did fame change these artists’ approach to their music, if at all? Were these positive or negative changes? What did fame bring into their lives?
 
 For our project we analyzed songs from the beginning of artists’ careers and how they compared to the music they release now. We focused on how the topics of their lyrics changed as well as the tone and mood of their songs. 
 
@@ -11,10 +13,16 @@ For our project we analyzed songs from the beginning of artists’ careers and h
 **ASAP Rocky**: Rakim Mayers, more commonly known as ASAP Rocky, is a rapper and memebr of the A$AP music collective based in Harlem, New York .
 **Childish Gambino**: Donald Glover, known by his stage name Childish Gambino,  is an actor turned rapper from Georgia.
 **J. Cole**: Jermaine Cole is an American rapper and producer from North Carolina.
-**Kanye West**: Kanye West is an American rapper, producer, and fashion designer from Atlanta, Georgia.
+**Kanye West**: Kanye West is an American rapper, producer, and fashion designer from Chicago, Illinois.
 **Kendrick Lamar**: Kendirck Lamar is a rapper and producer from Compton, California.
 **Kid Cudi**: Scott Ramon Seguro Mescudi, more commonly known by the stage name Kid Cudi, is a rapper and contemporary artist from Cleveland, Ohio.
 **Mac Miller**: Malcolm James McCormick, known by the name Mac Miller, was a rapper and producer from Pittsburgh, Pennsylvania.
 **Tyler the Creator**: Tyler Okonma, known by his stage name Tyler the Creator, is a  rapper and producer from Los Angeles, California.
 **Vince Staples**: Vince Staples is a rapper and member of hip hop group Cutthroat Boyz, from Compton, California.
 
+# Project Team
+**Ashley Choi** is a sophomore majoring in chemistry and minoring in administration of justice. She took this class to satisfy her quantitative reasoning requirement.
+**Camryn Dorney**:
+**Christopher Markulin**: 
+
+Extra thanks to senior assitant Charlie Taylor for all your help on this project!

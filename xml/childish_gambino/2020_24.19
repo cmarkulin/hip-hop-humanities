@@ -1,10 +1,11 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>
         <year>2020</year>
         <title>24.19</title>
         <album>3.15.20</album>
+        <trackNumber>6</trackNumber>
     </metadata>
     <chorus vocals="Childish Gambino" mood="sad" tone="positive">
         <line>Sweet thing</line>

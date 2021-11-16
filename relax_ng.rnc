@@ -1,23 +1,22 @@
 start = song
 # Added optional intro and outro, 2021-10-24 clt
-song = element song {metadata, intro*, (chorus | verse | bridge* | interlude*)+, outro*}
+song = element song {metadata, intro*, (chorus | verse | bridge*)+, outro*}
 # Added required artist element, 2021-10-24 clt
-metadata = element metadata {artist, year, title, featuredArtist*, album}
+metadata = element metadata {artist, year, title, featuredArtist*, album, trackNumber}
 artist = element artist {text}
 year = element year {text}
 title = element title {text}
 featuredArtist = element featuredArtist {text}
 album = element album {text}
+trackNumber = element trackNumber {text}
 intro = element intro {vocals, mood, tone, (topic | line)+}
 chorus = element chorus {vocals, mood, tone, (topic | line)+}
 verse = element verse {vocals, mood, tone, (topic | line)+}
-interlude = element interlude {vocals, mood, tone, (topic | line)+}
 bridge = element bridge {vocals, mood, tone, (topic | line)+}
 outro = element outro {vocals, mood, tone, (topic | line)+}
 vocals = attribute vocals {text}
-# Null should only be used on verses with featured artists
-mood = attribute mood {"hopeful" | "energetic" | "cynical" | "apathetic" | "empathetic" | "determined" | "angry" | "sad" | "happy" | "confident" | "anxious" | "ambiguous" | "null"}
-tone = attribute tone {"positive" | "negative" | "neutral" | "null"}
+mood = attribute mood {"hopeful" | "energetic" | "cynical" | "apathetic" | "empathetic" | "determined" | "angry" | "sad" | "happy" | "confident" | "anxious" | "ambiguous"}
+tone = attribute tone {"positive" | "negative" | "neutral"}
 topic = element topic {type, line+}
 type = attribute type {"drugs" | "death" | "family" | "religion" | "money" | "poverty" | "wealth" | "violence" | "social_issues" | "gangs" | "ambiguous"}
 line = element line {mixed {background*}}

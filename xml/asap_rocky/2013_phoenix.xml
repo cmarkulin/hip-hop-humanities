@@ -1,10 +1,11 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
         <year>2013</year>
         <title>Phoenix</title>
         <album>Long. Live. ASAP</album>
+        <trackNumber>11</trackNumber>
     </metadata>
     <verse vocals="ASAP Rocky" mood="cynical" tone="negative">
         <line>Bloody ink on my pad spelled suicide</line>

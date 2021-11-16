@@ -1,10 +1,11 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>
         <year>2011</year>
         <title>Bonfire</title>
         <album>Camp</album>
+        <trackNumber>3</trackNumber>
     </metadata>
     <verse vocals="Childish Gammbino" mood="confident" tone="positive">
         <line>Okay, it's Childish Gambino, homegirl drop it like the NASDAQ</line>

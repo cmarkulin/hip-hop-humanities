@@ -1,0 +1,147 @@
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <metadata>
+        <artist>ASAP Rocky</artist>
+        <year>2018</year>
+        <title>ASAP Forever Remix</title>
+        <featuredArtist>Khloe Anna, Moby &amp; Kid Cudi</featuredArtist>
+        <album>Testing</album>
+        <trackNumber>2</trackNumber>
+    </metadata>
+    <intro vocals="ASAP Rocky" tone="positive" mood="confident">
+        <line>Gang! Gang</line>
+        <line>They tryna front on the gang!</line>
+        <line>They going to remember my name</line>
+        <line>Ayy, anybody ever took the time to ask Rocky what A$AP mean to him?</line>
+        <line>Well if so, he'll probably tell you, "Always Striving and Prospering"</line>
+        <line>A$AP, partna'! Free my nigga, Cap</line>
+        <line>R.I.P. Big Phil, R.I.P. A$AP Yams</line>
+        <line>Ya dig? <background>Gang!</background></line>
+    </intro>
+    <verse vocals="ASAP Rocky" tone="positive" mood="confident">
+        <line>Come fuck with the Mob, shout out to the Lords and the Gods</line>
+        <line>In love with my bitch 'cause she bi</line>
+        <line>My ice like the stars, I tell that bitch, "Cover your eyes</line>
+        <line>'Cause fuckin' with me, you go blind"</line>
+        <line>She losin' her mind, we kiss to Frank Ocean and Blonde</line>
+        <line>Convincin' my bitch to go blonde</line>
+        <line>Was born in the dark, I kill you, you open my blinds</line>
+        <line>On Yams and that's word to my moms</line>
+        <line>Margiela Madman with cases I'm still tryna beat</line>
+        <line>A bunch of shit from a long time ago</line>
+        <line>The bigger they are, the harder they fall</line>
+        <line>Like dominos, nigga, Geronimos</line>
+        <line>When it's my time to go, adiós, vámonos</line>
+        <line>Flacko no Dominicano but eat the tostones with plátanos</line>
+        <line>Dealing with life and its highs and lows</line>
+        <line>I'm just pimpin' like I'm supposed</line>
+        <line>I guess it's called livin', shit, I suppose</line>
+        <line>I'm on my live alone, die VLONE</line>
+        <line>Ain't talkin' 'bout spending or buyin' clothes</line>
+        <line>I'm 'bout my business but I'm alone</line>
+        <line>I still had the vision when I was broke</line>
+        <line>Fuckin' on bitches and foreign hoes</line>
+        <line>Flyin' out womens to boring shows</line>
+        <topic type="drugs">
+            <line>I pray to God I don't overdose</line>
+        </topic>
+    </verse>
+    <chorus vocals="A$AP Rocky &amp; Kid Cudi" tone="positive" mood="determined">
+        <line>I put A$AP on my tat <background>Woo</background></line>
+        <line>I put New York on the map <background>Woo</background></line>
+        <line>I put the gang on the flames <background>Woo</background></line>
+        <line>They gon' remember the name</line>
+        <line>They robbin' boys for the chains <background>Woo</background></line>
+        <topic type="wealth">
+            <line>I got Goyard by the sack <background>Woo</background></line>
+        </topic>
+        <topic type="drugs">
+            <line>I got the boof by the pack <background>Woo</background></line>
+        </topic>
+        <line>I fucked your boo on her back</line>
+    </chorus>
+    <chorus vocals="A$AP Rocky &amp; Kid Cudi" tone="positive" mood="confident">
+        <line>Gang! Gang! Them boys not flexing the same</line>
+        <line>I'm done with adjusting to fame, pull up on your set, leave a stain</line>
+        <line>Gang! Gang! I tell her come fuck with the gang</line>
+        <line>I tell 'em don't fuck with the gang, it's time to fuck up the whole game!</line>
+        <line>Hmm</line>
+    </chorus>
+
+    <verse vocals="Kid Cudi" tone="positive" mood="hopeful">
+        <line>I'm free as a bird, I wanted this shit my whole life</line>
+        <line>But had all this stress on my mind</line>
+        <line>Until I realized, things pan out when it's right</line>
+        <line>In the meantime I'ma grind</line>
+        <line>I think of them days when I was so young on my plight</line>
+        <line>Party and bullshit and play</line>
+        <line>Was up in the city, the one that's surrounded by lights</line>
+        <line>Wanted to burn it away</line>
+        <line>Get out of his lane, got no time, don't need no advice</line>
+        <line>Except for my momma</line>
+        <line>Ride for my daughter, she's all I need</line>
+        <line>She got her father, as I grow</line>
+        <line>Hell yeah, I did it, I'm on a roll</line>
+        <line>Thought I'd be up with my nigga, no</line>
+        <line>I'm just gettin' warmed up, let's start the show</line>
+        <line>I'm schoolin' these niggas, so in the zone and I'm rigged to blow</line>
+        <line>A$AP and Cud Life forever though</line>
+        <line>And I'm flossin' and bossin' these silly hoes</line>
+        <line>Learned the codes, serve up the magic for all of those</line>
+        <line>Kids that ain't had someone on they own</line>
+        <line>Hang on the words, you each have your song</line>
+        <line>Grab on and hold on, won't steer you wrong</line>
+        <line>Sing along, sing along, hmm</line>
+    </verse>
+    <chorus vocals="ASAP Rocky" tone="positive" mood="determined">
+        <line>I put A$AP on my tat <background>Woo</background></line>
+        <line>I put New York on the map <background>Woo</background></line>
+        <line>I put the gang on the flames <background>Woo</background></line>
+        <line>They gon' remember the name</line>
+        <line>They robbin' boys for the chains <background>Woo</background></line>
+        <topic type="wealth">
+            <line>I got Goyard by the sack <background>Woo</background></line>
+        </topic>
+        <topic type="drugs">
+            <line>I got the boof by the pack <background>Woo</background></line>
+        </topic>
+        <line>I fucked your boo on her back <background>Woo</background></line>
+    </chorus>
+    <chorus vocals="ASAP Rocky" tone="negative" mood="confident">
+        <line>Gang! Gang! Them boys not flexing the same</line>
+        <line>I'm done with adjusting to fame, pull up on your set, leave a stain</line>
+        <line>Gang! Gang! I tell her come fuck with the gang</line>
+        <line>I tell 'em don't fuck with the gang, it's time to fuck up the whole game!</line>
+        <line><background>Game, game, game, game</background></line>
+    </chorus>
+    <bridge vocals="" tone="negative" mood="confident">
+        <line>Gang, gang</line>
+        <line>They tryna front on the gang, they gon' remember my name</line>
+        <line>True to truth somehow <background>Gang, gang</background></line>
+        <line>But never truly lied at all, then and now</line>
+        <line>They tryna front on the gang</line>
+        <line>Truth somehow</line>
+        <line>Gang, A$AP boys come with the flame</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all, then and now</line>
+    </bridge>
+    <outro vocals="Khloe Anna &amp; Moby" mood="sad" tone="neutral">
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>In my dreams, I'm dying all the time</line>
+        <line>True to truth somehow</line>
+        <line>But never truly lied at all</line>
+        <line>Then I wake, it's kaleidoscopic mind</line>
+        <line>But never truly lied at all</line>
+        <line>But never truly lied at all, then and now</line>
+        <line>I never meant to hurt you <background>Then and now</background></line>
+        <line>I never meant to lie</line>
+    </outro>
+</song>

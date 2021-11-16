@@ -1,4 +1,4 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -6,6 +6,7 @@
         <title>Tony Tone</title>
         <featuredArtist>Akia Harvey &amp; Puff Daddy</featuredArtist>
         <album>Testing</album>
+        <trackNumber>3</trackNumber>
     </metadata>
     <intro vocals="ASAP Rocky &amp; Puff Daddy" mood="ambiguous" tone="positive">
         <line>Uh, my mic sounds nice, check one <background>Woo!</background></line>

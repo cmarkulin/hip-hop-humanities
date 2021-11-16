@@ -1,3 +1,4 @@
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -5,6 +6,7 @@
         <title>Lakewood Mall</title>
         <featuredArtist>Tyson</featuredArtist>
         <album>Vince Staples</album>
+        <trackNumber>9</trackNumber>
     </metadata>
 <verse vocals="TYSON" mood="ambiguous" tone="neutral">
 <line>Nigga met this nigga at the McDonald's at Lakewood Mall</line>

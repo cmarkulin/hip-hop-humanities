@@ -1,4 +1,4 @@
-<?xml-model href="file:/C:/Users/Ashley/Desktop/New%20folder/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -6,6 +6,7 @@
         <title>Buck Shots</title>
         <featuredArtist>Kelvin Krash, Playboi Carti. &amp; Smooky MarGielaa</featuredArtist>
         <album>Testing</album>
+        <trackNumber>7</trackNumber>
     </metadata>
     <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
         <line>I ain't scared, uh</line>
