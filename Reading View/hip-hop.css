@@ -1,0 +1,69 @@
+body{
+    font-family:courier, fixed, monospace;
+}
+
+li {
+    list-style-type: none;
+}
+
+span.positive{
+    background-color:#61D088;
+} 
+
+.negative{
+    background-color:#E1ECE3;
+    
+}
+
+.neutral {
+    background-color:#457E59;
+}
+
+.null{
+    background-color:#A8B2A8;
+}
+
+.drugs{
+    color:#509BF5;
+    font-weight:bold;
+}
+.death{
+    color:#FE4632;
+    font-weight:bold;
+}
+.family{
+    color:#FFC464;
+    font-weight:bold;
+} 
+.religion{
+    color:#F5729F;
+    font-weight:bold;
+} 
+.money{
+    color:#CDF563;
+    font-weight:bold;
+}
+.poverty{
+    color:#A0C3D2;
+    font-weight:bold;
+} 
+.wealth{
+    color:#F7E32C;
+    font-weight:bold;
+}
+.violence{
+    color:#FFCDD2;
+    font-weight:bold;
+} 
+.social_issues{
+    color:#AB3F9C;
+    font-weight:bold;
+}
+.gangs{
+    color:#5722E5;
+    font-weight:bold;
+} 
+.ambiguous{
+    color:#48937E;
+    font-weight:bold;
+}
