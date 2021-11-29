@@ -18,9 +18,9 @@
         </html>
     </xsl:template><xsl:template match= "intro | chorus | verse | outro">
             <h2><xsl:text>Mood: </xsl:text><xsl:apply-templates select="./upper-case(@mood)"/></h2>
-        <mark class="{@tone}"><span>
+        <span class="{@tone}">
             <xsl:apply-templates/>
-        </span></mark>
+        </span>
     </xsl:template>
     <xsl:template match="topic">
         <span class="{@type}">
