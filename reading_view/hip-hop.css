@@ -2,10 +2,6 @@ body{
     font-family:courier, fixed, monospace;
 }
 
-li {
-    list-style-type: none;
-}
-
 .positive{
     background-color:#61D088;
 } 
@@ -36,7 +32,7 @@ li {
     font-weight:bold;
 } 
 .religion{
-    color:#F5729F;
+    color:#84c2b4;
     font-weight:bold;
 } 
 .money{
@@ -52,7 +48,7 @@ li {
     font-weight:bold;
 }
 .violence{
-    color:#FFCDD2;
+    color:#5d24ff;
     font-weight:bold;
 } 
 .social_issues{

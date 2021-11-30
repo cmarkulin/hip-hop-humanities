@@ -16,19 +16,24 @@
                 </section>
             </body>
         </html>
-    </xsl:template><xsl:template match= "intro | chorus | verse | outro">
-            <h2><xsl:text>Mood: </xsl:text><xsl:apply-templates select="./upper-case(@mood)"/></h2>
-        <span class="{@tone}">
+    </xsl:template>
+    <xsl:template match="intro | chorus | verse | outro">
+        <h2>
+            <xsl:text>Mood: </xsl:text>
+            <xsl:apply-templates select="./upper-case(@mood)"/>
+        </h2>
+        <div class="{@tone}">
             <xsl:apply-templates/>
-        </span>
+        </div>
     </xsl:template>
     <xsl:template match="topic">
-        <span class="{@type}">
+        <div class="{@type}">
             <xsl:apply-templates/>
-        </span>
+        </div>
     </xsl:template>
     <xsl:template match="line">
-        <li><xsl:apply-templates/></li>
-        <br/>
+        <p>
+            <xsl:apply-templates/>
+        </p>
     </xsl:template>
 </xsl:stylesheet>
