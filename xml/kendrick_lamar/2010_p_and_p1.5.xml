@@ -17,12 +17,12 @@
 <line>"I done told you that"</line>
 </verse>
 
-<intro vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
+<verse vocals="Kendrick_Lamar" mood="ambiguous" tone="neutral">
 <line>Oh, what up ho? Oh, what up?</line>
 <line>I said, oh, what up ho? Oh, what up?</line>
 <line>I said, oh, what up ho? Oh, what up?</line>
 <line>Well, alright</line>
-</intro>
+</verse>
 
 <chorus vocals="Kendrick_Lamar" mood="sad" tone="negative">
 <line>I'm going through something with life</line>

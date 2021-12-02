@@ -34,12 +34,12 @@
 <topic type="money"><line>Willie Parker money, hand it off then it's runnin' back</line></topic>
 </verse>
 
-<interlude vocals="Mac_Miller">
+<verse vocals="Mac_Miller" mood="ambiguous" tone="negative">
 <line>Ayo you fuck wit' dat</line>
 <line>Uh you gotta fuck wit' dat</line>
 <line>You in love wit' dat</line>
-<line>Look, uh, Mac_Miller</line>
-</interlude>
+<line>Look, uh, Mac Miller</line>
+</verse>
 
 <verse vocals="Mac_Miller" mood="apathetic" tone="negative">
 <line>Takin' sips from the fountain of youth</line>
@@ -62,7 +62,7 @@
 <line>It's only been a year, I can stick around a hundred more</line>
 </verse>
 
-<interlude vocals="Mac_Miller">
+<verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>Said I could stick around a hundred more</line>
 <line>I ain't goin' nowhere</line>
 <line>Young and so much time to go</line>
@@ -70,7 +70,7 @@
 <line>I got like one more verse I haven't spit three verses on a song in a minute</line>
 <line>See if I can remember this one</line>
 <line>Aight look</line>
-</interlude>
+</verse>
 
 <verse vocals="Mac_Miller" mood="confident" tone="positive">
 <line>You can find me in the lab workin' overtime</line>

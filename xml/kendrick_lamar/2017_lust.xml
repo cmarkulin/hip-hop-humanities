@@ -25,7 +25,7 @@
 <line>If it's okay; she said, "It's okay"</line>
 </chorus>
     
-<interlude vocals="Kendrick_Lamar RAT_BOY" mood="energetic" tone="neutral">
+<verse vocals="Kendrick_Lamar RAT_BOY" mood="energetic" tone="neutral">
 <line>Yeah, I need everybody's motherfuckin' hands up right now</line>
 <line>I need everybody's motherfuckin'—</line>
 <line>Door and his Nike Air Rattles</line>
@@ -33,7 +33,7 @@
 <line>Well I, I never expected</line>
 <line>This that new shit</line>
 <line>This that new, new shit</line>
-</interlude>
+</verse>
 
 <verse vocals="Kendrick_Lamar" mood="happy" tone="positive">
 <topic type="money"><line>Wake up in the mornin', thinkin' 'bout money, kick your feet up</line></topic>
