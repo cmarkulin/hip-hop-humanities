@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>2</track>
         <artist>Tyler the Creator</artist>
         <year>2011</year>
         <title>Yonkers</title>
         <featuredArtist/>
         <album>Goblin</album>
+        <trackNumber>2</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
         <line>Uh, Wolf Haley, Golf Wang, go</line>

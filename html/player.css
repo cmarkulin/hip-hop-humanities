@@ -16,16 +16,13 @@ a.back {
     text-decoration: underline;
 }
 h1,
-h2,
 h3,
 h4 {
     color: #1DB954;
     text-align: center;
     font-weight: normal;
 }
-p {
-    color: white;
-}
+
 div.scroll {
     margin: 4px 4px;
     padding: 4px;
@@ -145,7 +142,108 @@ button {
     outline: 0;
 }
 
+.positive{
+    background-color:#191414;
+    color: white;
+    border: solid;
+    border-color: #242424;
+    border-radius: 25px;
+    border-width: 1px;
+} 
 
+.negative{
+    background-color:#191414;
+    color: white;
+    border: solid;
+    border-color: #242424;
+    border-radius: 25px;
+    border-width: 1px;
+    
+}
+
+.neutral {
+    background-color:#191414;
+    color: white;
+    border: solid;
+    border-color: #242424;
+    border-radius: 25px;
+    border-width: 1px;
+}
+
+.null{
+    background-color:#191414;
+    color: white;
+    border: solid;
+    border-color: #242424;
+    border-radius: 25px;
+    border-width: 1px;
+}
+
+.drugs{
+
+}
+.death{
+
+}
+.family{
+
+} 
+.religion{
+
+} 
+.money{
+
+}
+.poverty{
+
+} 
+.wealth{
+
+}
+.violence{
+
+} 
+.social_issues{
+
+}
+.gangs{
+
+} 
+.ambiguous{
+
+}
+
+label{
+    color: white;
+}
+.menu{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid;
+    border-color: white;
+    border-radius: 25px;
+}
+
+#negBox{
+    background-color: #E1ECE3;
+}
+
+p{
+    text-align: center;
+}
+h2{
+    color: #1DB954;
+    font-weight: normal;
+    text-align: center;
+    font-size: 12px;
+}
+
+div.menu{
+    background-color: #242424; 
+}
 
 /* Fade animation styling below. */
 
