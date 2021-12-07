@@ -4,6 +4,10 @@ body{
     font-family:courier, fixed, monospace;
 }
 
+div {
+    width:50%;
+    margin-bottom:20px;
+}
 
 .positive{
     background-color:#61D088;
