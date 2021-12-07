@@ -1,13 +1,16 @@
 body{
+    color:white;
+    background-color:black;
     font-family:courier, fixed, monospace;
 }
+
 
 .positive{
     background-color:#61D088;
 } 
 
 .negative{
-    background-color:#E1ECE3;
+    background-color:#aeb8b0;
     
 }
 
@@ -16,7 +19,7 @@ body{
 }
 
 .null{
-    background-color:#A8B2A8;
+    background-color:#5b615b;
 }
 
 .drugs{
@@ -32,7 +35,7 @@ body{
     font-weight:bold;
 } 
 .religion{
-    color:#84c2b4;
+    color:#9be8d6;
     font-weight:bold;
 } 
 .money{
