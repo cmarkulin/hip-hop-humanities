@@ -11,7 +11,6 @@ function negativeFunction() {
         for (var i = 0; i < backgrounds.length; i++) {
         backgrounds[i].style.backgroundColor = '#191414';
         backgrounds[i].style.color = 'white';
-        
      }
   }
 }
@@ -29,7 +28,6 @@ function positiveFunction() {
         for (var i = 0; i < backgrounds.length; i++) {
         backgrounds[i].style.backgroundColor = '#191414';
         backgrounds[i].style.color = 'white';
-        
      }
   }
 }
@@ -63,7 +61,7 @@ function drugsFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -81,7 +79,7 @@ function deathFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -99,7 +97,7 @@ function familyFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -117,7 +115,7 @@ function religionFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -135,7 +133,7 @@ function moneyFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -153,7 +151,7 @@ function povertyFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -171,7 +169,7 @@ function wealthFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -189,7 +187,7 @@ function violenceFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -207,7 +205,7 @@ function socialFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -225,7 +223,7 @@ function gangsFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
@@ -243,7 +241,7 @@ function ambiguousFunction() {
      }
   } else {
         for (var i = 0; i < topics.length; i++) {
-        topics[i].style.color = 'white';
+        topics[i].style.removeProperty('color');
         topics[i].style.fontWeight = 'normal';
         
      }
