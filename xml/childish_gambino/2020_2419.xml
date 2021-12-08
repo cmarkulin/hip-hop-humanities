@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>

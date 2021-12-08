@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -8,7 +8,7 @@
         <album>Long. Live. ASAP</album>
         <trackNumber>6</trackNumber>
     </metadata>
-    <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+    <intro vocals="ASAP Rocky" mood="ambiguous" tone="null">
         <line>Ahh, pain</line>
         <line>Ahh, pain</line>
         <line>Ahh, pain</line>

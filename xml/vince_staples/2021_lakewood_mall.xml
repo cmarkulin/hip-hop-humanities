@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -8,7 +8,7 @@
         <album>Vince Staples</album>
         <trackNumber>9</trackNumber>
     </metadata>
-<verse vocals="TYSON" mood="ambiguous" tone="neutral">
+<verse vocals="TYSON" mood="null" tone="null">
 <line>Nigga met this nigga at the McDonald's at Lakewood Mall</line>
 <line>This nigga like, randomly, like, "Bro, I got the Blue L.A.'s for your .38 Derringer"</line>
 <line>Mind you nigga, this a— this a— you feel me?</line>

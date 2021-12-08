@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>
@@ -108,7 +108,7 @@
         <line>I'ma show y'all how to move like this</line>
         <line>I'ma show y'all that a move ain't, woo</line>
     </chorus>
-    <outro vocals="Childish Gambino" mood="ambiguous" tone="positive">
+    <outro vocals="Childish Gambino" mood="sad" tone="positive">
         <line>Uoy ssim I</line>
         <line>Uoy tuohtiw ereh m'I yhw wonk t'nod I oS</line>
         <line>Did uoy sselnu maws reven I</line>

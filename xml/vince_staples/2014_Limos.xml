@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -8,7 +8,7 @@
         <album>Hell Can Wait</album>
         <trackNumber>6</trackNumber>
     </metadata>
-    <intro vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+    <intro vocals="Teyana Taylor" mood="null" tone="positive">
         <line>I can love you</line>
         <line>I can love you</line>
         <line>I can love you</line>
@@ -30,7 +30,7 @@
         <line>Bastard child often lost in the story</line>
         <line>Sad and unfortunate, but the game's to win</line>
     </verse>
-    <bridge vocals="Vince Staples" mood="ambiguous" tone="neutral">
+    <bridge vocals="Vince Staples" mood="anxious" tone="neutral">
         <line>Say you love her, you losin'</line>
         <line>She don’t want him involved</line>
         <line>Keep your heart in your chest</line>
@@ -66,7 +66,7 @@
         <line>Young, dumb, and depraved, heart numb from the pain</line>
         <line>Eyes strain from the tears, yeah, she stuck in her ways</line>
     </verse>
-    <bridge vocals="Vince Staples" mood="ambiguous" tone="neutral">
+    <bridge vocals="Vince Staples" mood="anxious" tone="neutral">
         <line>Say you love her, you losin'</line>
         <line>She don’t want him involved</line>
         <line>Keep your heart in your chest</line>
@@ -76,13 +76,13 @@
         <line>Fall in love and get lost</line>
         <line>Fall in love and get lost</line>
     </bridge>
-    <chorus vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+    <chorus vocals="Teyana Taylor" mood="null" tone="positive">
         <line>I can love you (I can love you)</line>
         <line>I can love you (I can love you)</line>
         <line>I can love you (I can love you)</line>
         <line>I can love you better</line>
     </chorus>
-    <outro vocals="Teyana Taylor" mood="ambiguous" tone="positive">
+    <outro vocals="Teyana Taylor" mood="null" tone="positive">
         <line>I can love you</line>
         <line>I can love you better</line>
         <line>I can love you</line>

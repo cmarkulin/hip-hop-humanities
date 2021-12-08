@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -8,7 +8,7 @@
         <album>Testing</album>
         <trackNumber>6</trackNumber>
     </metadata>
-    <verse vocals="Scarface" mood="ambiguous" tone="neutral">
+    <verse vocals="Scarface" mood="ambiguous" tone="null">
         <line>"Mo—money and the power, money and the power"</line>
     </verse>
     <chorus vocals="A$AP Rocky &amp; Dean Blunt" mood="ambiguous" tone="neutral">
@@ -44,7 +44,7 @@
         <line>You ready right now?</line>
         <line>Yeah, I'm ready, got you on speaker</line>
     </verse>
-    <verse vocals="A$AP Rocky &amp; Kodak Black" mood="sad" tone="negative">
+    <verse vocals="A$AP Rocky &amp; Kodak Black" mood="sad" tone="null">
         <line>All the pain I went through</line>
         <line>Turned to a singer</line>
         <line>I put it all on my tattoos</line>

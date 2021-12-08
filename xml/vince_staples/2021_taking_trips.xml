@@ -1,5 +1,4 @@
-
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -8,7 +7,7 @@
         <album>Vince Staples</album>
         <trackNumber>5</trackNumber>
     </metadata>
-    <intro vocals="Vince Staples" mood="ambiguous" tone="neutral">
+    <intro vocals="Vince Staples" mood="null" tone="null">
         <line>Yeah, ugh, ugh</line>
         <line>Trippin' <background>Yeah</background>, trippin' <background>Ugh,
                 trippin'</background></line>
@@ -31,7 +30,7 @@
         <line>Bounce out on 'em on Artesia, now we got amnesia <background>Yeah, likе, "Where you
                 from, cuz?"</background></line>
     </verse>
-    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+    <chorus vocals="Vince Staples" mood="null" tone="null">
         <line>Trippin', yeah <background>Yеah</background></line>
         <line>Trippin', yeah <background>Trippin'</background></line>
         <line>Trippin' <background>Trippin', huh, yeah</background></line>
@@ -82,7 +81,7 @@
                     lie</background></line>
         </topic>
     </verse>
-    <chorus vocals="Vince Staples" mood="ambiguous" tone="neutral">
+    <chorus vocals="Vince Staples" mood="null" tone="null">
         <line>Trippin', yeah <background>Yeah</background></line>
         <line>Trippin', yeah <background>Trippin'</background></line>
         <line>Trippin' <background>Trippin', huh, yeah</background></line>

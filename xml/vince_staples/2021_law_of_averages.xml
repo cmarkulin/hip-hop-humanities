@@ -1,4 +1,5 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -8,7 +9,7 @@
         <album>Vince Staples</album>
         <trackNumber>2</trackNumber>
     </metadata>
-    <intro vocals="reske" mood="ambiguous" tone="neutral">
+    <intro vocals="reske" mood="anxious" tone="neutral">
         <line>You the only—</line>
         <line>The story of my life started out</line>
         <line>Lately, you the only one I can tell</line>

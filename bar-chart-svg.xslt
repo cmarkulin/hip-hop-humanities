@@ -16,18 +16,25 @@
                 <text x="35" y="120" test-size="smaller" text-anchor="middle">Positive</text>
                 <text x="103" y="120" text-anchor="middle" test-size="smaller">Negative</text>
                 <text x="170" y="120" text-anchor="middle" test-size="smaller">Neutral</text>
+                    <xsl:for-each select="title">
+                        <text x="100" y="145" text-anchor="middle" font-size="smaller"/>
+                    </xsl:for-each>
                 <xsl:apply-templates select="song"/>
             </g>
         </svg>
     </xsl:template>
     <xsl:template match="song">
         <xsl:variable name="pos" select="count(verse[@tone='positive'])"/>
+        <xsl:variable name="chPos" select="count(chorus[@tone='positive'])"/>
+        <xsl:variable name="brPos" select="count(bridge[@tone='positive'])"/>
         <xsl:variable name="neg" select="count(verse[@tone='negative'])"/>
+        <xsl:variable name="chNeg" select="count(chorus[@tone='negative'])"/>
+        <xsl:variable name="brNeg" select="count(bridge[@tone='negative'])"/>
         <xsl:variable name="neut" select="count(verse[@tone='neutral'])"/>
         <xsl:variable name="chNeut" select="count(chorus[@tone='neutral'])"/>
         <xsl:variable name="brNeut" select="count(bridge[@tone='neutral'])"/>
-        <rect x="0" y="{100 - $pos}" width="40" height="{$pos * 10}" fill="red" stroke="black"/>
-        <rect x="75" y="{100 - $neg*10}" width="40" height="{$neg * 10}" fill="blue" stroke="black"/>
+        <rect x="12" y="{100 - ($pos + $chPos + $brPos)*10}" width="40" height="{($pos + $chPos + $brPos) * 10}" fill="red" stroke="black"/>
+        <rect x="75" y="{100 - ($neg + $chNeg + $brNeg)*10}" width="40" height="{($neg + $chNeg + $brNeg) * 10}" fill="blue" stroke="black"/>
         <rect x="145" y="{100 - ($neut + $chNeut + $brNeut)*10}" width="40" height="{($neut + $chNeut + $brNeut) * 10}" fill="green" stroke="black"/>
     </xsl:template>
 </xsl:stylesheet>

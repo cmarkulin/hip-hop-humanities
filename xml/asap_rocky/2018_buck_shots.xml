@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>ASAP Rocky</artist>
@@ -8,7 +8,7 @@
         <album>Testing</album>
         <trackNumber>7</trackNumber>
     </metadata>
-    <intro vocals="ASAP Rocky" mood="ambiguous" tone="neutral">
+    <intro vocals="ASAP Rocky" mood="confident" tone="neutral">
         <line>I ain't scared, uh</line>
         <line>Real niggas put the clip in and let it go, uh</line>
         <line>Real niggas wanna run real, uh</line>
@@ -82,7 +82,7 @@
         </topic>
         <line>Watch me pull up to the scene, nigga T'd up, oh yeah</line>
     </verse>
-    <outro vocals="Kelvin Krash" mood="ambiguous" tone="neutral">
+    <outro vocals="Kelvin Krash" mood="ambiguous" tone="null">
         <line>Buckshot</line>
         <line>Buckshot</line>
         <line>Buckshot</line>

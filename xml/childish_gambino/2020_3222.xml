@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Childish Gambino</artist>
@@ -74,7 +74,7 @@
         <line>More fire, more fire</line>
         <line>Woo <background>Ooh, ah</background></line>
     </bridge>
-    <outro vocals="Childish Gambino" mood="ambiguous" tone="neutral">
+    <outro vocals="Childish Gambino" mood="null" tone="null">
         <line>Ayy, yup, ayy, yup</line>
         <line>Ayy-ayy, yeah, yeah</line>
         <line>Ayy, yeah, yeah</line>

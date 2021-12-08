@@ -1,4 +1,4 @@
-<?xml-model href="../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../hip-hop-humanities/relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
         <artist>Vince Staples</artist>
@@ -8,13 +8,13 @@
         <album>Vince Staples</album>
         <trackNumber>7</trackNumber>
     </metadata>
-    <intro vocals="Fousheé" mood="ambiguous" tone="neutral">
+    <intro vocals="Fousheé" mood="null" tone="null">
         <line>(One, two, three, four) Yeah</line>
         <line>Yeah</line>
         <line>Yeah, yeah</line>
         <line>Three, four, one, two</line>
     </intro>
-    <verse vocals="Vince Staples" mood="" tone="">
+    <verse vocals="Vince Staples" mood="anxious" tone="negative">
         <line>I don't wanna die, but I will for the cause (Dead homies)</line>
         <line>Swallowing my pride like them pills y'all be off (Hell nah, yeah)</line>
         <topic type="drugs"><line>I hate when you high, but you hate feeling lost (Where we at with it?)</line></topic>
@@ -51,7 +51,7 @@
         <line>I'm the only one who made it out—you remember me?</line>
         <line>Is you a frenemy? You plan on killing me? No?</line>
     </verse>
-    <chorus vocals="Fousheé" mood="" tone="">
+    <chorus vocals="Fousheé" mood="apathetic" tone="neutral">
         <line>Ooh (Alright, alright)</line>
         <line>Take, take me home like I clicked my shoes (Aw yeah, aw yeah)</line>
         <line>I'm up, the price is sky-high (Sky-high)</line>
