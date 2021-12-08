@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <track>12</track>
         <artist>Tyler the Creator</artist>
         <year>2011</year>
         <title>BSD</title>
         <featuredArtist>Jasper Taco</featuredArtist>
         <album>Goblin</album>
+        <trackNumber>12</trackNumber>
     </metadata>
     <intro vocals="Jasper" mood="ambiguous" tone="neutral">
 <line>Oh, shit (Swag)</line>

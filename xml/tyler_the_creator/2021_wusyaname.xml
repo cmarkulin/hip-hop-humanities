@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>4</track>
         <artist>Tyler the Creator</artist>
         <year>2021</year>
         <title>Wusyaname</title>
         <featuredArtist/>
         <album>Call Me If You Get Lost</album>
+        <trackNumber>4</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator Ty_Dolla_$ign DJ_Drama" mood="ambiguous" tone="neutral">
         <line>Something real, yeah</line>

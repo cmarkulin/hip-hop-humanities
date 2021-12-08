@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>7</track>
         <artist>Tyler the Creator</artist>
         <year>2011</year>
         <title>Tron Cat</title>
         <featuredArtist/>
         <album>Goblin</album>
+        <trackNumber>7</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator" mood="ambiguous" tone="neutral">
         <line>La, la, la, la, la, la, la</line>

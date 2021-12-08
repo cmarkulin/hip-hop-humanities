@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>15</track>
         <artist>Kid Cudi</artist>
         <year>2020</year>
         <title>The Pale Mooonlight</title>
         <featuredArtist></featuredArtist>
         <album>Man on the Moon III: The Chosen</album>
+        <trackNumber>15</trackNumber>
     </metadata>
     <verse vocals="kid_cudi" mood="hopeful" tone="neutral">
         <line>Hit me up, give no fucks</line>

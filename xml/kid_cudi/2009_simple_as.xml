@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>3</track>
         <artist>Kid Cudi</artist>
         <year>2009</year>
         <title>Simple As</title>
         <featuredArtist></featuredArtist>
         <album>Man on the Moon III: The End of Day</album>
+        <trackNumber>3</trackNumber>
     </metadata>
     <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
         <line>A-B-C, A-B-C, A-B-C, A-B-C</line>

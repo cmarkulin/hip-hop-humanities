@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>13</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Moon</title>
         <featuredArtist>Don Toliver Kid Cudi</featuredArtist>
         <album>Donda</album>
+        <trackNumber>13</trackNumber>
     </metadata>
     <chorus vocals="Don Toliver" mood="null" tone="null">
         <line>I wanna go to the moon, don't leave so soon <background>Don't leave so

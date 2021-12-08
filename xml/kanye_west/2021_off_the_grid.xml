@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>4</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Off the Grid</title>
         <featuredArtist>Playboi Carti Fivio Foreign</featuredArtist>
         <album>Donda</album>
+        <trackNumber>4</trackNumber>
     </metadata>
 <intro vocals="Kanye_West Playboi_Carti" mood="null" tone="null">
 <line>What? Yeah</line>

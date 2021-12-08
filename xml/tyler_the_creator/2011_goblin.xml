@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-        <track>1</track>
         <artist>Tyler the Creator</artist>
         <year>2011</year>
         <title>Goblin</title>
         <featuredArtist/>
         <album>Goblin</album>
+        <trackNumber>1</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator" mood="anxious" tone="negative">
 <line>You wouldn't do that Tyler, kill yourself or anyone. You don't even have the balls to begin with. What you need is me, someone to talk to, uh, it's been a while since our last session. So, tell me what's been going on</line>
@@ -30,13 +30,13 @@
 <line>Bastard intro, how the fuck I'm gonna top that?</line>
     </verse>
 
-    <interlude vocals="Tyler_the_Creator" mood="angry" tone="negative">
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
 <line>"Tyler, you'll top it, you'll top that, you're a very capable individual"</line>
 <line>"Okay, you guys caught me, I'm not a fucking rapist or serial killer, I lied"</line>
 <line>"You know, you just want attention, you'll be fine"</line>
 <line>"I try too hard, huh?"</line>
 <line>"No, you don't"</line>
-    </interlude>
+    </verse>
     <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
         <topic type="wealth"><line>Made a couple thou' and I just don't know what to buy yet</line></topic>
 <line>The 'preme shit is free and I don't drink, so fuck a wine set</line>
@@ -56,7 +56,7 @@
 <line>Let me bust one in they mouth, I know they full of flavor</line>
     </verse>
 
-    <interlude vocals="Tyler_the_Creator" mood="angry" tone="negative">
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
 <line>"Can't they just be happy for me like, a kid with nothing, living out his dreams? Why they got to fucking hate?"</line>
 <line>"I think everyone's happy, everyone's immature, everyone loves you Tyler, you have to believe that."</line>
 <line>"I don't even skate anymore, I'm too fucking busy, I can barely kickflip now."</line>
@@ -64,7 +64,7 @@
 <line>"What the fuck you mean I'm not talented? You see the shit that I've been doing?"</line>
 <line>"I have, I mean you're a great person."</line>
 <line>"I mean, I'm not that great of a rapper but as a whole, I'm pretty cool, right?"</line>
-    </interlude>
+    </verse>
     <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
 <line>People excited, thinking shit is so tight (For what?)</line>
 <line>Getting co-signs from rappers that I don't even like</line>
@@ -84,7 +84,7 @@
 <line>I'm not weird, you're just a faggot, shame on him</line>
     </verse>
 
-    <interlude vocals="Tyler_the_Creator" mood="angry" tone="negative">
+    <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
 <line>"It is, but Tyler, you're going to have to cut down on that "faggot" word, that's very, that's a bad...</line>
 <line>"I'm not homophobic."</line>
 <line>"I mean, I don't think you are but..."</line>
@@ -95,7 +95,7 @@
 <line>"Who doesn't have ADD..? Well, I don't."</line>
 <line>"I mean, sometimes, you just say really outlandish things and we just want to know, what's the problem for this?"</line>
 <line>"I wish Thebe was here."</line>
-    </interlude>
+    </verse>
     <verse vocals="Tyler_the_Creator" mood="angry" tone="negative">
 <line>Therapy's been sinning and niggas getting offended</line>
 <line>They don't want to fuck with me cause I do not fuck with religion</line>

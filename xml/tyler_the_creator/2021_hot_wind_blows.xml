@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>6</track>
         <artist>Tyler the Creator</artist>
         <year>2021</year>
         <title>Hot Wind Blows</title>
         <featuredArtist/>
         <album>Call Me If You Get Lost</album>
+        <trackNumber>6</trackNumber>
     </metadata>
     <intro vocals="DJ_Drama" mood="ambiguous" tone="neutral">
 <line>Ladies and gentlemen</line>

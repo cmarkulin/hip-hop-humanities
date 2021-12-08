@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>14</track>
         <artist>Kid Cudi</artist>
         <year>2009</year>
         <title>Hyyerr</title>
         <featuredArtist>Chip Tha Ripper</featuredArtist>
         <album>Man on the Moon III: The End of Day</album>
+        <trackNumber>14</trackNumber>
     </metadata>
     <intro vocals="kid_cudi chip_tha_ripper" mood="ambiguous" tone="neutral">
         <line>Easy, ahh</line>

@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>16</track>
         <artist>Kid Cudi</artist>
         <year>2020</year>
         <title>Rockstar Knights</title>
         <featuredArtist>Trippie Redd</featuredArtist>
         <album>Man on the Moon III: The Chosen</album>
+        <trackNumber>16</trackNumber>
     </metadata>
     <intro vocals="kid_cudi trippie_redd" mood="confident" tone="neutral">
         <line>I've been tellin' these niggas</line>
