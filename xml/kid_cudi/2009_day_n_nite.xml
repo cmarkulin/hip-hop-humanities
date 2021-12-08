@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>7</track>
         <artist>Kid Cudi</artist>
         <year>2009</year>
         <title>Day n Nite</title>
         <featuredArtist></featuredArtist>
         <album>Man on the Moon III: The End of Day</album>
+        <trackNumber>7</trackNumber>
     </metadata>
     <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
         <line>Uh, uh, uh, uh</line>

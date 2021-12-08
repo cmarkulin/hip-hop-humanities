@@ -4,7 +4,6 @@
     version="3.0">
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" include-content-type="no"
         indent="yes"/>
-    <xsl:variable name="docs" select="collection(../xml/descendant::*)"/>
     <xsl:template match="/">
         <html>
             <head>
@@ -13,7 +12,7 @@
             </head>
             <body>
                 <section>
-                    <xsl:apply-templates select="$docs//song/*[not(self::metadata)]"/>
+                    <xsl:apply-templates select="//song/*[not(self::metadata)]"/>
                 </section>
             </body>
         </html>

@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>5</track>
         <artist>Tyler the Creator</artist>
         <year>2021</year>
         <title>Lumberjack</title>
         <featuredArtist>DJ Drama</featuredArtist>
         <album>Call Me If You Get Lost</album>
+        <trackNumber>5</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator DJ_Drama" mood="hopeful" tone="positive">
         <topic type="wealth"><line>Rolls-Royce pull up, Black boy hop out</line></topic>

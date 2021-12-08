@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>14</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Heaven and Hell</title>
         <featuredArtist>20th Century Steel Band</featuredArtist>
         <album>Donda</album>
+        <trackNumber>14</trackNumber>
     </metadata>
 <intro vocals="20th Century Steel Band" mood="cynical" tone="negative">
 <line>Children growing, women producing</line>

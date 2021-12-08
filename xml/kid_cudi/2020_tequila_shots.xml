@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>2</track>
         <artist>Kid Cudi</artist>
         <year>2020</year>
         <title>Tequila Shots</title>
         <featuredArtist></featuredArtist>
         <album>Man on the Moon III: The Chosen</album>
+        <trackNumber>2</trackNumber>
     </metadata>
     <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
         <line>Duh-duh-duh, duh, duh, duh</line>

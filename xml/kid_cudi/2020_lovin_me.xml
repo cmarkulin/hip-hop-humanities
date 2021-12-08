@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>14</track>
         <artist>Kid Cudi</artist>
         <year>2020</year>
         <title>Lovin Me</title>
         <featuredArtist>Phoebe Bridgers</featuredArtist>
         <album>Man on the Moon III: The Chosen</album>
+        <trackNumber>14</trackNumber>
     </metadata>
     <intro vocals="kid_cudi" mood="ambiguous" tone="neutral">
         <line>Yo</line>

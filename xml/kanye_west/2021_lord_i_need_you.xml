@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>20</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Lord I Need You</title>
         <featuredArtist/>
         <album>Donda</album>
+        <trackNumber>20</trackNumber>
     </metadata>
     <chorus vocals="Kanye West" mood="sad" tone="negative">
         <topic type="religion">

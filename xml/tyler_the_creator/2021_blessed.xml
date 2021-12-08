@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>13</track>
         <artist>Tyler the Creator</artist>
         <year>2021</year>
         <title>Blessed</title>
         <featuredArtist>DJ_Drama DAISY_WORLD Louisa_Whitman</featuredArtist>
         <album>Call Me If You Get Lost</album>
+        <trackNumber>13</trackNumber>
     </metadata>
     <intro vocals="DJ_Drama Louisa_Whitman" mood="ambiguous" tone="neutral">
         <line>"Mom, get 'em," shut yo' ass up</line>

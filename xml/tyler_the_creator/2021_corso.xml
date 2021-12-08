@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>2</track>
         <artist>Tyler the Creator</artist>
         <year>2021</year>
         <title>Corso</title>
         <featuredArtist>DJ Drama</featuredArtist>
         <album>Call Me If You Get Lost</album>
+        <trackNumber>2</trackNumber>
     </metadata>
     <intro vocals="Tyler_the_Creator DJ_Drama" mood="confident" tone="positive">
 <line>You see (Uh)</line>

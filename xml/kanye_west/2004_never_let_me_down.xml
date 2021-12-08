@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>8</track>
         <artist>Kanye West</artist>
         <year>2004</year>
         <title>Never Let Me Down</title>
         <featuredArtist>Jay-Z J. Ivy</featuredArtist>
         <album>The College Dropout</album>
+        <trackNumber>8</trackNumber>
     </metadata>
     <chorus vocals="?" mood="null" tone="null">
         <line>When it comes to being true, at least true to me</line>

@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>17</track>
         <artist>Kanye West</artist>
         <year>2021</year>
         <title>Jesus Lord</title>
         <featuredArtist>Jay Electronica</featuredArtist>
         <album>Donda</album>
+        <trackNumber>17</trackNumber>
     </metadata>
     <chorus vocals="Kanye West" mood="sad" tone="negative">
         <topic type="religion">

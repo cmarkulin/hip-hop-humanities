@@ -1,12 +1,12 @@
 <?xml-model href="../../relax_ng.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
     <metadata>
-    <track>4</track>
         <artist>Kanye West</artist>
         <year>2004</year>
         <title>All Falls Down</title>
         <featuredArtist>Syleena Johnson</featuredArtist>
         <album>The College Dropout</album>
+        <trackNumber>4</trackNumber>
     </metadata>
     <intro vocals="Kanye West" mood="energetic" tone="neutral">
         <line>I hear you, I hear you, L-Boogie</line>
