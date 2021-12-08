@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/2000/svg"
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" indent="yes"/>
@@ -33,8 +33,8 @@
         <xsl:variable name="neut" select="count(verse[@tone='neutral'])"/>
         <xsl:variable name="chNeut" select="count(chorus[@tone='neutral'])"/>
         <xsl:variable name="brNeut" select="count(bridge[@tone='neutral'])"/>
-        <rect x="12" y="{100 - ($pos + $chPos + $brPos)*10}" width="40" height="{($pos + $chPos + $brPos) * 10}" fill="red" stroke="black"/>
-        <rect x="75" y="{100 - ($neg + $chNeg + $brNeg)*10}" width="40" height="{($neg + $chNeg + $brNeg) * 10}" fill="blue" stroke="black"/>
-        <rect x="145" y="{100 - ($neut + $chNeut + $brNeut)*10}" width="40" height="{($neut + $chNeut + $brNeut) * 10}" fill="green" stroke="black"/>
+        <rect x="12" y="{100 - ($pos + $chPos + $brPos)*10}" width="40" height="{($pos + $chPos + $brPos) * 10}" fill="#61D088" stroke="black"/>
+        <rect x="75" y="{100 - ($neg + $chNeg + $brNeg)*10}" width="40" height="{($neg + $chNeg + $brNeg) * 10}" fill="#aeb8b0" stroke="black"/>
+        <rect x="145" y="{100 - ($neut + $chNeut + $brNeut)*10}" width="40" height="{($neut + $chNeut + $brNeut) * 10}" fill="#457E59" stroke="black"/>
     </xsl:template>
 </xsl:stylesheet>
