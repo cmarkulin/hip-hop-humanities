@@ -1,3 +1,13 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.underline{
+    text-decoration: underline;
+}
 
 body {
     background-color: #191414;
