@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
+   <g transform="translate(150, 0)">
+      <rect x="-120" y="30" height="20" width="120" fill="pink"/>
+      <rect x="0" y="30" height="20" width="50" fill="lightblue"/>
+      <text x="50" y="45">drugs</text>
+      <rect x="-10" y="60" height="20" width="10" fill="pink"/>
+      <rect x="0" y="60" height="20" width="10" fill="lightblue"/>
+      <text x="50" y="75">family</text>
+      <rect x="-0" y="90" height="20" width="0" fill="pink"/>
+      <rect x="0" y="90" height="20" width="20" fill="lightblue"/>
+      <text x="50" y="105">violence</text>
+      <rect x="-0" y="120" height="20" width="0" fill="pink"/>
+      <rect x="0" y="120" height="20" width="10" fill="lightblue"/>
+      <text x="50" y="135">wealth</text>
+   </g>
+</svg>
