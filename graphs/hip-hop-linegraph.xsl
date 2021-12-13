@@ -71,7 +71,8 @@
         <xsl:variable name="socialCount" select="count((intro | verse | chorus | outro)/topic[@type='social_issues'])"/>
         <xsl:variable name="gangsCount" select="count((intro | verse | chorus | outro)/topic[@type='gangs'])"/>
         <xsl:variable name="ambigCount" select="count((intro | verse | chorus | outro)/topic[@type='ambiguous'])"/>
-        <polyline
+        <xsl:if test="//metadata/year &lt;= 2014">        
+            <polyline
             fill="none"
             stroke="#61D088"
             stroke-width="3"
@@ -87,7 +88,9 @@
             695,{$socialCount *-10}
             790,{$gangsCount *-10}
             880,{$ambigCount *-10}"/>
+        </xsl:if>
         
+        <xsl:if test="//metadata/year &gt;= 2017">
         <!--Newer Album-->
         <polyline
             fill="none"
@@ -105,6 +108,6 @@
             695,{$socialCount *-10}
             790,{$gangsCount *-10}
             880,{$ambigCount *-10}"/>
-        
+        </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
