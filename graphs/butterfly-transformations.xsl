@@ -25,7 +25,7 @@
     <hip:artists>
       <xsl:for-each select="$all_artists">
         <hip:artist name="{current()}">
-          <xsl:sequence select="collection('../xml/' || current())/*"/>
+          <xsl:sequence select="collection('../xml/' || current() || '?select=*.xml')/*"/>
         </hip:artist>
       </xsl:for-each>
     </hip:artists>
