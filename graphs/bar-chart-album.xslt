@@ -39,8 +39,8 @@
         <!--<xsl:variable name="early-album" as="xs:string" select="$songs[descendant::metadata/year eq $years[1]]/following-sibling::album"/>-->
         <!--<xsl:variable name="late-album" as="xs:string" select="$songs[descendant::metadata/year eq $years[2]]/following-sibling::album"/>-->
 
-        <xsl:variable name="verse-total" as="xs:double"
-            select="count(descendant::verse | chorus | bridge)"/>
+        <!--<xsl:variable name="verse-total" as="xs:double"
+            select="count(descendant::verse | chorus | bridge)"/>-->
         <xsl:variable name="tones" as="xs:string+" select="'positive', 'negative', 'neutral'"/>
         <xsl:variable name="max-width" as="xs:double"
             select="(($bar-width + $spacing) * count($tones)) * 2"/>
@@ -62,9 +62,9 @@
                     <text x="{$max-width * .75}" y="50" text-anchor="middle">Late</text>
                     <xsl:for-each select="$tones">
                         <xsl:variable name="early-tones" as="xs:double"
-                            select="($songs[descendant::metadata/year eq $years[1]]//@tone[. eq current()] => count()) div $verse-total"/>
+                            select="($songs[descendant::metadata/year eq $years[1]]//@tone[. eq current()] => count()) div $songs[descendant::metadata/year eq $years[1]]/descendant::*[@tone ne 'null'] => count()"/>
                         <xsl:variable name="late-tones" as="xs:double"
-                            select="($songs[descendant::metadata/year eq $years[2]]//@tone[. eq current()] => count()) div $verse-total"/>
+                            select="($songs[descendant::metadata/year eq $years[2]]//@tone[. eq current()] => count()) div $songs[descendant::metadata/year eq $years[2]]/descendant::*[@tone ne 'null'] => count()"/>
                         <xsl:variable name="color" as="xs:string" select="
                                 if (current() = 'positive') then
                                     '#61D088'

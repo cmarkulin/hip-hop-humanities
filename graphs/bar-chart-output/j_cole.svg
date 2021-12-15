@@ -24,23 +24,23 @@
       <text x="225" y="100" font-size="20" text-anchor="middle">J COLE</text>
       <text x="112.5" y="50" text-anchor="middle">Early</text>
       <text x="337.5" y="50" text-anchor="middle">Late</text>
-      <rect x="0" width="50" y="-62.5" height="62.5" fill="#61D088"/>
+      <rect x="0"
+            width="50"
+            y="-53.57142857142857"
+            height="53.57142857142857"
+            fill="#61D088"/>
       <text x="25" y="20" font-size="smaller" text-anchor="middle">positive</text>
       <rect x="225" width="50" y="-0" height="0" fill="#61D088"/>
       <text x="250" y="20" font-size="smaller" text-anchor="middle">positive</text>
-      <rect x="75"
-            width="50"
-            y="-29.166666666666668"
-            height="29.166666666666668"
-            fill="#aeb8b0"/>
+      <rect x="75" width="50" y="-25" height="25" fill="#aeb8b0"/>
       <text x="100" y="20" font-size="smaller" text-anchor="middle">negative</text>
-      <rect x="300"
-            width="50"
-            y="-29.166666666666668"
-            height="29.166666666666668"
-            fill="#aeb8b0"/>
+      <rect x="300" width="50" y="-100" height="100" fill="#aeb8b0"/>
       <text x="325" y="20" font-size="smaller" text-anchor="middle">negative</text>
-      <rect x="150" width="50" y="-25" height="25" fill="#457E59"/>
+      <rect x="150"
+            width="50"
+            y="-21.428571428571427"
+            height="21.428571428571427"
+            fill="#457E59"/>
       <text x="175" y="20" font-size="smaller" text-anchor="middle">neutral</text>
       <rect x="375" width="50" y="-0" height="0" fill="#457E59"/>
       <text x="400" y="20" font-size="smaller" text-anchor="middle">neutral</text>

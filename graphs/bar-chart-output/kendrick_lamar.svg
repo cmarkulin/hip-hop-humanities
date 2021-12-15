@@ -26,34 +26,38 @@
       <text x="337.5" y="50" text-anchor="middle">Late</text>
       <rect x="0"
             width="50"
-            y="-14.705882352941178"
-            height="14.705882352941178"
+            y="-16.129032258064516"
+            height="16.129032258064516"
             fill="#61D088"/>
       <text x="25" y="20" font-size="smaller" text-anchor="middle">positive</text>
       <rect x="225"
             width="50"
-            y="-29.411764705882355"
-            height="29.411764705882355"
+            y="-32.25806451612903"
+            height="32.25806451612903"
             fill="#61D088"/>
       <text x="250" y="20" font-size="smaller" text-anchor="middle">positive</text>
-      <rect x="75" width="50" y="-50" height="50" fill="#aeb8b0"/>
+      <rect x="75"
+            width="50"
+            y="-54.83870967741935"
+            height="54.83870967741935"
+            fill="#aeb8b0"/>
       <text x="100" y="20" font-size="smaller" text-anchor="middle">negative</text>
       <rect x="300"
             width="50"
-            y="-38.23529411764706"
-            height="38.23529411764706"
+            y="-41.935483870967744"
+            height="41.935483870967744"
             fill="#aeb8b0"/>
       <text x="325" y="20" font-size="smaller" text-anchor="middle">negative</text>
       <rect x="150"
             width="50"
-            y="-26.47058823529412"
-            height="26.47058823529412"
+            y="-29.03225806451613"
+            height="29.03225806451613"
             fill="#457E59"/>
       <text x="175" y="20" font-size="smaller" text-anchor="middle">neutral</text>
       <rect x="375"
             width="50"
-            y="-23.52941176470588"
-            height="23.52941176470588"
+            y="-25.806451612903224"
+            height="25.806451612903224"
             fill="#457E59"/>
       <text x="400" y="20" font-size="smaller" text-anchor="middle">neutral</text>
       <line x1="0" x2="450" y1="0" y2="0" stroke="black"/>
