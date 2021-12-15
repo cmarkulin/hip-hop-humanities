@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+   <g transform="translate(50, 200)">
+      <line x1="0"
+            x2="450"
+            y1="-0"
+            y2="-0"
+            stroke="black"
+            stroke-dasharray="5"/>
+      <text x="-10" y="-0" text-anchor="end" font-size="smaller">0% </text>
+      <line x1="0"
+            x2="450"
+            y1="-50"
+            y2="-50"
+            stroke="black"
+            stroke-dasharray="5"/>
+      <text x="-10" y="-50" text-anchor="end" font-size="smaller">50% </text>
+      <line x1="0"
+            x2="450"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="5"/>
+      <text x="-10" y="-100" text-anchor="end" font-size="smaller">100% </text>
+      <text x="225" y="100" font-size="20" text-anchor="middle">ASAP ROCKY</text>
+      <text x="112.5" y="50" text-anchor="middle">Early</text>
+      <text x="337.5" y="50" text-anchor="middle">Late</text>
+      <rect x="0"
+            width="50"
+            y="-22.58064516129032"
+            height="22.58064516129032"
+            fill="#61D088"/>
+      <text x="25" y="20" font-size="smaller" text-anchor="middle">positive</text>
+      <rect x="225"
+            width="50"
+            y="-38.70967741935484"
+            height="38.70967741935484"
+            fill="#61D088"/>
+      <text x="250" y="20" font-size="smaller" text-anchor="middle">positive</text>
+      <rect x="75"
+            width="50"
+            y="-16.129032258064516"
+            height="16.129032258064516"
+            fill="#aeb8b0"/>
+      <text x="100" y="20" font-size="smaller" text-anchor="middle">negative</text>
+      <rect x="300"
+            width="50"
+            y="-25.806451612903224"
+            height="25.806451612903224"
+            fill="#aeb8b0"/>
+      <text x="325" y="20" font-size="smaller" text-anchor="middle">negative</text>
+      <rect x="150"
+            width="50"
+            y="-48.38709677419355"
+            height="48.38709677419355"
+            fill="#457E59"/>
+      <text x="175" y="20" font-size="smaller" text-anchor="middle">neutral</text>
+      <rect x="375"
+            width="50"
+            y="-51.61290322580645"
+            height="51.61290322580645"
+            fill="#457E59"/>
+      <text x="400" y="20" font-size="smaller" text-anchor="middle">neutral</text>
+      <line x1="0" x2="450" y1="0" y2="0" stroke="black"/>
+      <line x1="0" x2="0" y1="0" y2="-100" stroke="black"/>
+      <line x1="225" x2="225" y1="0" y2="-100" stroke="black"/>
+   </g>
+</svg>

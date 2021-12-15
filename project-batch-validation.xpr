@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/asap_rocky/</String>
+                                    <String>xml/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>line_graphs</String>
+                                        <String>hip-hop-readingview_transformation</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>xml/</String>
+                                    <String>xml/asap_rocky/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>hip-hop-readingview_transformation</String>
+                                        <String>line_graphs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
