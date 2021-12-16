@@ -1,28 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
-   <g transform="translate(150, 0)">
-      <rect x="-10" y="30" height="20" width="10" fill="pink"/>
-      <rect x="0" y="30" height="20" width="30" fill="lightblue"/>
-      <text x="50" y="45">death</text>
-      <rect x="-60" y="60" height="20" width="60" fill="pink"/>
-      <rect x="0" y="60" height="20" width="30" fill="lightblue"/>
-      <text x="50" y="75">drugs</text>
-      <rect x="-60" y="90" height="20" width="60" fill="pink"/>
-      <rect x="0" y="90" height="20" width="30" fill="lightblue"/>
-      <text x="50" y="105">family</text>
-      <rect x="-10" y="120" height="20" width="10" fill="pink"/>
-      <rect x="0" y="120" height="20" width="20" fill="lightblue"/>
-      <text x="50" y="135">money</text>
-      <rect x="-20" y="150" height="20" width="20" fill="pink"/>
-      <rect x="0" y="150" height="20" width="0" fill="lightblue"/>
-      <text x="50" y="165">poverty</text>
-      <rect x="-0" y="180" height="20" width="0" fill="pink"/>
-      <rect x="0" y="180" height="20" width="100" fill="lightblue"/>
-      <text x="50" y="195">religion</text>
-      <rect x="-10" y="210" height="20" width="10" fill="pink"/>
-      <rect x="0" y="210" height="20" width="0" fill="lightblue"/>
-      <text x="50" y="225">social_issues</text>
-      <rect x="-50" y="240" height="20" width="50" fill="pink"/>
-      <rect x="0" y="240" height="20" width="0" fill="lightblue"/>
-      <text x="50" y="255">wealth</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1000">
+   <g transform="translate(200, 600)">
+      <polyline fill="none"
+                stroke="#aeb8b0"
+                stroke-width="3"
+                opacity="0.3"
+                points="                                     30, -220                                     110, -220                                     190,-220                                     270,-220                                     350,-220                                     430,-220                                     510,-220                                     590,-220                                     695,-220                                     790,-220                                     880,-220"/>
+      <polyline fill="none"
+                stroke="#61D088"
+                stroke-width="3"
+                opacity="0.3"
+                points="                                     30, -210                                     110, -210                                     190,-210                                     270,-210                                     350,-210                                     430,-210                                     510,-210                                     590,-210                                     695,-210                                     790,-210                                     880,-210"/>
+      <line x1="0" x2="13.333333333333334" y1="0" y2="0" stroke="black"/>
+      <line x1="0" x2="0" y1="0" y2="-500" stroke="black"/>
+      <text x="450"
+            y="-530"
+            text-anchor="middle"
+            text-decoration="underline">KANYE_WEST's Topic Progression Overtime</text>
+      <text x="450" y="80" text-anchor="middle">Topics</text>
+      <text x="200" y="50" transform=" translate(-120,10) rotate(270)"># Of
+                        Mentions</text>
+      <text x="30" y="30" text-anchor="middle">Drugs</text>
+      <text x="110" y="30" text-anchor="middle">Death</text>
+      <text x="190" y="30" text-anchor="middle">Family</text>
+      <text x="270" y="30" text-anchor="middle">Religion</text>
+      <text x="350" y="30" text-anchor="middle">Money</text>
+      <text x="430" y="30" text-anchor="middle">Poverty</text>
+      <text x="510" y="30" text-anchor="middle">Wealth</text>
+      <text x="590" y="30" text-anchor="middle">Violence</text>
+      <text x="695" y="30" text-anchor="middle">Social Issues</text>
+      <text x="790" y="30" text-anchor="middle">Gangs</text>
+      <text x="880" y="30" text-anchor="middle">Ambiguous</text>
+      <text x="-15" y="5" text-anchor="middle">0</text>
+      <text x="-15" y="-50" text-anchor="middle">5</text>
+      <text x="-15" y="-100" text-anchor="middle">10</text>
+      <text x="-15" y="-150" text-anchor="middle">15</text>
+      <text x="-15" y="-200" text-anchor="middle">20</text>
+      <text x="-15" y="-250" text-anchor="middle">25</text>
+      <text x="-15" y="-300" text-anchor="middle">30</text>
+      <text x="-15" y="-350" text-anchor="middle">35</text>
+      <text x="-15" y="-400" text-anchor="middle">40</text>
+      <text x="-15" y="-450" text-anchor="middle">45</text>
+      <text x="-15" y="-498" text-anchor="middle">50</text>
+      <text x="970" y="-355" text-anchor="middle" font-size="12">Later Album
+                        -</text>
+      <text x="970" y="-300" text-anchor="middle" font-size="12">Newer Album
+                        -</text>
+      <circle cx="1030" cy="-359" r="4" fill="#61D088"/>
+      <circle cx="1030" cy="-303" r="4" fill="#aeb8b0"/>
    </g>
 </svg>
