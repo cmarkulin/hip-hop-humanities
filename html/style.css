@@ -113,6 +113,16 @@ justify-content: space-evenly;
     justify-content: space-evenly;
   }
   
+.result{
+    border: solid;
+    border-color: #242424;
+    border-width: 1px;
+}
+ /* change color of svg elements to white */
+text{
+    fill: white;
+}
+  
   /* Fade animation styling below. */
 
 .fade {
