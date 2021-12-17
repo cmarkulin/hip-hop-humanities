@@ -121,7 +121,7 @@
                     <line x1="0" x2="0" y1="0" y2="-{$max-height -170}" stroke="black"/>
                     
                     <!--Graph Labels-->
-                    <text x="450" y="-530" text-anchor="middle" text-decoration="underline"><xsl:value-of select="upper-case(@name)"/>'s Topic Progression Overtime</text>
+                    <text x="450" y="-400" text-anchor="middle" text-decoration="underline"><xsl:value-of select="upper-case(@name)"/>'s Topic Progression Overtime</text>
                     <text x="450" y="80" text-anchor="middle">Topics</text>
                     <text x="200" y="50" transform=" translate(-120,10) rotate(270)"># Of
                         Mentions</text>
