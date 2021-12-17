@@ -11,9 +11,9 @@
                 opacity="0.5"
                 points="                                     30, -10                                     110, 0                                     190,0                                     270,-10                                     350,-30                                     430,-20                                     510,0                                     590,-70                                     695,0                                     790,-20                                     880,0"/>
       <line x1="0" x2="866.6666666666666" y1="0" y2="0" stroke="black"/>
-      <line x1="0" x2="0" y1="0" y2="-500" stroke="black"/>
+      <line x1="0" x2="0" y1="0" y2="-330" stroke="black"/>
       <text x="450"
-            y="-530"
+            y="-400"
             text-anchor="middle"
             text-decoration="underline">VINCE_STAPLES's Topic Progression Overtime</text>
       <text x="450" y="80" text-anchor="middle">Topics</text>
@@ -37,15 +37,11 @@
       <text x="-15" y="-200" text-anchor="middle">20</text>
       <text x="-15" y="-250" text-anchor="middle">25</text>
       <text x="-15" y="-300" text-anchor="middle">30</text>
-      <text x="-15" y="-350" text-anchor="middle">35</text>
-      <text x="-15" y="-400" text-anchor="middle">40</text>
-      <text x="-15" y="-450" text-anchor="middle">45</text>
-      <text x="-15" y="-498" text-anchor="middle">50</text>
       <text x="970" y="-355" text-anchor="middle" font-size="12">Later Album
                         -</text>
       <text x="970" y="-300" text-anchor="middle" font-size="12">Newer Album
                         -</text>
-      <circle cx="1030" cy="-359" r="4" fill="#61D088"/>
-      <circle cx="1030" cy="-303" r="4" fill="#aeb8b0"/>
+      <circle cx="1030" cy="-359" r="4" fill="#61D088" opacity="0.5"/>
+      <circle cx="1030" cy="-303" r="4" fill="#aeb8b0" opacity="0.5"/>
    </g>
 </svg>

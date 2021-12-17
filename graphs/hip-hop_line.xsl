@@ -118,7 +118,7 @@
                     
                     <!--X and Y axis-->
                     <line x1="0" x2="{$max-width div 15}" y1="0" y2="0" stroke="black"/>
-                    <line x1="0" x2="0" y1="0" y2="-{$max-height}" stroke="black"/>
+                    <line x1="0" x2="0" y1="0" y2="-{$max-height -170}" stroke="black"/>
                     
                     <!--Graph Labels-->
                     <text x="450" y="-530" text-anchor="middle" text-decoration="underline"><xsl:value-of select="upper-case(@name)"/>'s Topic Progression Overtime</text>
@@ -147,10 +147,6 @@
                     <text x="-15" y="-200" text-anchor="middle">20</text>
                     <text x="-15" y="-250" text-anchor="middle">25</text>
                     <text x="-15" y="-300" text-anchor="middle">30</text>
-                    <text x="-15" y="-350" text-anchor="middle">35</text>
-                    <text x="-15" y="-400" text-anchor="middle">40</text>
-                    <text x="-15" y="-450" text-anchor="middle">45</text>
-                    <text x="-15" y="-498" text-anchor="middle">50</text>
                     
                     <!--Key-->
                     <text x="970" y="-355" text-anchor="middle" font-size="12">Later Album
@@ -158,8 +154,8 @@
                     <text x="970" y="-300" text-anchor="middle" font-size="12">Newer Album
                         -</text>
                     
-                    <circle cx="1030" cy="-359" r="4" fill="#61D088"/>
-                    <circle cx="1030" cy="-303" r="4" fill="#aeb8b0"/>
+                    <circle cx="1030" cy="-359" r="4" fill="#61D088" opacity="0.5"/>
+                    <circle cx="1030" cy="-303" r="4" fill="#aeb8b0" opacity="0.5"/>
                 </g>
             </svg>
         </xsl:result-document>
