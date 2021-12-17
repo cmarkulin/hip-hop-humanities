@@ -1,0 +1,3 @@
+# Process for SVG
+
+The process for the bar chart svg was a bit more complicated than anticipated. At first we were going to have a chart for each song for each artist, but that would mean we would have to fit ninety charts on a page. To fix this, we decided to make one chart per artist, comparing the tones of their early and late albums. To do this, we had to use the collection function. Camryn worked on this with Dr. Birnbaum as that in and of itself was a difficult and complicated process. Essentially, the collection function creates nine collections, which contains the lyrics for each artist we looked at. When the template is applied to hip:artist, the template runs over each artist collectively, giving us our data. 
