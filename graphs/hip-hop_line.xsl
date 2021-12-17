@@ -4,7 +4,7 @@
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     version="3.0">
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="max-width" as="xs:double" select="200"/>
+    <xsl:variable name="max-width" as="xs:double" select="100 * 130"/>
     <xsl:variable name="y-scale" as="xs:double" select="5"/>
     <xsl:variable name="max-height" as="xs:double" select="100 * $y-scale"/>
     <xsl:variable name="all_artists" as="xs:string+" select="
@@ -42,30 +42,31 @@
             omit-xml-declaration="yes" exclude-result-prefixes="#all" method="xml">
             <svg width="1300" height="1000">
                 <!--Variables to Count Earlier Album-->
-                <xsl:variable name="wealthCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['wealth'] => count()"/>
-                <xsl:variable name="drugsCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['drugs'] => count()"/>
-                <xsl:variable name="deathCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['death'] => count()"/>
-                <xsl:variable name="familyCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['family'] => count()"/>
-                <xsl:variable name="religionCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['religion'] => count()"/>
-                <xsl:variable name="moneyCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['money'] => count()"/>
-                <xsl:variable name="povertyCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['poverty'] => count()"/>
-                <xsl:variable name="violenceCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['violence'] => count()"/>
-                <xsl:variable name="socialCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['social_issues'] => count()"/>
-                <xsl:variable name="gangsCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['gangs'] => count()"/>
-                <xsl:variable name="ambigCount1" select="$songs[descendant::metadata/year eq $years[1]]//@type['ambiguous'] => count()"/>
+                <xsl:variable name="wealthCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='wealth'] => count()"/>
+                <xsl:variable name="drugsCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type= 'drugs'] => count()"/>
+                <xsl:variable name="deathCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type ='death'] => count()"/>
+                <xsl:variable name="familyCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='family'] => count()"/>
+                <xsl:variable name="religionCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='religion'] => count()"/>
+                <xsl:variable name="moneyCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='money'] => count()"/>
+                <xsl:variable name="povertyCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='poverty'] => count()"/>
+                <xsl:variable name="violenceCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='violence'] => count()"/>
+                <xsl:variable name="socialCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='social_issues'] => count()"/>
+                <xsl:variable name="gangsCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='gangs'] => count()"/>
+                <xsl:variable name="ambigCount1" select="$songs[descendant::metadata/year eq $years[1]]//topic[@type='ambiguous'] => count()"/>
 
                <!--Variables to Count Later Album-->
-                <xsl:variable name="drugsCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['drugs'] => count()"/>
-                <xsl:variable name="wealthCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['wealth'] => count()"/>
-                <xsl:variable name="deathCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['death'] => count()"/>
-                <xsl:variable name="familyCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['family'] => count()"/>
-                <xsl:variable name="religionCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['religion'] => count()"/>
-                <xsl:variable name="moneyCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['money'] => count()"/>
-                <xsl:variable name="povertyCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['poverty'] => count()"/>
-                <xsl:variable name="violenceCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['violence'] => count()"/>
-                <xsl:variable name="socialCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['social_issues'] => count()"/>
-                <xsl:variable name="gangsCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['gangs'] => count()"/>
-                <xsl:variable name="ambigCount2" select="$songs[descendant::metadata/year eq $years[2]]//@type['ambiguous'] => count()"/>
+                <xsl:variable name="wealthCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='wealth'] => count()"/>
+                <xsl:variable name="drugsCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type= 'drugs'] => count()"/>
+                <xsl:variable name="deathCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type ='death'] => count()"/>
+                <xsl:variable name="familyCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='family'] => count()"/>
+                <xsl:variable name="religionCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='religion'] => count()"/>
+                <xsl:variable name="moneyCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='money'] => count()"/>
+                <xsl:variable name="povertyCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='poverty'] => count()"/>
+                <xsl:variable name="violenceCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='violence'] => count()"/>
+                <xsl:variable name="socialCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='social_issues'] => count()"/>
+                <xsl:variable name="gangsCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='gangs'] => count()"/>
+                <xsl:variable name="ambigCount2" select="$songs[descendant::metadata/year eq $years[2]]//topic[@type='ambiguous'] => count()"/>
+                
                 <g transform="translate(200, {$max-height + 100})">
                     <xsl:variable name="years" as="xs:string+"
                         select="descendant::metadata/year => distinct-values() => sort()"/>
@@ -75,13 +76,12 @@
                         <xsl:variable name="late-year"
                             select="$songs[descendant::metadata/year eq $years[2]]"/>
                         
-                        <xsl:if test="$early-year">
                                 <!--Newer Album-->
                                 <polyline
                                     fill="none"
                                     stroke="#aeb8b0"
-                                    stroke-width="3"
-                                    opacity="0.3"
+                                    stroke-width="5"
+                                    opacity="0.5"
                                     points="
                                     30, {$drugsCount1 *-10}
                                     110, {$deathCount1 *-10}
@@ -94,14 +94,13 @@
                                     695,{$socialCount1 *-10}
                                     790,{$gangsCount1 *-10}
                                     880,{$ambigCount1 *-10}"/>
-                        </xsl:if>
-                        <xsl:if test="$late-year">
+
                                 <!--Older Album-->
                                 <polyline
                                     fill="none"
                                     stroke="#61D088"
-                                    stroke-width="3"
-                                    opacity="0.3"
+                                    stroke-width="5"
+                                    opacity="0.5"
                                     points="
                                     30, {$drugsCount2 *-10}
                                     110, {$deathCount2 *-10}
@@ -113,8 +112,8 @@
                                     590,{$violenceCount2 *-10}
                                     695,{$socialCount2 *-10}
                                     790,{$gangsCount2 *-10}
-                                    880,{$ambigCount2 *-10}"/>
-                        </xsl:if>
+                                    880,{$ambigCount2 * -10}"/>
+                        
                     </xsl:for-each>
                     
                     <!--X and Y axis-->
